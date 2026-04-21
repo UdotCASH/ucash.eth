@@ -4,6 +4,7 @@
 
 [![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/ucash.eth)
 [![Subdomains](https://img.shields.io/badge/Subdomains-136%20In%20Dev-yellow)](https://app.ens.domains/ucash.eth?tab=subnames)
+[![MultiChain](https://img.shields.io/badge/MultiChain-11%20Names-ff69b4)](https://github.com/UdotCASH/ucash.eth)
 [![Status](https://img.shields.io/badge/Status-In%20Dev-yellow)](https://etherscan.io)
 [![Network](https://img.shields.io/badge/Network-Multi%20Chain-purple)](https://etherscan.io)
 
@@ -23,9 +24,10 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 | Attribute | Value |
 |-----------|-------|
-| **ENS Name** | `ucash.eth` |
-| **Total Subdomains** | **136 Active** |
-| **Network** | Multi-Chain (Ethereum, Base, Polygon, etc.) |
+| **Primary ENS** | `ucash.eth` |
+| **Total ENS Subdomains** | **136 In Development** |
+| **Multi-Chain Names** | **11 Registered** |
+| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin |
 | **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
 
@@ -40,6 +42,58 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 - ✅ **Payment Simplification** - Send tokens to `ucash.eth` instead of addresses
 - ✅ **Developer Integration** - Easy integration with Web3 applications
 - ✅ **Decentralized Storage** - IPFS, Arweave, Swarm integration
+
+---
+
+## 🌐 Multi-Chain Name Registrations
+
+UCASH maintains consistent naming across multiple blockchain naming services beyond ENS:
+
+| Name | Network | Naming Service | Status | Notes |
+|------|---------|----------------|--------|-------|
+| `ucash.eth` | Ethereum | **ENS** (Ethereum Name Service) | 🟡 In Dev | Primary ENS with 136 subdomains |
+| `ucash.base.eth` | Base | **Base Names** (Base ENS) | 🟡 In Dev | Layer 2 ENS on Base network |
+| `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟡 In Dev | Layer 2 ENS on Linea network |
+| `ucash.arb` | Arbitrum | **SpaceID** | 🟡 In Dev | Arbitrum naming service |
+| `ucash.bnb` | BNB Chain | **SpaceID** | 🟡 In Dev | BNB Chain naming service |
+| `ucash.g` | Gitcoin | **SpaceID** | 🟡 In Dev | Gitcoin naming service |
+| `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟡 In Dev | Solana native naming |
+| `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟡 In Dev | Polygon naming |
+| `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming service |
+| `ucash.btc` | Bitcoin | **BNS.org** (Bitcoin Name Service) | 🟡 In Dev | Bitcoin Stacks naming |
+| `ucash.u` | Universal | **UD** (Unstoppable Domains) | 🟡 In Dev | Cross-chain UD name |
+
+### Naming Service Details
+
+#### Layer 2 ENS (L2 ENS)
+- **Base Names**: Native ENS on Base network
+- **Linea Names**: Native ENS on Linea network
+- Both support subdomain infrastructure similar to mainnet ENS
+
+#### SpaceID
+- Multi-chain identity protocol
+- Supports Arbitrum, BNB Chain, and other networks
+- No `.eth` suffix - uses `.arb`, `.bnb`, `.g` TLDs
+
+#### Solana Name Service (SNS)
+- Native to Solana blockchain
+- Uses `.sol` TLD
+- Point to Solana addresses
+
+#### Unstoppable Domains (UD)
+- `.polygon` - Polygon-specific domain
+- `.u` / `.crypto` - Universal cross-chain domains
+- Purchased once, owned forever (no renewal fees)
+
+#### OP Domains
+- Native to Optimism network
+- Uses `.op` TLD
+- Layer 2 naming for Optimism
+
+#### Bitcoin Name Service (BNS.org)
+- Built on Stacks blockchain
+- Uses `.btc` TLD
+- Secured by Bitcoin
 
 ---
 
@@ -385,6 +439,36 @@ const ipfs = await provider.resolveName('ipfs.ucash.eth');
 const arweave = await provider.resolveName('arweave.ucash.eth');
 ```
 
+### Resolve Multi-Chain Names
+
+```javascript
+// ENS on different networks
+const baseProvider = new ethers.JsonRpcProvider('https://mainnet.base.org');
+const lineaProvider = new ethers.JsonRpcProvider('https://rpc.linea.build');
+
+// Base ENS
+const ucashBase = await baseProvider.resolveName('ucash.base.eth');
+
+// Linea ENS
+const ucashLinea = await lineaProvider.resolveName('ucash.linea.eth');
+
+// Solana Name Service (SNS)
+import { getSolanaName } from '@solana/sns';
+const ucashSol = await getSolanaName('ucash.sol');
+
+// Unstoppable Domains (UD)
+// Resolution via UD API
+const ucashUD = await resolve('ucash.u');     // Universal
+const ucashPolygon = await resolve('ucash.polygon');  // Polygon-specific
+
+// SpaceID (Arbitrum, BNB, Gitcoin)
+const ucashArb = await resolveSpaceID('ucash.arb');
+const ucashBnb = await resolveSpaceID('ucash.bnb');
+
+// Bitcoin Name Service (BNS)
+const ucashBtc = await resolveBNS('ucash.btc');
+```
+
 ### Send to Subdomains
 
 ```javascript
@@ -403,19 +487,33 @@ await wallet.sendTransaction({
 ## ❓ FAQ
 
 **Q: How many subdomains does ucash.eth have?**
-A: **136 active subdomains** (as of 2026-04-21)
+A: **136 subdomains** currently in development (as of 2026-04-21)
+
+**Q: What multi-chain names does UCASH have registered?**
+A: UCASH has **11 blockchain name registrations** across:
+- ENS: `ucash.eth` (136 subdomains)
+- Base Names: `ucash.base.eth`
+- Linea Names: `ucash.linea.eth`
+- SpaceID: `ucash.arb`, `ucash.bnb`, `ucash.g`
+- Solana Name Service: `ucash.sol`
+- Unstoppable Domains: `ucash.polygon`, `ucash.u`
+- OP Domains: `ucash.op`
+- Bitcoin Name Service: `ucash.btc`
 
 **Q: What networks are supported?**
 A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, and Bitcoin
 
 **Q: Are all subdomains active?**
-A: Yes, all 136 subdomains are Manager-controlled and active
+A: All 136 subdomains are currently in development status
 
 **Q: What storage networks are integrated?**
 A: IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 
 **Q: How do I verify a subdomain?**
 A: Check https://app.ens.domains/ucash.eth?tab=subnames
+
+**Q: What naming services are used?**
+A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, and BNS.org (Bitcoin)
 
 ---
 
@@ -466,7 +564,7 @@ Official UCASH team will **NEVER**:
 
 <div align="center">
 
-**136 Active Subdomains • Multi-Chain Infrastructure • Batch Token Distribution**
+**136 Subdomains • 11 Multi-Chain Names • Batch Token Distribution**
 
 [Website](https://ucash.eth) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
@@ -475,5 +573,6 @@ Official UCASH team will **NEVER**:
 ---
 
 *Last Updated: 2026-04-21*
-*Total Subdomains: 136*
+*Total ENS Subdomains: 136*
+*Multi-Chain Names: 11*
 *Repository: https://github.com/UdotCASH/ucash.eth*
