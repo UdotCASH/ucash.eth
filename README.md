@@ -149,17 +149,19 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 ### 🌍 Geographic TLD Subdomains (Country Code TLDs)
 
+**Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin. These are noted below.
+
 #### Europe & Americas
 
-| Subdomain | Country/Region | Purpose | Status |
-|-----------|---------------|---------|--------|
-| `nl.ucash.eth` | Netherlands | Dutch operations | 🟢 Manager |
-| `fm.ucash.eth` | Federated States of Micronesia | FM operations | 🟢 Manager |
-| `tv.ucash.eth` | Tuvalu | TV operations | 🟢 Manager |
-| `mx.ucash.eth` | Mexico | Mexican operations | 🟢 Manager |
-| `cc.ucash.eth` | Cocos Islands | CC operations | 🟢 Manager |
-| `ar.ucash.eth` | Argentina | Argentine operations | 🟢 Manager |
-| `br.ucash.eth` | Brazil | Brazilian operations | 🟢 Manager |
+| Subdomain | Country/Region | Primary/Dual Purpose | Status |
+|-----------|---------------|-------------------|--------|
+| `nl.ucash.eth` | Netherlands | Dutch operations / "New Line" | 🟢 Manager |
+| `fm.ucash.eth` | Federated States of Micronesia | FM operations / FM Radio | 🟢 Manager |
+| `tv.ucash.eth` | Tuvalu | TV operations / Television & Streaming | 🟢 Manager |
+| `mx.ucash.eth` | Mexico | Mexican operations / Mexico | 🟢 Manager |
+| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟢 Manager |
+| `ar.ucash.eth` | Argentina | Argentine operations / Argentina | 🟢 Manager |
+| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟢 Manager |
 | `kr.ucash.eth` | South Korea | Korean operations | 🟢 Manager |
 | `ru.ucash.eth` | Russia | Russian operations | 🟢 Manager |
 | `cn.ucash.eth` | China | Chinese operations | 🟢 Manager |
@@ -179,15 +181,25 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | `mw.ucash.eth` | Malawi | Malawi operations | 🟢 Manager |
 | `in.ucash.eth` | India | Indian operations | 🟢 Manager |
 | `id.ucash.eth` | Indonesia | Indonesian operations | 🟢 Manager |
-| `ly.ucash.eth` | Libya | Libyan operations | 🟢 Manager |
-| `li.ucash.eth` | Liechtenstein | Liechtenstein operations | 🟢 Manager |
-| `me.ucash.eth` | Montenegro | Montenegrin operations | 🟢 Manager |
-| `ad.ucash.eth` | Andorra | Andorran operations | 🟢 Manager |
-| `to.ucash.eth` | Tonga | Tongan operations | 🟢 Manager |
-| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations | 🟢 Manager |
-| `co.ucash.eth` | Colombia | Colombian operations | 🟢 Manager |
-| `cv.ucash.eth` | Cape Verde | Cape Verdean operations | 🟢 Manager |
-| `ws.ucash.eth` | Samoa | Samoan operations | 🟢 Manager |
+
+#### Middle East & North Africa
+
+| Subdomain | Country/Region | Primary/Dual Purpose | Status |
+|-----------|---------------|-------------------|--------|
+| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟢 Manager |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Link** (Chinese) | 🟢 Manager |
+| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟢 Manager |
+| `ad.ucash.eth` | Andorra | Andorran operations / **Advertisement & Ads** | 🟢 Manager |
+| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟢 Manager |
+
+#### Asia-Pacific & Others
+
+| Subdomain | Country/Region | Primary/Dual Purpose | Status |
+|-----------|---------------|-------------------|--------|
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech** | 🟢 Manager |
+| `co.ucash.eth` | Colombia | Colombian operations / **Company & Commerce** | 🟢 Manager |
+| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume)** | 🟢 Manager |
+| `ws.ucash.eth` | Samoa | Samoan operations / **Web Services** | 🟢 Manager |
 
 ### 📝 Generic TLD Subdomains (gTLDs)
 
