@@ -147,12 +147,12 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | `uns.ucash.eth` | UNS | Unstoppable Domains | 🟢 Manager |
 | `linked.ucash.eth` | Linked | Linked data | 🟢 Manager |
 
-### 🌍 Geographic TLD Subdomains
+### 🌍 Geographic TLD Subdomains (Country Code TLDs)
 
-#### European Countries
+#### Europe & Americas
 
-| Subdomain | Country | Purpose | Status |
-|-----------|---------|---------|--------|
+| Subdomain | Country/Region | Purpose | Status |
+|-----------|---------------|---------|--------|
 | `nl.ucash.eth` | Netherlands | Dutch operations | 🟢 Manager |
 | `fm.ucash.eth` | Federated States of Micronesia | FM operations | 🟢 Manager |
 | `tv.ucash.eth` | Tuvalu | TV operations | 🟢 Manager |
@@ -179,34 +179,34 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | `mw.ucash.eth` | Malawi | Malawi operations | 🟢 Manager |
 | `in.ucash.eth` | India | Indian operations | 🟢 Manager |
 | `id.ucash.eth` | Indonesia | Indonesian operations | 🟢 Manager |
+| `ly.ucash.eth` | Libya | Libyan operations | 🟢 Manager |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein operations | 🟢 Manager |
+| `me.ucash.eth` | Montenegro | Montenegrin operations | 🟢 Manager |
+| `ad.ucash.eth` | Andorra | Andorran operations | 🟢 Manager |
+| `to.ucash.eth` | Tonga | Tongan operations | 🟢 Manager |
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations | 🟢 Manager |
+| `co.ucash.eth` | Colombia | Colombian operations | 🟢 Manager |
+| `cv.ucash.eth` | Cape Verde | Cape Verdean operations | 🟢 Manager |
+| `ws.ucash.eth` | Samoa | Samoan operations | 🟢 Manager |
 
-### 📝 Generic TLD Subdomains
+### 📝 Generic TLD Subdomains (gTLDs)
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `ly.ucash.eth` | Libya TLD | 🟢 Manager |
-| `li.ucash.eth` | Liechtenstein TLD | 🟢 Manager |
 | `la.ucash.eth` | Los Angeles TLD | 🟢 Manager |
-| `me.ucash.eth` | Montenegro TLD | 🟢 Manager |
 | `tld.ucash.eth` | TLD operations | 🟢 Manager |
 | `club.ucash.eth` | Club TLD | 🟢 Manager |
 | `pro.ucash.eth` | Professional TLD | 🟢 Manager |
 | `biz.ucash.eth` | Business TLD | 🟢 Manager |
 | `name.ucash.eth` | Name TLD | 🟢 Manager |
-| `ad.ucash.eth` | Advertisement TLD | 🟢 Manager |
-| `to.ucash.eth` | Tonga TLD | 🟢 Manager |
 | `vip.ucash.eth` | VIP TLD | 🟢 Manager |
 | `top.ucash.eth` | Top TLD | 🟢 Manager |
 | `tech.ucash.eth` | Technology TLD | 🟢 Manager |
 | `online.ucash.eth` | Online TLD | 🟢 Manager |
-| `io.ucash.eth` | British Indian Ocean TLD | 🟢 Manager |
-| `co.ucash.eth` | Colombia TLD | 🟢 Manager |
 | `ooo.ucash.eth` | Sales TLD | 🟢 Manager |
 | `gdn.ucash.eth` | gTLD | 🟢 Manager |
 | `xyz.ucash.eth` | XYZ TLD | 🟢 Manager |
 | `u.ucash.eth` | US TLD | 🟢 Manager |
-| `cv.ucash.eth` | CV/resume TLD | 🟢 Manager |
-| `ws.ucash.eth` | Samoa TLD | 🟢 Manager |
 | `net.ucash.eth` | Network TLD | 🟢 Manager |
 | `org.ucash.eth` | Organization TLD | 🟢 Manager |
 | `onl.ucash.eth` | Online TLD | 🟢 Manager |
@@ -284,11 +284,11 @@ ucash.eth
 #### Blockchain Networks (8 subdomains)
 - polygon, base, arb, linea, op, sol, bnb, btc
 
-#### Geographic (30 subdomains)
-- nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id
+#### Geographic (39 subdomains - 2-character ccTLDs)
+- nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id, ly, li, me, ad, to, io, co, cv, ws
 
-#### Generic TLDs (37 subdomains)
-- ly, li, la, me, tld, club, pro, biz, name, ad, to, vip, top, tech, online, io, co, ooo, gdn, xyz, u, cv, ws, net, org, onl, com, wiki, technology, productions, exchange
+#### Generic TLDs (20 subdomains - 3+ character gTLDs)
+- la, tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
 
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
