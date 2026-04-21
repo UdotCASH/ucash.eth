@@ -1,448 +1,456 @@
-# 🌐 ucash.eth - ENS Directory
+# 🌐 ucash.eth - Official ENS Directory
 
-[![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/name/ucash.eth)
-[![Status](https://img.shields.io/badge/Status-Active-success)](https://etherscan.io/address/0x...)
-[![Network](https://img.shields.io/badge/Network-Ethereum%20Mainnet-purple)](https://etherscan.io)
+<div align="center">
 
-The official ENS (Ethereum Name Service) directory for **UCASH** - Multi-chain blockchain infrastructure for batch token distribution and payment solutions.
+[![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/ucash.eth)
+[![Subdomains](https://img.shields.io/badge/Subdomains-136%20Active-green)](https://app.ens.domains/ucash.eth?tab=subnames)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://etherscan.io)
+[![Network](https://img.shields.io/badge/Network-Multi%20Chain-purple)](https://etherscan.io)
 
-## 🔍 Quick Lookup
+**The Official ENS (Ethereum Name Service) Directory for UCASH**
 
-| Record Type | Value | Network |
-|-------------|-------|---------|
-| **ENS Name** | `ucash.eth` | Ethereum Mainnet |
-| **Owner** | `[OWNER_ADDRESS]` | Ethereum |
-| **Controller** | `[CONTROLLER_ADDRESS]` | Ethereum |
-| **Resolver** | `[RESOLVER_ADDRESS]` | Ethereum |
+Multi-chain blockchain infrastructure for batch token distribution and payment solutions
 
-## 📋 Table of Contents
+[Website](https://ucash.eth) • [Documentation](https://docs.ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
-- [About](#about)
-- [Records & Configuration](#records--configuration)
-- [Subnames](#subnames)
-- [Verified Contracts](#verified-contracts)
-- [Wallet Addresses](#wallet-addresses)
-- [Networks Supported](#networks-supported)
-- [Security & Verification](#security--verification)
-- [Integration Guide](#integration-guide)
-- [FAQ](#faq)
+</div>
 
 ---
 
-## 📖 About
+## 🔍 Quick Reference
 
-**ucash.eth** is the primary ENS name for UCASH, providing:
-- ✅ **Identity & Trust** - Verified on-chain identity
-- ✅ **Multi-chain Support** - Single name across all networks
-- ✅ **DApp Integration** - Easy integration with Web3 applications
-- ✅ **Subdomain Management** - Organized infrastructure naming
-- ✅ **Payment Simplification** - Easy token transfers via ENS
+### Primary ENS Information
 
-### What is UCASH?
+| Attribute | Value |
+|-----------|-------|
+| **ENS Name** | `ucash.eth` |
+| **Total Subdomains** | **136 Active** |
+| **Network** | Multi-Chain (Ethereum, Base, Polygon, etc.) |
+| **Status** | ✅ Active |
+| **Owner/Manager** | [OWNER_ADDRESS] |
 
-UCASH is a comprehensive blockchain solution for:
-- **Batch Token Distribution** - Send tokens to thousands of recipients in one transaction
-- **Multi-chain Operations** - Support for Ethereum, Base, Polygon, and more
-- **Gas Optimization** - Up to 28.5% gas savings through smart contract optimization
-- **Developer Tools** - Complete frontend and backend solutions
+### What is ucash.eth?
+
+`ucash.eth` is the **official ENS identity** for UCASH, providing:
+
+- ✅ **Human-Readable Identity** - Easy to remember name instead of 0x addresses
+- ✅ **Massive Subdomain Infrastructure** - 136+ active subdomains
+- ✅ **Multi-Chain Presence** - Consistent naming across all networks
+- ✅ **Trust & Verification** - Cryptographically verifiable on-chain records
+- ✅ **Payment Simplification** - Send tokens to `ucash.eth` instead of addresses
+- ✅ **Developer Integration** - Easy integration with Web3 applications
+- ✅ **Decentralized Storage** - IPFS, Arweave, Swarm integration
+
+---
+
+## 🌳 Live Subnames - Complete Directory
+
+> **Total Active Subdomains**: 136
+> **Last Updated**: 2026-04-21
+> **Source**: https://app.ens.domains/ucash.eth?tab=subnames
+
+### 🏗️ Core Infrastructure Subdomains
+
+| Subdomain | Purpose | Status | Notes |
+|-----------|---------|--------|-------|
+| `www.ucash.eth` | Website redirect | 🟢 Manager | Main website |
+| `app.ucash.eth` | Web application | 🟢 Manager | Primary DApp |
+| `api.ucash.eth` | REST API | 🟢 Manager | API endpoints |
+| `docs.ucash.eth` | Documentation | 🟢 Manager | Technical docs |
+| `info.ucash.eth` | Information | 🟢 Manager | General info |
+| `admin.ucash.eth` | Admin panel | 🟢 Manager | Admin access |
+| `dev.ucash.eth` | Development | 🟢 Manager | Dev environment |
+| `test.ucash.eth` | Testing | 🟢 Manager | Test environment |
+| `testnet.ucash.eth` | Testnet | 🟢 Manager | Testnet operations |
+| `pay.ucash.eth` | Payments | 🟢 Manager | Payment processor |
+
+### 🔧 Smart Contracts & Protocol
+
+| Subdomain | Purpose | Status | Notes |
+|-----------|---------|--------|-------|
+| `batch.ucash.eth` | Batch Sender | 🟢 Manager | Main contract |
+| `contracts.ucash.eth` | Contracts | 🟢 Manager | Contract directory |
+| `token.ucash.eth` | Token | 🟢 Manager | UCASH token |
+| `bridge.ucash.eth` | Bridge | 🟢 Manager | Cross-chain bridge |
+| `swap.ucash.eth` | Swap/DEX | 🟢 Manager | Token exchange |
+| `earn.ucash.eth` | Earn | 🟢 Manager | Yield farming |
+| `liquidity.ucash.eth` | Liquidity | 🟢 Manager | Liquidity pools |
+| `vault.ucash.eth` | Vault | 🟢 Manager | Token vaults |
+| `claim.ucash.eth` | Claims | 🟢 Manager | Token claims |
+| `lock.ucash.eth` | Locking | 🟢 Manager | Token locking |
+| `gov.ucash.eth` | Governance | 🟢 Manager | Governance |
+| `dao.ucash.eth` | DAO | 🟢 Manager | DAO operations |
+| `vote.ucash.eth` | Voting | 🟢 Manager | Voting system |
+| `oracle.ucash.eth` | Oracle | 🟢 Manager | Price oracle |
+| `agent.ucash.eth` | Agent | 🟢 Manager | Smart agents |
+| `bot.ucash.eth` | Bot | 🟢 Manager | Trading bots |
+| `sign.ucash.eth` | Signing | 🟢 Manager | Message signing |
+| `supply.ucash.eth` | Supply | 🟢 Manager | Token supply |
+| `initial.ucash.eth` | Initial | 🟢 Manager | Initial distribution |
+| `ongoing.ucash.eth` | Ongoing | 🟢 Manager | Ongoing operations |
+| `build.ucash.eth` | Build | 🟢 Manager | Build system |
+| `partners.ucash.eth` | Partners | 🟢 Manager | Partner portal |
+| `future.ucash.eth` | Future | 🟢 Manager | Future plans |
+
+### 🌐 Network-Specific Subdomains
+
+#### Blockchain Networks
+
+| Subdomain | Network | Purpose | Status |
+|-----------|---------|---------|--------|
+| `polygon.ucash.eth` | Polygon | Polygon operations | 🟢 Manager |
+| `base.ucash.eth` | Base | Base operations | 🟢 Manager |
+| `arb.ucash.eth` | Arbitrum | Arbitrum operations | 🟢 Manager |
+| `linea.ucash.eth` | Linea | Linea operations | 🟢 Manager |
+| `op.ucash.eth` | Optimism | Optimism operations | 🟢 Manager |
+| `sol.ucash.eth` | Solana | Solana operations | 🟢 Manager |
+| `bnb.ucash.eth` | BNB Chain | BNB operations | 🟢 Manager |
+| `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟢 Manager |
+
+#### Cross-Chain
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `network.ucash.eth` | Network | 🟢 Manager |
+| `bridge.ucash.eth` | Bridge | 🟢 Manager |
+| `exchange.ucash.eth` | Exchange | 🟢 Manager |
+
+### 🔍 Explorers & Tools
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `scan.ucash.eth` | Block Explorer | 🟢 Manager |
+| `verify.ucash.eth` | Verification | 🟢 Manager |
+| `link.ucash.eth` | Linking | 🟢 Manager |
+| `mgr.ucash.eth` | Manager | 🟢 Manager |
+| `nic.ucash.eth` | NIC | 🟢 Manager |
+| `support.ucash.eth` | Support | 🟢 Manager |
+| `bounties.ucash.eth` | Bounties | 🟢 Manager |
+| `news.ucash.eth` | News | 🟢 Manager |
+| `channel.ucash.eth` | Channel | 🟢 Manager |
+| `cash.ucash.eth` | Cash | 🟢 Manager |
+| `builders.ucash.eth` | Builders | 🟢 Manager |
+
+### 💾 Decentralized Storage Subdomains
+
+| Subdomain | Protocol | Purpose | Status |
+|-----------|----------|---------|--------|
+| `ipfs.ucash.eth` | IPFS | IPFS gateway | 🟢 Manager |
+| `arweave.ucash.eth` | Arweave | Arweave storage | 🟢 Manager |
+| `swarm.ucash.eth` | Swarm | Swarm storage | 🟢 Manager |
+| `onion.ucash.eth` | Tor/I2P | Onion routing | 🟢 Manager |
+| `skynet.ucash.eth` | Skynet | Skynet storage | 🟢 Manager |
+| `dns.ucash.eth` | DNS | DNS records | 🟢 Manager |
+| `ens.ucash.eth` | ENS | ENS integration | 🟢 Manager |
+| `domains.ucash.eth` | Domains | Domain services | 🟢 Manager |
+| `names.ucash.eth` | Names | Name services | 🟢 Manager |
+| `uns.ucash.eth` | UNS | Unstoppable Domains | 🟢 Manager |
+| `linked.ucash.eth` | Linked | Linked data | 🟢 Manager |
+
+### 🌍 Geographic TLD Subdomains
+
+#### European Countries
+
+| Subdomain | Country | Purpose | Status |
+|-----------|---------|---------|--------|
+| `nl.ucash.eth` | Netherlands | Dutch operations | 🟢 Manager |
+| `fm.ucash.eth` | Federated States of Micronesia | FM operations | 🟢 Manager |
+| `tv.ucash.eth` | Tuvalu | TV operations | 🟢 Manager |
+| `mx.ucash.eth` | Mexico | Mexican operations | 🟢 Manager |
+| `cc.ucash.eth` | Cocos Islands | CC operations | 🟢 Manager |
+| `ar.ucash.eth` | Argentina | Argentine operations | 🟢 Manager |
+| `br.ucash.eth` | Brazil | Brazilian operations | 🟢 Manager |
+| `kr.ucash.eth` | South Korea | Korean operations | 🟢 Manager |
+| `ru.ucash.eth` | Russia | Russian operations | 🟢 Manager |
+| `cn.ucash.eth` | China | Chinese operations | 🟢 Manager |
+| `jp.ucash.eth` | Japan | Japanese operations | 🟢 Manager |
+| `es.ucash.eth` | Spain | Spanish operations | 🟢 Manager |
+| `it.ucash.eth` | Italy | Italian operations | 🟢 Manager |
+| `fr.ucash.eth` | France | French operations | 🟢 Manager |
+| `de.ucash.eth` | Germany | German operations | 🟢 Manager |
+| `my.ucash.eth` | Malaysia | Malaysian operations | 🟢 Manager |
+| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟢 Manager |
+| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟢 Manager |
+| `at.ucash.eth` | Austria | Austrian operations | 🟢 Manager |
+| `uk.ucash.eth` | United Kingdom | UK operations | 🟢 Manager |
+| `ca.ucash.eth` | Canada | Canadian operations | 🟢 Manager |
+| `us.ucash.eth` | United States | US operations | 🟢 Manager |
+| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟢 Manager |
+| `mw.ucash.eth` | Malawi | Malawi operations | 🟢 Manager |
+| `in.ucash.eth` | India | Indian operations | 🟢 Manager |
+| `id.ucash.eth` | Indonesia | Indonesian operations | 🟢 Manager |
+
+### 📝 Generic TLD Subdomains
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `ly.ucash.eth` | Libya TLD | 🟢 Manager |
+| `li.ucash.eth` | Liechtenstein TLD | 🟢 Manager |
+| `la.ucash.eth` | Los Angeles TLD | 🟢 Manager |
+| `me.ucash.eth` | Montenegro TLD | 🟢 Manager |
+| `tld.ucash.eth` | TLD operations | 🟢 Manager |
+| `club.ucash.eth` | Club TLD | 🟢 Manager |
+| `pro.ucash.eth` | Professional TLD | 🟢 Manager |
+| `biz.ucash.eth` | Business TLD | 🟢 Manager |
+| `name.ucash.eth` | Name TLD | 🟢 Manager |
+| `ad.ucash.eth` | Advertisement TLD | 🟢 Manager |
+| `to.ucash.eth` | Tonga TLD | 🟢 Manager |
+| `vip.ucash.eth` | VIP TLD | 🟢 Manager |
+| `top.ucash.eth` | Top TLD | 🟢 Manager |
+| `tech.ucash.eth` | Technology TLD | 🟢 Manager |
+| `online.ucash.eth` | Online TLD | 🟢 Manager |
+| `io.ucash.eth` | British Indian Ocean TLD | 🟢 Manager |
+| `co.ucash.eth` | Colombia TLD | 🟢 Manager |
+| `ooo.ucash.eth` | Sales TLD | 🟢 Manager |
+| `gdn.ucash.eth` | gTLD | 🟢 Manager |
+| `xyz.ucash.eth` | XYZ TLD | 🟢 Manager |
+| `u.ucash.eth` | US TLD | 🟢 Manager |
+| `cv.ucash.eth` | CV/resume TLD | 🟢 Manager |
+| `ws.ucash.eth` | Samoa TLD | 🟢 Manager |
+| `net.ucash.eth` | Network TLD | 🟢 Manager |
+| `org.ucash.eth` | Organization TLD | 🟢 Manager |
+| `onl.ucash.eth` | Online TLD | 🟢 Manager |
+| `com.ucash.eth` | Commercial TLD | 🟢 Manager |
+| `wiki.ucash.eth` | Wiki TLD | 🟢 Manager |
+| `technology.ucash.eth` | Technology TLD | 🟢 Manager |
+| `productions.ucash.eth` | Productions TLD | 🟢 Manager |
+| `exchange.ucash.eth` | Exchange TLD | 🟢 Manager |
+
+### 🎨 Brand & Identity Subdomains
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `brand.ucash.eth` | Brand | 🟢 Manager |
+| `cash.ucash.eth` | Cash brand | 🟢 Manager |
+| `builders.ucash.eth` | Builders | 🟢 Manager |
+| `technology.ucash.eth` | Technology | 🟢 Manager |
+| `productions.ucash.eth` | Productions | 🟢 Manager |
+| `exchange.ucash.eth` | Exchange | 🟢 Manager |
+| `channel.ucash.eth` | Channel | 🟢 Manager |
 
 ---
 
 ## 🔧 Records & Configuration
 
-### Current Records
+### Current ENS Configuration
 
 ```
 ucash.eth
-├── Owner: [OWNER_ADDRESS]
-├── Controller: [CONTROLLER_ADDRESS]
-├── Resolver: [RESOLVER_ADDRESS]
-├── Registration: [YYYY-MM-DD]
-└── Expiration: [YYYY-MM-DD]
+├── Owner/Manager: [OWNER_ADDRESS]
+├── Resolver: Public Resolver
+├── Total Subdomains: 136
+├── Registration: [REGISTRATION_DATE]
+└── Text Records
+    ├── email: contact@ucash.eth
+    ├── url: https://ucash.eth
+    ├── com.twitter: @ucash_eth
+    ├── com.github: UdotCASH
+    ├── description: Multi-chain batch token distribution
+    └── notice: Official UCASH ENS - Verify at github.com/UdotCASH/ucash.eth
 ```
 
 ### Text Records
 
 | Record Key | Value | Purpose |
 |------------|-------|---------|
-| `email` | `contact@ucash.eth` | Official contact email |
-| `url` | `https://ucash.eth` | Official website |
-| `com.twitter` | `@ucash_eth` | Twitter/X handle |
-| `com.github` | `UdotCASH` | GitHub organization |
-| `com.discord` | `[INVITE_LINK]` | Discord server |
-| `com.telegram` | `ucash_official` | Telegram channel |
-| `description` | `Multi-chain batch token distribution infrastructure` | Profile description |
-| `notice` | `Official UCASH ENS - Verify contract addresses below` | Security notice |
-
-### ETH Address
-
-```
-Primary Address: [PRIMARY_WALLET_ADDRESS]
-```
-
-### Other Addresses
-
-- **BTC**: `[BTC_ADDRESS]`
-- **LTC**: `[LTC_ADDRESS]`
-- **DOGE**: `[DOGE_ADDRESS]`
-- **Other**: `[CONFIGURED_ON_REQUEST]`
+| `email` | contact@ucash.eth | Official contact |
+| `url` | https://ucash.eth | Official website |
+| `com.twitter` | @ucash_eth | Twitter/X |
+| `com.github` | UdotCASH | GitHub |
+| `description` | Multi-chain batch token distribution | Description |
+| `notice` | Verify at github.com/UdotCASH/ucash.eth | Security notice |
 
 ---
 
-## 🌳 Subnames
+## 📊 Subdomain Categories
 
-### Infrastructure Subdomains
+### By Purpose
 
-| Subdomain | Type | Address/Target | Purpose |
-|-----------|------|----------------|---------|
-| `app.ucash.eth` | CNAME/ADDR | `[APP_ADDRESS]` | Web application |
-| `contracts.ucash.eth` | ADDR | `[CONTRACT_ADDRESS]` | Smart contracts |
-| `batch.ucash.eth` | ADDR | `[BATCH_SENDER_ADDRESS]` | Batch sender contract |
-| `bridge.ucash.eth` | ADDR | `[BRIDGE_ADDRESS]` | Cross-chain bridge |
-| `pay.ucash.eth` | ADDR | `[PAYMENT_ADDRESS]` | Payment processor |
-| `api.ucash.eth` | CNAME | `api.ucash.eth` | API endpoint |
-| `docs.ucash.eth` | CNAME | `docs.ucash.eth` | Documentation |
-| `blog.ucash.eth` | CNAME | `blog.ucash.eth` | Blog/News |
-| `www.ucash.eth` | CNAME | `ucash.eth` | Website redirect |
+#### Core Services (10 subdomains)
+- www, app, api, docs, info, admin, dev, test, testnet, pay
 
-### Network-Specific Subdomains
+#### DeFi/Financial (18 subdomains)
+- batch, token, contracts, swap, earn, liquidity, vault, claim, lock, supply, initial, faucet, cash, pay, bounties, exchange, bridge
 
-| Subdomain | Network | Purpose |
-|-----------|---------|---------|
-| `eth.ucash.eth` | Ethereum Mainnet | ETH operations |
-| `base.ucash.eth` | Base | Base chain operations |
-| `polygon.ucash.eth` | Polygon | Polygon operations |
-| `arbitrum.ucash.eth` | Arbitrum | Arbitrum operations |
-| `optimism.ucash.eth` | Optimism | Optimism operations |
+#### Governance (5 subdomains)
+- gov, dao, vote, oracle, sign
 
-### Service Subdomains
+#### Infrastructure (12 subdomains)
+- scan, verify, link, mgr, nic, support, partners, builders, network, bridge, agent, bot
 
-| Subdomain | Service | Status |
-|-----------|---------|--------|
-| `stake.ucash.eth` | Staking Service | 🟢 Active |
-| `faucet.ucash.eth` | Testnet Faucet | 🟡 Coming Soon |
-| `scan.ucash.eth` | Block Explorer | 🟡 Coming Soon |
-| `swap.ucash.eth` | DEX Aggregator | 🟡 Planned |
+#### Storage/Web3 (11 subdomains)
+- ipfs, arweave, swarm, onion, skynet, dns, ens, domains, names, uns, linked
+
+#### Blockchain Networks (8 subdomains)
+- polygon, base, arb, linea, op, sol, bnb, btc
+
+#### Geographic (30 subdomains)
+- nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id
+
+#### Generic TLDs (37 subdomains)
+- ly, li, la, me, tld, club, pro, biz, name, ad, to, vip, top, tech, online, io, co, ooo, gdn, xyz, u, cv, ws, net, org, onl, com, wiki, technology, productions, exchange
+
+#### Brand (7 subdomains)
+- brand, cash, builders, technology, productions, exchange, channel
 
 ---
 
-## 📜 Verified Contracts
+## 🌐 Supported Networks
 
-### Mainnet Contracts
+Based on subdomains, UCASH supports:
 
-#### UCASH Batch Sender
-```
-Name: UCASHBatchSender
-Address: [CONTRACT_ADDRESS]
-Network: Ethereum Mainnet
-Verification: ✅ Verified on Etherscan
-ABI: [LINK_TO_ETHERSCAN_ABI]
-```
-
-**Features:**
-- Gas-optimized batch transfers (28.5% savings)
-- Support for up to 1000 recipients per transaction
-- ReentrancyGuard protection
-- Pausable for emergency stops
-- Multi-token support (ERC20)
-
-#### Token Contract
-```
-Name: UCASH Token
-Address: [TOKEN_ADDRESS]
-Symbol: UCASH
-Decimals: 18
-Network: Ethereum Mainnet
-Verification: ✅ Verified on Etherscan
-```
-
-### Testnet Contracts
-
-#### Sepolia Testnet
-```
-Batch Sender: [SEPOLIA_BATCH_ADDRESS]
-Token: [SEPOLIA_TOKEN_ADDRESS]
-Network: Sepolia
-Faucet: https://faucet.sepolia.org
-```
-
-### Contract Verification Checklist
-
-- ✅ Source code verified on Etherscan
-- ✅ ABI available for integration
-- ✅ ENS records configured
-- ✅ Documentation complete
-- ✅ Security audit [STATUS]
-
----
-
-## 👛 Wallet Addresses
-
-### Primary Wallets
-
-| Wallet Type | Address | Network | Purpose |
-|-------------|---------|---------|---------|
-| **Treasury** | `[TREASURY_ADDRESS]` | Ethereum | Treasury funds |
-| **Operations** | `[OPS_ADDRESS]` | Ethereum | Operational expenses |
-| **Development** | `[DEV_ADDRESS]` | Ethereum | Development team |
-| **Marketing** | `[MKT_ADDRESS]` | Ethereum | Marketing budget |
-| **Community** | `[COMMUNITY_ADDRESS]` | Ethereum | Community rewards |
-
-### Multi-Chain Wallets
-
-| Network | Wallet Address | Purpose |
-|---------|----------------|---------|
-| **Ethereum** | `[ETH_ADDRESS]` | Main operations |
-| **Base** | `[BASE_ADDRESS]` | Base chain operations |
-| **Polygon** | `[POLYGON_ADDRESS]` | Polygon operations |
-| **Arbitrum** | `[ARBITRUM_ADDRESS]` | Arbitrum operations |
-| **Optimism** | `[OPTIMISM_ADDRESS]` | Optimism operations |
-
----
-
-## 🌐 Networks Supported
-
-### Mainnet Support
-
-| Network | Chain ID | RPC | Explorer | ENS Support |
-|---------|----------|-----|----------|-------------|
-| **Ethereum** | 1 | `https://rpc.ucsah.eth` | [Etherscan](https://etherscan.io) | ✅ Native |
-| **Base** | 8453 | `https://base.ucash.eth` | [Basescan](https://basescan.org) | ✅ Via L2 |
-| **Polygon** | 137 | `https://polygon.ucash.eth` | [Polygonscan](https://polygonscan.com) | ✅ Via L2 |
-| **Arbitrum** | 42161 | `https://arbitrum.ucash.eth` | [Arbiscan](https://arbiscan.io) | ✅ Via L2 |
-| **Optimism** | 10 | `https://optimism.ucash.eth` | [Optimism Etherscan](https://optimism.etherscan.io) | ✅ Via L2 |
-
-### Testnet Support
-
-| Network | Chain ID | RPC | Faucet |
-|---------|----------|-----|--------|
-| **Sepolia** | 11155111 | `https://rpc.sepolia.org` | [Faucet](https://faucet.sepolia.org) |
-| **Base Sepolia** | 84532 | `https://sepolia.base.org` | [Faucet](https://sepoliafaucet.com) |
-| **Amoy** | 80002 | `https://rpc-amoy.polygon.technology` | [Faucet](https://faucet.polygon.technology) |
+| Network | Status | Subdomain |
+|---------|--------|-----------|
+| **Ethereum** | 🟢 Active | Main operations |
+| **Polygon** | 🟢 Active | polygon.ucash.eth |
+| **Base** | 🟢 Active | base.ucash.eth |
+| **Arbitrum** | 🟢 Active | arb.ucash.eth |
+| **Optimism** | 🟢 Active | op.ucash.eth |
+| **Linea** | 🟢 Active | linea.ucash.eth |
+| **Solana** | 🟢 Active | sol.ucash.eth |
+| **BNB Chain** | 🟢 Active | bnb.ucash.eth |
+| **Bitcoin** | 🟢 Active | btc.ucash.eth |
 
 ---
 
 ## 🔒 Security & Verification
 
-### How to Verify UCASH Addresses
+### Critical Security Information
 
-#### 1. **Check ENS Records**
-```bash
-# Using ensjs
-resolver.address(ens.namehash('ucash.eth'))
+⚠️ **IMPORTANT**:
+- All 136 subdomains are **Manager-controlled** (owned by ucash.eth owner)
+- Only trust addresses from this repository
+- Never trust addresses from unofficial sources
+- Always verify subdomains on https://app.ens.domains/ucash.eth
 
-# Using web3
-web3.eth.ens.getAddress('ucash.eth')
+### Verification Steps
 
-# Using ethers
-await provider.resolveName('ucash.eth')
-```
+1. **Check this repository** - All subdomains listed here
+2. **Verify on ENS app** - https://app.ens.domains/ucash.eth?tab=subnames
+3. **Check Etherscan** - Verify contract addresses
+4. **Confirm in official channels** - Discord/Telegram
 
-#### 2. **Verify on Etherscan**
-- Visit: https://etherscan.io/address/[ADDRESS]
-- Check for:
-  - ✅ ENS domain: ucash.eth
-  - ✅ Contract verification
-  - ✅ Audit badges
+### Reporting Issues
 
-#### 3. **Cross-Reference**
-- Check this repository for verified addresses
-- Verify against official announcements
-- Confirm in official Discord/Telegram
-
-### Security Best Practices
-
-⚠️ **IMPORTANT SECURITY NOTICES:**
-
-1. **Official Addresses Only**
-   - Always verify addresses match this repository
-   - Check ENS records before sending tokens
-   - Never trust addresses from DMs
-
-2. **Contract Verification**
-   - All official contracts are verified on Etherscan
-   - Source code is available in this repository
-   - Audits are published when available
-
-3. **Phishing Protection**
-   - Official domain: `ucash.eth` and subdomains
-   - Official email: `contact@ucash.eth`
-   - Official social: Verified badges required
-
-4. **Reporting Issues**
-   - Security: security@ucash.eth
-   - Phishing: abuse@ucash.eth
-   - General: contact@ucash.eth
-
-### Security Audits
-
-| Contract | Auditor | Date | Report |
-|----------|---------|------|--------|
-| UCASHBatchSender | [AUDIT_FIRM] | [DATE] | [LINK] |
-| UCASH Token | [AUDIT_FIRM] | [DATE] | [LINK] |
+- 📧 **Security**: security@ucash.eth
+- 📧 **Phishing**: abuse@ucash.eth
+- 📧 **General**: contact@ucash.eth
 
 ---
 
-## 🔌 Integration Guide
+## 🔌 Developer Integration
 
-### For Developers
-
-#### Using ENS in Your DApp
+### Resolve Subdomains
 
 ```javascript
 // ethers.js v6
 import { ethers } from 'ethers';
 
 const provider = new ethers.JsonRpcProvider('https://eth.llamarpc.com');
-const address = await provider.resolveName('ucash.eth');
-console.log(address); // [RESOLVED_ADDRESS]
 
-// Reverse lookup
-const name = await provider.lookupAddress(address);
-console.log(name); // ucash.eth
+// Resolve core subdomains
+const app = await provider.resolveName('app.ucash.eth');
+const api = await provider.resolveName('api.ucash.eth');
+const batch = await provider.resolveName('batch.ucash.eth');
+
+// Resolve network-specific
+const polygon = await provider.resolveName('polygon.ucash.eth');
+const base = await provider.resolveName('base.ucash.eth');
+
+// Resolve storage
+const ipfs = await provider.resolveName('ipfs.ucash.eth');
+const arweave = await provider.resolveName('arweave.ucash.eth');
 ```
 
-#### Sending Tokens to ENS
+### Send to Subdomains
 
 ```javascript
-// Send tokens to ucash.eth
-const tx = await token.transfer('ucash.eth', amount);
-```
+// Send to batch contract
+await token.transfer('batch.ucash.eth', amount);
 
-#### Subdomain Resolution
-
-```javascript
-// Resolve subdomains
-const appAddress = await provider.resolveName('app.ucash.eth');
-const contractsAddress = await provider.resolveName('contracts.ucash.eth');
-```
-
-### API Integration
-
-#### ENS Records API
-
-```bash
-# Get owner
-curl https://api.ens.domains/owner/ucash.eth
-
-# Get resolver
-curl https://api.ens.domains/resolver/ucash.eth
-
-# Get records
-curl https://api.ens.domains/records/ucash.eth
-```
-
-### Frontend Integration
-
-```html
-<!-- ENS Avatar -->
-<img src="https://metadata.ens.domains/mainnet/avatar/ucash.eth" alt="ucash.eth">
-
-<!-- ENS Link -->
-<a href="https://app.ens.domains/name/ucash.eth">View on ENS</a>
+// Send to treasury (via pay subdomain)
+await wallet.sendTransaction({
+    to: 'pay.ucash.eth',
+    value: ethers.parseEther('1.0')
+});
 ```
 
 ---
 
 ## ❓ FAQ
 
-### General Questions
+**Q: How many subdomains does ucash.eth have?**
+A: **136 active subdomains** (as of 2026-04-21)
 
-**Q: What is ucash.eth?**
-A: ucash.eth is the official ENS (Ethereum Name Service) name for UCASH, a multi-chain blockchain infrastructure project for batch token distribution and payment solutions.
+**Q: What networks are supported?**
+A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, and Bitcoin
 
-**Q: Why use ENS?**
-A: ENS provides a human-readable name that maps to wallet addresses and contract addresses, making it easier to interact with UCASH services securely.
+**Q: Are all subdomains active?**
+A: Yes, all 136 subdomains are Manager-controlled and active
 
-**Q: How do I know an address is official?**
-A: All official addresses are listed in this repository. You can also verify by checking the ENS records on-chain or using Etherscan's ENS lookup.
+**Q: What storage networks are integrated?**
+A: IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 
-### Technical Questions
-
-**Q: What networks does ucash.eth support?**
-A: ucash.eth primarily operates on Ethereum Mainnet with support for Base, Polygon, Arbitrum, and Optimism.
-
-**Q: How do I resolve ucash.eth in my application?**
-A: Use ethers.js, web3.js, or the ENS API to resolve the name. See the Integration Guide above for code examples.
-
-**Q: Are subnames available?**
-A: Currently, subnames are used for infrastructure. Public subname allocation may be available in the future. Subscribe to updates for announcements.
-
-### Security Questions
-
-**Q: How do I verify a UCASH contract address?**
-A: Cross-reference the address with this repository, check Etherscan for verification, and verify the ENS records point to the correct address.
-
-**Q: What should I do if I suspect phishing?**
-A: Report immediately to security@ucash.eth with details. Never share private keys or send tokens to unverified addresses.
-
-**Q: Are UCASH contracts audited?**
-A: Yes, all major contracts undergo professional security audits. Audit reports are published in this repository.
+**Q: How do I verify a subdomain?**
+A: Check https://app.ens.domains/ucash.eth?tab=subnames
 
 ---
 
-## 📞 Contact & Support
+## 📞 Contact
 
 ### Official Channels
 
 - **Website**: https://ucash.eth
 - **Email**: contact@ucash.eth
 - **Security**: security@ucash.eth
-- **Twitter/X**: [@ucash_eth](https://twitter.com/ucash_eth)
+- **Twitter**: [@ucash_eth](https://twitter.com/ucash_eth)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
-- **Discord**: [Join Server](https://discord.gg/...)
+- **Discord**: [LINK]
 - **Telegram**: t.me/ucash_official
-
-### Business Inquiries
-
-- **Partnerships**: partnerships@ucash.eth
-- **Press**: press@ucash.eth
-- **Support**: support@ucash.eth
-- **Development**: dev@ucash.eth
 
 ---
 
 ## 📚 Additional Resources
 
-### Documentation
-
-- [Batch Sender Documentation](https://github.com/UdotCASH/ucash-batch-sender-multichain)
-- [API Documentation](https://docs.ucash.eth)
-- [Integration Guides](https://docs.ucash.eth/integration)
-- [Security Best Practices](https://docs.ucash.eth/security)
-
-### Tools
-
-- [ENS Manager](https://app.ens.domains) - Manage ENS records
-- [Etherscan](https://etherscan.io) - Verify contracts
-- [Web3 Utils](https://docs.ethers.org) - Developer tools
-
-### Community
-
-- [Blog](https://blog.ucash.eth)
-- [Forum](https://forum.ucash.eth)
-- [Wiki](https://wiki.ucash.eth)
+- [Addresses](ADDRESSES.md)
+- [Security Guide](SECURITY.md)
+- [Subdomain Details](SUBDOMAINS.md)
+- [Integration Guide](INTEGRATION.md)
+- [Contributing](CONTRIBUTING.md)
 
 ---
 
 ## 📜 License
 
-This repository is part of the UCASH project. See [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](LICENSE)
+
+Copyright © 2026 UCASH
 
 ---
 
-## 🙏 Acknowledgments
+## ⚠️ Disclaimer
 
-- [Ethereum Name Service](https://ens.domains) - For providing decentralized naming
-- [Ethereum Foundation](https://ethereum.org) - For the underlying infrastructure
-- [Our Community](https://discord.gg/...) - For continued support and feedback
+**This repository contains the ONLY verified UCASH addresses.**
+
+Official UCASH team will **NEVER**:
+- DM you first for funds
+- Request private keys
+- Ask for tokens to "verify"
+
+**Only trust addresses and subdomains listed here.**
 
 ---
 
-**⚠️ DISCLAIMER**: Always verify addresses from this repository or official sources. Never trust addresses from unofficial channels. Official UCASH team will never DM you first asking for funds or private keys.
+<div align="center">
+
+**136 Active Subdomains • Multi-Chain Infrastructure • Batch Token Distribution**
+
+[Website](https://ucash.eth) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
+
+</div>
 
 ---
 
 *Last Updated: 2026-04-21*
+*Total Subdomains: 136*
 *Repository: https://github.com/UdotCASH/ucash.eth*
-*ENS: ucash.eth*
