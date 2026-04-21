@@ -27,7 +27,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | **Primary ENS** | `ucash.eth` |
 | **Total ENS Subdomains** | **136 In Development** |
 | **Multi-Chain Names** | **11 Active** |
-| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin |
+| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity |
 | **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
 
@@ -56,7 +56,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟢 Active | Layer 2 ENS on Linea network |
 | `ucash.arb` | Arbitrum | **SpaceID** | 🟢 Active | Arbitrum naming service |
 | `ucash.bnb` | BNB Chain | **SpaceID** | 🟢 Active | BNB Chain naming service |
-| `ucash.g` | Gitcoin | **SpaceID** | 🟢 Active | Gitcoin naming service |
+| `ucash.g` | Gravity Alpha Mainnet | **SpaceID** | 🟢 Active | Gravity Alpha Mainnet naming |
 | `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟢 Active | Solana native naming |
 | `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟢 Active | Polygon naming |
 | `ucash.op` | Optimism | **OP Domains** | 🟢 Active | Optimism naming service |
@@ -501,7 +501,7 @@ A: UCASH has **11 blockchain name registrations** across:
 - Bitcoin Name Service: `ucash.btc`
 
 **Q: What networks are supported?**
-A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, and Bitcoin
+A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, and Gravity
 
 **Q: Are all subdomains active?**
 A: All 136 subdomains are currently in development status
