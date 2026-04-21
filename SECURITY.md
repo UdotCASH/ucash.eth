@@ -1,6 +1,6 @@
 # 🔒 Security Guide - ucash.eth
 
-**Last Updated**: 2025-04-21
+**Last Updated**: 2026-04-21
 
 ---
 
@@ -329,9 +329,9 @@ curl https://api.ens.domains/owner/ucash.eth
 
 ## 🔄 Regular Updates
 
-This security guide is updated regularly. Last review: **2025-04-21**
+This security guide is updated regularly. Last review: **2026-04-21**
 
-**Next scheduled review**: 2025-05-21
+**Next scheduled review**: 2026-05-21
 
 ---
 
@@ -356,6 +356,6 @@ UCASH is not responsible for:
 
 ---
 
-*Last Updated: 2025-04-21*
+*Last Updated: 2026-04-21*
 *Security Contact: security@ucash.eth*
 *PGP Key: [PGP_KEY_ID]*

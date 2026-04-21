@@ -1,6 +1,6 @@
 # 🌳 Subdomain Directory - ucash.eth
 
-**Last Updated**: 2025-04-21
+**Last Updated**: 2026-04-21
 
 ---
 
@@ -290,7 +290,7 @@ If you see unofficial/fake subdomains:
 
 ## 📅 Changelog
 
-### 2025-04-21
+### 2026-04-21
 - Created subdomain directory
 - Documented all active subdomains
 - Added future planned subdomains
@@ -304,5 +304,5 @@ This document will be updated as new subdomains are added or changed.
 
 ---
 
-*Last Updated: 2025-04-21*
-*Next Review: 2025-05-21*
+*Last Updated: 2026-04-21*
+*Next Review: 2026-05-21*
