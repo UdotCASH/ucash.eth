@@ -194,6 +194,11 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `swarm.ucash.eth` | Swarm | Swarm storage | 🟡 In Dev |
 | `onion.ucash.eth` | Tor/I2P | Onion routing | 🟡 In Dev |
 | `skynet.ucash.eth` | Skynet | Skynet storage | 🟡 In Dev |
+
+### 🔗 Naming & Domain Services
+
+| Subdomain | Service | Purpose | Status |
+|-----------|---------|---------|--------|
 | `dns.ucash.eth` | DNS | DNS records | 🟡 In Dev |
 | `ens.ucash.eth` | ENS | ENS integration | 🟡 In Dev |
 | `domains.ucash.eth` | Domains | Domain services | 🟡 In Dev |
@@ -355,8 +360,11 @@ ucash.eth
 #### Infrastructure (12 subdomains)
 - scan, verify, link, mgr, nic, support, partners, builders, network, bridge, agent, bot
 
-#### Storage/Web3 (11 subdomains)
-- ipfs, arweave, swarm, onion, skynet, dns, ens, domains, names, uns, linked
+#### Storage/Web3 (5 subdomains)
+- ipfs, arweave, swarm, onion, skynet
+
+#### Naming & Domain Services (6 subdomains)
+- dns, ens, domains, names, uns, linked
 
 #### Blockchain Networks (8 subdomains)
 - polygon, base, arb, linea, op, sol, bnb, btc
