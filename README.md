@@ -210,66 +210,44 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 **Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin. These are noted below.
 
-#### Europe & Americas
-
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `nl.ucash.eth` | Netherlands | Dutch operations / "New Line" | 🟡 In Dev |
-| `fm.ucash.eth` | Federated States of Micronesia | FM operations / FM Radio | 🟡 In Dev |
-| `tv.ucash.eth` | Tuvalu | TV operations / Television & Streaming | 🟡 In Dev |
-| `mx.ucash.eth` | Mexico | Mexican operations / Mexico | 🟡 In Dev |
-| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟡 In Dev |
-| `ar.ucash.eth` | Argentina | Argentine operations / Argentina | 🟡 In Dev |
-| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟡 In Dev |
-| `kr.ucash.eth` | South Korea | Korean operations | 🟡 In Dev |
-| `ru.ucash.eth` | Russia | Russian operations | 🟡 In Dev |
-| `cn.ucash.eth` | China | Chinese operations | 🟡 In Dev |
-| `jp.ucash.eth` | Japan | Japanese operations | 🟡 In Dev |
-| `es.ucash.eth` | Spain | Spanish operations | 🟡 In Dev |
-| `it.ucash.eth` | Italy | Italian operations | 🟡 In Dev |
-| `fr.ucash.eth` | France | French operations | 🟡 In Dev |
-| `de.ucash.eth` | Germany | German operations | 🟡 In Dev |
-| `my.ucash.eth` | Malaysia | Malaysian operations | 🟡 In Dev |
-| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟡 In Dev |
-| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟡 In Dev |
-| `at.ucash.eth` | Austria | Austrian operations | 🟡 In Dev |
-| `uk.ucash.eth` | United Kingdom | UK operations | 🟡 In Dev |
-| `ca.ucash.eth` | Canada | Canadian operations | 🟡 In Dev |
-| `us.ucash.eth` | United States | US operations | 🟡 In Dev |
-| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟡 In Dev |
-| `mw.ucash.eth` | Malawi | Malawi operations | 🟡 In Dev |
-| `in.ucash.eth` | India | Indian operations | 🟡 In Dev |
-| `id.ucash.eth` | Indonesia | Indonesian operations | 🟡 In Dev |
-
-#### Middle East & North Africa
-
-| Subdomain | Country/Region | Primary/Dual Purpose | Status |
-|-----------|---------------|-------------------|--------|
-| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟡 In Dev |
-| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Link** (Chinese) | 🟡 In Dev |
-| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟡 In Dev |
 | `ad.ucash.eth` | Andorra | Andorran operations / **Advertisement & Ads** | 🟡 In Dev |
-| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟡 In Dev |
-
-#### Asia-Pacific & Others
-
-| Subdomain | Country/Region | Primary/Dual Purpose | Status |
-|-----------|---------------|-------------------|--------|
-| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟡 In Dev |
+| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟡 In Dev |
+| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟡 In Dev |
+| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟡 In Dev |
+| `ca.ucash.eth` | Canada | Canadian operations / Canada | 🟡 In Dev |
+| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟡 In Dev |
+| `cn.ucash.eth` | China | Chinese operations | 🟡 In Dev |
 | `co.ucash.eth` | Colombia | Colombian operations / **Company, Corporate, Commerce** | 🟡 In Dev |
 | `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume), Crypto ventures** | 🟡 In Dev |
-| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟡 In Dev |
+| `de.ucash.eth` | Germany | German operations | 🟡 In Dev |
+| `es.ucash.eth` | Spain | Spanish operations | 🟡 In Dev |
+| `fm.ucash.eth` | Federated States of Micronesia | FM operations / **FM Radio** | 🟡 In Dev |
+| `fr.ucash.eth` | France | French operations | 🟡 In Dev |
+| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟡 In Dev |
+| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟡 In Dev |
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟡 In Dev |
+| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟡 In Dev |
+| `jp.ucash.eth` | Japan | Japanese operations | 🟡 In Dev |
+| `kr.ucash.eth` | South Korea | Korean operations | 🟡 In Dev |
 | `la.ucash.eth` | Laos | Laotian operations / **Los Angeles, LA brand, .la TLD** | 🟡 In Dev |
 | `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Links, Link shortener, Brands** | 🟡 In Dev |
-| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟡 In Dev |
-| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟡 In Dev |
-| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟡 In Dev |
-| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟡 In Dev |
-| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟡 In Dev |
-| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟡 In Dev |
-| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟡 In Dev |
-| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟡 In Dev |
+| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟡 In Dev |
+| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟡 In Dev |
 | `mx.ucash.eth` | Mexico | Mexican operations / **MX records (mail), DNS mail exchange** | 🟡 In Dev |
+| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟡 In Dev |
+| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟡 In Dev |
+| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟡 In Dev |
+| `nl.ucash.eth` | Netherlands | Dutch operations / **"New Line"** | 🟡 In Dev |
+| `ru.ucash.eth` | Russia | Russian operations | 🟡 In Dev |
+| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟡 In Dev |
+| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟡 In Dev |
+| `tv.ucash.eth` | Tuvalu | TV operations / **Television & Streaming** | 🟡 In Dev |
+| `uk.ucash.eth` | United Kingdom | UK operations | 🟡 In Dev |
+| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟡 In Dev |
+| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟡 In Dev |
+| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟡 In Dev |
 
 ### 📝 Generic TLD Subdomains (gTLDs)
 
