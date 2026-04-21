@@ -56,7 +56,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟡 In Dev | Layer 2 ENS on Linea network |
 | `ucash.arb` | Arbitrum | **SpaceID** | 🟡 In Dev | Arbitrum naming service |
 | `ucash.bnb` | BNB Chain | **SpaceID** | 🟡 In Dev | BNB Chain naming service |
-| `ucash.g` | Gravity Alpha Mainnet | **SpaceID** | 🟡 In Dev | Gravity Alpha Mainnet naming |
+| `ucash.g` | Gravity Alpha | **SpaceID** | 🟡 In Dev | Gravity Alpha naming |
 | `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟡 In Dev | Solana native naming |
 | `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟡 In Dev | Polygon naming |
 | `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming service |
@@ -82,7 +82,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 #### Unstoppable Domains (UD)
 - `.polygon` - Polygon-specific domain
-- `.u` / `.crypto` - Universal cross-chain domains
+- `.u` - Universal cross-chain domains
 - Purchased once, owned forever (no renewal fees)
 
 #### OP Domains
@@ -126,7 +126,6 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract directory |
 | `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
 | `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
-| `swap.ucash.eth` | Swap/DEX | 🟡 In Dev | Token exchange |
 | `earn.ucash.eth` | Earn | 🟡 In Dev | Yield farming |
 | `liquidity.ucash.eth` | Liquidity | 🟡 In Dev | Liquidity pools |
 | `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
@@ -167,6 +166,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 |-----------|---------|--------|
 | `network.ucash.eth` | Network | 🟡 In Dev |
 | `bridge.ucash.eth` | Bridge | 🟡 In Dev |
+| `swap.ucash.eth` | Swap/DEX | 🟡 In Dev |
 | `exchange.ucash.eth` | Exchange | 🟡 In Dev |
 
 ### 🔍 Explorers & Tools
@@ -311,14 +311,27 @@ ucash.eth
 
 ### Text Records
 
+**9 Records configured:**
+
 | Record Key | Value | Purpose |
 |------------|-------|---------|
-| `email` | contact@ucash.eth | Official contact |
-| `url` | https://ucash.eth | Official website |
-| `com.twitter` | @ucash_eth | Twitter/X |
+| `email` | info@u.cash | Official contact |
+| `url` | https://u.cash | Official website |
+| `com.twitter` | UdotCASH | Twitter/X |
 | `com.github` | UdotCASH | GitHub |
-| `description` | Multi-chain batch token distribution | Description |
-| `notice` | Verify at github.com/UdotCASH/ucash.eth | Security notice |
+| `org.telegram` | ucash | Telegram |
+| `name` | UCASH | Display name |
+| `description` | World's 1st, Largest & Ongoing Airdrop + Bounty Hunt | Pioneers of the Initial Bounty Offering and Ongoing Bounty Offering Distribution Model | Network Loyalty/Rewards Asset | Visit https://u.onl, https://u.cash and https://ucosystem.com for more information | Description |
+| `avatar` | https://euc.li/ucash.eth | Profile image |
+| `header` | https://euc.li/ucash.eth/h | Header image |
+
+### Address Records
+
+**1 Record configured:**
+
+| Record Key | Value | Purpose |
+|------------|-------|---------|
+| `eth` | 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F | Ethereum address |
 
 ---
 
@@ -476,7 +489,7 @@ await wallet.sendTransaction({
 A: **136 subdomains** currently in development (as of 2026-04-21)
 
 **Q: What multi-chain names does UCASH have registered?**
-A: UCASH has **11 blockchain name registrations** across:
+A: UCASH has **11 blockchain name registrations active** across:
 - ENS: `ucash.eth` (136 subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
