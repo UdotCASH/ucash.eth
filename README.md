@@ -196,10 +196,21 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech** | 🟢 Manager |
-| `co.ucash.eth` | Colombia | Colombian operations / **Company & Commerce** | 🟢 Manager |
-| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume)** | 🟢 Manager |
-| `ws.ucash.eth` | Samoa | Samoan operations / **Web Services** | 🟢 Manager |
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟢 Manager |
+| `co.ucash.eth` | Colombia | Colombian operations / **Company, Corporate, Commerce** | 🟢 Manager |
+| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume), Crypto ventures** | 🟢 Manager |
+| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟢 Manager |
+| `la.ucash.eth` | Laos | Laotian operations / **Los Angeles, LA brand, .la TLD** | 🟢 Manager |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Links, Link shortener, Brands** | 🟢 Manager |
+| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟢 Manager |
+| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟢 Manager |
+| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟢 Manager |
+| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟢 Manager |
+| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟢 Manager |
+| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟢 Manager |
+| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟢 Manager |
+| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟢 Manager |
+| `mx.ucash.eth` | Mexico | Mexican operations / **MX records (mail), DNS mail exchange** | 🟢 Manager |
 
 ### 📝 Generic TLD Subdomains (gTLDs)
 
