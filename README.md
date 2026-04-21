@@ -3,8 +3,8 @@
 <div align="center">
 
 [![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/ucash.eth)
-[![Subdomains](https://img.shields.io/badge/Subdomains-136%20Active-green)](https://app.ens.domains/ucash.eth?tab=subnames)
-[![Status](https://img.shields.io/badge/Status-Active-success)](https://etherscan.io)
+[![Subdomains](https://img.shields.io/badge/Subdomains-136%20In%20Dev-yellow)](https://app.ens.domains/ucash.eth?tab=subnames)
+[![Status](https://img.shields.io/badge/Status-In%20Dev-yellow)](https://etherscan.io)
 [![Network](https://img.shields.io/badge/Network-Multi%20Chain-purple)](https://etherscan.io)
 
 **The Official ENS (Ethereum Name Service) Directory for UCASH**
@@ -26,7 +26,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | **ENS Name** | `ucash.eth` |
 | **Total Subdomains** | **136 Active** |
 | **Network** | Multi-Chain (Ethereum, Base, Polygon, etc.) |
-| **Status** | ✅ Active |
+| **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
 
 ### What is ucash.eth?
@@ -53,44 +53,44 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 | Subdomain | Purpose | Status | Notes |
 |-----------|---------|--------|-------|
-| `www.ucash.eth` | Website redirect | 🟢 Manager | Main website |
-| `app.ucash.eth` | Web application | 🟢 Manager | Primary DApp |
-| `api.ucash.eth` | REST API | 🟢 Manager | API endpoints |
-| `docs.ucash.eth` | Documentation | 🟢 Manager | Technical docs |
-| `info.ucash.eth` | Information | 🟢 Manager | General info |
-| `admin.ucash.eth` | Admin panel | 🟢 Manager | Admin access |
-| `dev.ucash.eth` | Development | 🟢 Manager | Dev environment |
-| `test.ucash.eth` | Testing | 🟢 Manager | Test environment |
-| `testnet.ucash.eth` | Testnet | 🟢 Manager | Testnet operations |
-| `pay.ucash.eth` | Payments | 🟢 Manager | Payment processor |
+| `www.ucash.eth` | Website redirect | 🟡 In Dev | Main website |
+| `app.ucash.eth` | Web application | 🟡 In Dev | Primary DApp |
+| `api.ucash.eth` | REST API | 🟡 In Dev | API endpoints |
+| `docs.ucash.eth` | Documentation | 🟡 In Dev | Technical docs |
+| `info.ucash.eth` | Information | 🟡 In Dev | General info |
+| `admin.ucash.eth` | Admin panel | 🟡 In Dev | Admin access |
+| `dev.ucash.eth` | Development | 🟡 In Dev | Dev environment |
+| `test.ucash.eth` | Testing | 🟡 In Dev | Test environment |
+| `testnet.ucash.eth` | Testnet | 🟡 In Dev | Testnet operations |
+| `pay.ucash.eth` | Payments | 🟡 In Dev | Payment processor |
 
 ### 🔧 Smart Contracts & Protocol
 
 | Subdomain | Purpose | Status | Notes |
 |-----------|---------|--------|-------|
-| `batch.ucash.eth` | Batch Sender | 🟢 Manager | Main contract |
-| `contracts.ucash.eth` | Contracts | 🟢 Manager | Contract directory |
-| `token.ucash.eth` | Token | 🟢 Manager | UCASH token |
-| `bridge.ucash.eth` | Bridge | 🟢 Manager | Cross-chain bridge |
-| `swap.ucash.eth` | Swap/DEX | 🟢 Manager | Token exchange |
-| `earn.ucash.eth` | Earn | 🟢 Manager | Yield farming |
-| `liquidity.ucash.eth` | Liquidity | 🟢 Manager | Liquidity pools |
-| `vault.ucash.eth` | Vault | 🟢 Manager | Token vaults |
-| `claim.ucash.eth` | Claims | 🟢 Manager | Token claims |
-| `lock.ucash.eth` | Locking | 🟢 Manager | Token locking |
-| `gov.ucash.eth` | Governance | 🟢 Manager | Governance |
-| `dao.ucash.eth` | DAO | 🟢 Manager | DAO operations |
-| `vote.ucash.eth` | Voting | 🟢 Manager | Voting system |
-| `oracle.ucash.eth` | Oracle | 🟢 Manager | Price oracle |
-| `agent.ucash.eth` | Agent | 🟢 Manager | Smart agents |
-| `bot.ucash.eth` | Bot | 🟢 Manager | Trading bots |
-| `sign.ucash.eth` | Signing | 🟢 Manager | Message signing |
-| `supply.ucash.eth` | Supply | 🟢 Manager | Token supply |
-| `initial.ucash.eth` | Initial | 🟢 Manager | Initial distribution |
-| `ongoing.ucash.eth` | Ongoing | 🟢 Manager | Ongoing operations |
-| `build.ucash.eth` | Build | 🟢 Manager | Build system |
-| `partners.ucash.eth` | Partners | 🟢 Manager | Partner portal |
-| `future.ucash.eth` | Future | 🟢 Manager | Future plans |
+| `batch.ucash.eth` | Batch Sender | 🟡 In Dev | Main contract |
+| `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract directory |
+| `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
+| `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
+| `swap.ucash.eth` | Swap/DEX | 🟡 In Dev | Token exchange |
+| `earn.ucash.eth` | Earn | 🟡 In Dev | Yield farming |
+| `liquidity.ucash.eth` | Liquidity | 🟡 In Dev | Liquidity pools |
+| `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
+| `claim.ucash.eth` | Claims | 🟡 In Dev | Token claims |
+| `lock.ucash.eth` | Locking | 🟡 In Dev | Token locking |
+| `gov.ucash.eth` | Governance | 🟡 In Dev | Governance |
+| `dao.ucash.eth` | DAO | 🟡 In Dev | DAO operations |
+| `vote.ucash.eth` | Voting | 🟡 In Dev | Voting system |
+| `oracle.ucash.eth` | Oracle | 🟡 In Dev | Price oracle |
+| `agent.ucash.eth` | Agent | 🟡 In Dev | Smart agents |
+| `bot.ucash.eth` | Bot | 🟡 In Dev | Trading bots |
+| `sign.ucash.eth` | Signing | 🟡 In Dev | Message signing |
+| `supply.ucash.eth` | Supply | 🟡 In Dev | Token supply |
+| `initial.ucash.eth` | Initial | 🟡 In Dev | Initial distribution |
+| `ongoing.ucash.eth` | Ongoing | 🟡 In Dev | Ongoing operations |
+| `build.ucash.eth` | Build | 🟡 In Dev | Build system |
+| `partners.ucash.eth` | Partners | 🟡 In Dev | Partner portal |
+| `future.ucash.eth` | Future | 🟡 In Dev | Future plans |
 
 ### 🌐 Network-Specific Subdomains
 
@@ -98,54 +98,54 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 | Subdomain | Network | Purpose | Status |
 |-----------|---------|---------|--------|
-| `polygon.ucash.eth` | Polygon | Polygon operations | 🟢 Manager |
-| `base.ucash.eth` | Base | Base operations | 🟢 Manager |
-| `arb.ucash.eth` | Arbitrum | Arbitrum operations | 🟢 Manager |
-| `linea.ucash.eth` | Linea | Linea operations | 🟢 Manager |
-| `op.ucash.eth` | Optimism | Optimism operations | 🟢 Manager |
-| `sol.ucash.eth` | Solana | Solana operations | 🟢 Manager |
-| `bnb.ucash.eth` | BNB Chain | BNB operations | 🟢 Manager |
-| `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟢 Manager |
+| `polygon.ucash.eth` | Polygon | Polygon operations | 🟡 In Dev |
+| `base.ucash.eth` | Base | Base operations | 🟡 In Dev |
+| `arb.ucash.eth` | Arbitrum | Arbitrum operations | 🟡 In Dev |
+| `linea.ucash.eth` | Linea | Linea operations | 🟡 In Dev |
+| `op.ucash.eth` | Optimism | Optimism operations | 🟡 In Dev |
+| `sol.ucash.eth` | Solana | Solana operations | 🟡 In Dev |
+| `bnb.ucash.eth` | BNB Chain | BNB operations | 🟡 In Dev |
+| `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟡 In Dev |
 
 #### Cross-Chain
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `network.ucash.eth` | Network | 🟢 Manager |
-| `bridge.ucash.eth` | Bridge | 🟢 Manager |
-| `exchange.ucash.eth` | Exchange | 🟢 Manager |
+| `network.ucash.eth` | Network | 🟡 In Dev |
+| `bridge.ucash.eth` | Bridge | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange | 🟡 In Dev |
 
 ### 🔍 Explorers & Tools
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `scan.ucash.eth` | Block Explorer | 🟢 Manager |
-| `verify.ucash.eth` | Verification | 🟢 Manager |
-| `link.ucash.eth` | Linking | 🟢 Manager |
-| `mgr.ucash.eth` | Manager | 🟢 Manager |
-| `nic.ucash.eth` | NIC | 🟢 Manager |
-| `support.ucash.eth` | Support | 🟢 Manager |
-| `bounties.ucash.eth` | Bounties | 🟢 Manager |
-| `news.ucash.eth` | News | 🟢 Manager |
-| `channel.ucash.eth` | Channel | 🟢 Manager |
-| `cash.ucash.eth` | Cash | 🟢 Manager |
-| `builders.ucash.eth` | Builders | 🟢 Manager |
+| `scan.ucash.eth` | Block Explorer | 🟡 In Dev |
+| `verify.ucash.eth` | Verification | 🟡 In Dev |
+| `link.ucash.eth` | Linking | 🟡 In Dev |
+| `mgr.ucash.eth` | Manager | 🟡 In Dev |
+| `nic.ucash.eth` | NIC | 🟡 In Dev |
+| `support.ucash.eth` | Support | 🟡 In Dev |
+| `bounties.ucash.eth` | Bounties | 🟡 In Dev |
+| `news.ucash.eth` | News | 🟡 In Dev |
+| `channel.ucash.eth` | Channel | 🟡 In Dev |
+| `cash.ucash.eth` | Cash | 🟡 In Dev |
+| `builders.ucash.eth` | Builders | 🟡 In Dev |
 
 ### 💾 Decentralized Storage Subdomains
 
 | Subdomain | Protocol | Purpose | Status |
 |-----------|----------|---------|--------|
-| `ipfs.ucash.eth` | IPFS | IPFS gateway | 🟢 Manager |
-| `arweave.ucash.eth` | Arweave | Arweave storage | 🟢 Manager |
-| `swarm.ucash.eth` | Swarm | Swarm storage | 🟢 Manager |
-| `onion.ucash.eth` | Tor/I2P | Onion routing | 🟢 Manager |
-| `skynet.ucash.eth` | Skynet | Skynet storage | 🟢 Manager |
-| `dns.ucash.eth` | DNS | DNS records | 🟢 Manager |
-| `ens.ucash.eth` | ENS | ENS integration | 🟢 Manager |
-| `domains.ucash.eth` | Domains | Domain services | 🟢 Manager |
-| `names.ucash.eth` | Names | Name services | 🟢 Manager |
-| `uns.ucash.eth` | UNS | Unstoppable Domains | 🟢 Manager |
-| `linked.ucash.eth` | Linked | Linked data | 🟢 Manager |
+| `ipfs.ucash.eth` | IPFS | IPFS gateway | 🟡 In Dev |
+| `arweave.ucash.eth` | Arweave | Arweave storage | 🟡 In Dev |
+| `swarm.ucash.eth` | Swarm | Swarm storage | 🟡 In Dev |
+| `onion.ucash.eth` | Tor/I2P | Onion routing | 🟡 In Dev |
+| `skynet.ucash.eth` | Skynet | Skynet storage | 🟡 In Dev |
+| `dns.ucash.eth` | DNS | DNS records | 🟡 In Dev |
+| `ens.ucash.eth` | ENS | ENS integration | 🟡 In Dev |
+| `domains.ucash.eth` | Domains | Domain services | 🟡 In Dev |
+| `names.ucash.eth` | Names | Name services | 🟡 In Dev |
+| `uns.ucash.eth` | UNS | Unstoppable Domains | 🟡 In Dev |
+| `linked.ucash.eth` | Linked | Linked data | 🟡 In Dev |
 
 ### 🌍 Geographic TLD Subdomains (Country Code TLDs)
 
@@ -155,101 +155,101 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `nl.ucash.eth` | Netherlands | Dutch operations / "New Line" | 🟢 Manager |
-| `fm.ucash.eth` | Federated States of Micronesia | FM operations / FM Radio | 🟢 Manager |
-| `tv.ucash.eth` | Tuvalu | TV operations / Television & Streaming | 🟢 Manager |
-| `mx.ucash.eth` | Mexico | Mexican operations / Mexico | 🟢 Manager |
-| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟢 Manager |
-| `ar.ucash.eth` | Argentina | Argentine operations / Argentina | 🟢 Manager |
-| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟢 Manager |
-| `kr.ucash.eth` | South Korea | Korean operations | 🟢 Manager |
-| `ru.ucash.eth` | Russia | Russian operations | 🟢 Manager |
-| `cn.ucash.eth` | China | Chinese operations | 🟢 Manager |
-| `jp.ucash.eth` | Japan | Japanese operations | 🟢 Manager |
-| `es.ucash.eth` | Spain | Spanish operations | 🟢 Manager |
-| `it.ucash.eth` | Italy | Italian operations | 🟢 Manager |
-| `fr.ucash.eth` | France | French operations | 🟢 Manager |
-| `de.ucash.eth` | Germany | German operations | 🟢 Manager |
-| `my.ucash.eth` | Malaysia | Malaysian operations | 🟢 Manager |
-| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟢 Manager |
-| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟢 Manager |
-| `at.ucash.eth` | Austria | Austrian operations | 🟢 Manager |
-| `uk.ucash.eth` | United Kingdom | UK operations | 🟢 Manager |
-| `ca.ucash.eth` | Canada | Canadian operations | 🟢 Manager |
-| `us.ucash.eth` | United States | US operations | 🟢 Manager |
-| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟢 Manager |
-| `mw.ucash.eth` | Malawi | Malawi operations | 🟢 Manager |
-| `in.ucash.eth` | India | Indian operations | 🟢 Manager |
-| `id.ucash.eth` | Indonesia | Indonesian operations | 🟢 Manager |
+| `nl.ucash.eth` | Netherlands | Dutch operations / "New Line" | 🟡 In Dev |
+| `fm.ucash.eth` | Federated States of Micronesia | FM operations / FM Radio | 🟡 In Dev |
+| `tv.ucash.eth` | Tuvalu | TV operations / Television & Streaming | 🟡 In Dev |
+| `mx.ucash.eth` | Mexico | Mexican operations / Mexico | 🟡 In Dev |
+| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟡 In Dev |
+| `ar.ucash.eth` | Argentina | Argentine operations / Argentina | 🟡 In Dev |
+| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟡 In Dev |
+| `kr.ucash.eth` | South Korea | Korean operations | 🟡 In Dev |
+| `ru.ucash.eth` | Russia | Russian operations | 🟡 In Dev |
+| `cn.ucash.eth` | China | Chinese operations | 🟡 In Dev |
+| `jp.ucash.eth` | Japan | Japanese operations | 🟡 In Dev |
+| `es.ucash.eth` | Spain | Spanish operations | 🟡 In Dev |
+| `it.ucash.eth` | Italy | Italian operations | 🟡 In Dev |
+| `fr.ucash.eth` | France | French operations | 🟡 In Dev |
+| `de.ucash.eth` | Germany | German operations | 🟡 In Dev |
+| `my.ucash.eth` | Malaysia | Malaysian operations | 🟡 In Dev |
+| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟡 In Dev |
+| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟡 In Dev |
+| `at.ucash.eth` | Austria | Austrian operations | 🟡 In Dev |
+| `uk.ucash.eth` | United Kingdom | UK operations | 🟡 In Dev |
+| `ca.ucash.eth` | Canada | Canadian operations | 🟡 In Dev |
+| `us.ucash.eth` | United States | US operations | 🟡 In Dev |
+| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟡 In Dev |
+| `mw.ucash.eth` | Malawi | Malawi operations | 🟡 In Dev |
+| `in.ucash.eth` | India | Indian operations | 🟡 In Dev |
+| `id.ucash.eth` | Indonesia | Indonesian operations | 🟡 In Dev |
 
 #### Middle East & North Africa
 
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟢 Manager |
-| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Link** (Chinese) | 🟢 Manager |
-| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟢 Manager |
-| `ad.ucash.eth` | Andorra | Andorran operations / **Advertisement & Ads** | 🟢 Manager |
-| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟢 Manager |
+| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟡 In Dev |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Link** (Chinese) | 🟡 In Dev |
+| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟡 In Dev |
+| `ad.ucash.eth` | Andorra | Andorran operations / **Advertisement & Ads** | 🟡 In Dev |
+| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟡 In Dev |
 
 #### Asia-Pacific & Others
 
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟢 Manager |
-| `co.ucash.eth` | Colombia | Colombian operations / **Company, Corporate, Commerce** | 🟢 Manager |
-| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume), Crypto ventures** | 🟢 Manager |
-| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟢 Manager |
-| `la.ucash.eth` | Laos | Laotian operations / **Los Angeles, LA brand, .la TLD** | 🟢 Manager |
-| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Links, Link shortener, Brands** | 🟢 Manager |
-| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟢 Manager |
-| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟢 Manager |
-| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟢 Manager |
-| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟢 Manager |
-| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟢 Manager |
-| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟢 Manager |
-| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟢 Manager |
-| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟢 Manager |
-| `mx.ucash.eth` | Mexico | Mexican operations / **MX records (mail), DNS mail exchange** | 🟢 Manager |
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟡 In Dev |
+| `co.ucash.eth` | Colombia | Colombian operations / **Company, Corporate, Commerce** | 🟡 In Dev |
+| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume), Crypto ventures** | 🟡 In Dev |
+| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟡 In Dev |
+| `la.ucash.eth` | Laos | Laotian operations / **Los Angeles, LA brand, .la TLD** | 🟡 In Dev |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Links, Link shortener, Brands** | 🟡 In Dev |
+| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟡 In Dev |
+| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟡 In Dev |
+| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟡 In Dev |
+| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟡 In Dev |
+| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟡 In Dev |
+| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟡 In Dev |
+| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟡 In Dev |
+| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟡 In Dev |
+| `mx.ucash.eth` | Mexico | Mexican operations / **MX records (mail), DNS mail exchange** | 🟡 In Dev |
 
 ### 📝 Generic TLD Subdomains (gTLDs)
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `la.ucash.eth` | Los Angeles TLD | 🟢 Manager |
-| `tld.ucash.eth` | TLD operations | 🟢 Manager |
-| `club.ucash.eth` | Club TLD | 🟢 Manager |
-| `pro.ucash.eth` | Professional TLD | 🟢 Manager |
-| `biz.ucash.eth` | Business TLD | 🟢 Manager |
-| `name.ucash.eth` | Name TLD | 🟢 Manager |
-| `vip.ucash.eth` | VIP TLD | 🟢 Manager |
-| `top.ucash.eth` | Top TLD | 🟢 Manager |
-| `tech.ucash.eth` | Technology TLD | 🟢 Manager |
-| `online.ucash.eth` | Online TLD | 🟢 Manager |
-| `ooo.ucash.eth` | Sales TLD | 🟢 Manager |
-| `gdn.ucash.eth` | gTLD | 🟢 Manager |
-| `xyz.ucash.eth` | XYZ TLD | 🟢 Manager |
-| `u.ucash.eth` | US TLD | 🟢 Manager |
-| `net.ucash.eth` | Network TLD | 🟢 Manager |
-| `org.ucash.eth` | Organization TLD | 🟢 Manager |
-| `onl.ucash.eth` | Online TLD | 🟢 Manager |
-| `com.ucash.eth` | Commercial TLD | 🟢 Manager |
-| `wiki.ucash.eth` | Wiki TLD | 🟢 Manager |
-| `technology.ucash.eth` | Technology TLD | 🟢 Manager |
-| `productions.ucash.eth` | Productions TLD | 🟢 Manager |
-| `exchange.ucash.eth` | Exchange TLD | 🟢 Manager |
+| `la.ucash.eth` | Los Angeles TLD | 🟡 In Dev |
+| `tld.ucash.eth` | TLD operations | 🟡 In Dev |
+| `club.ucash.eth` | Club TLD | 🟡 In Dev |
+| `pro.ucash.eth` | Professional TLD | 🟡 In Dev |
+| `biz.ucash.eth` | Business TLD | 🟡 In Dev |
+| `name.ucash.eth` | Name TLD | 🟡 In Dev |
+| `vip.ucash.eth` | VIP TLD | 🟡 In Dev |
+| `top.ucash.eth` | Top TLD | 🟡 In Dev |
+| `tech.ucash.eth` | Technology TLD | 🟡 In Dev |
+| `online.ucash.eth` | Online TLD | 🟡 In Dev |
+| `ooo.ucash.eth` | Sales TLD | 🟡 In Dev |
+| `gdn.ucash.eth` | gTLD | 🟡 In Dev |
+| `xyz.ucash.eth` | XYZ TLD | 🟡 In Dev |
+| `u.ucash.eth` | US TLD | 🟡 In Dev |
+| `net.ucash.eth` | Network TLD | 🟡 In Dev |
+| `org.ucash.eth` | Organization TLD | 🟡 In Dev |
+| `onl.ucash.eth` | Online TLD | 🟡 In Dev |
+| `com.ucash.eth` | Commercial TLD | 🟡 In Dev |
+| `wiki.ucash.eth` | Wiki TLD | 🟡 In Dev |
+| `technology.ucash.eth` | Technology TLD | 🟡 In Dev |
+| `productions.ucash.eth` | Productions TLD | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange TLD | 🟡 In Dev |
 
 ### 🎨 Brand & Identity Subdomains
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `brand.ucash.eth` | Brand | 🟢 Manager |
-| `cash.ucash.eth` | Cash brand | 🟢 Manager |
-| `builders.ucash.eth` | Builders | 🟢 Manager |
-| `technology.ucash.eth` | Technology | 🟢 Manager |
-| `productions.ucash.eth` | Productions | 🟢 Manager |
-| `exchange.ucash.eth` | Exchange | 🟢 Manager |
-| `channel.ucash.eth` | Channel | 🟢 Manager |
+| `brand.ucash.eth` | Brand | 🟡 In Dev |
+| `cash.ucash.eth` | Cash brand | 🟡 In Dev |
+| `builders.ucash.eth` | Builders | 🟡 In Dev |
+| `technology.ucash.eth` | Technology | 🟡 In Dev |
+| `productions.ucash.eth` | Productions | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange | 🟡 In Dev |
+| `channel.ucash.eth` | Channel | 🟡 In Dev |
 
 ---
 
@@ -324,15 +324,15 @@ Based on subdomains, UCASH supports:
 
 | Network | Status | Subdomain |
 |---------|--------|-----------|
-| **Ethereum** | 🟢 Active | Main operations |
-| **Polygon** | 🟢 Active | polygon.ucash.eth |
-| **Base** | 🟢 Active | base.ucash.eth |
-| **Arbitrum** | 🟢 Active | arb.ucash.eth |
-| **Optimism** | 🟢 Active | op.ucash.eth |
-| **Linea** | 🟢 Active | linea.ucash.eth |
-| **Solana** | 🟢 Active | sol.ucash.eth |
-| **BNB Chain** | 🟢 Active | bnb.ucash.eth |
-| **Bitcoin** | 🟢 Active | btc.ucash.eth |
+| **Ethereum** | 🟡 In Dev | Main operations |
+| **Polygon** | 🟡 In Dev | polygon.ucash.eth |
+| **Base** | 🟡 In Dev | base.ucash.eth |
+| **Arbitrum** | 🟡 In Dev | arb.ucash.eth |
+| **Optimism** | 🟡 In Dev | op.ucash.eth |
+| **Linea** | 🟡 In Dev | linea.ucash.eth |
+| **Solana** | 🟡 In Dev | sol.ucash.eth |
+| **BNB Chain** | 🟡 In Dev | bnb.ucash.eth |
+| **Bitcoin** | 🟡 In Dev | btc.ucash.eth |
 
 ---
 
