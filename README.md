@@ -721,8 +721,8 @@ await wallet.sendTransaction({
 **Q: How many subdomains does ucash.eth have?**
 A: **100+ subdomains** currently in development (as of 2026-04-21)
 
-**Q: What multi-chain names does UCASH have registered?**
-A: UCASH has **10+ blockchain name registrations active** across:
+**Q: What multi-chain names does UCASH have available?**
+A: UCASH has **10+ blockchain names active** across:
 - ENS: `ucash.eth` (100+ subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
