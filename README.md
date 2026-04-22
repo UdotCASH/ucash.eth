@@ -66,7 +66,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 - ✨ **Multi-chain presence** across 10+ blockchain networks
 - 🏗️ **100+ subdomains** providing decentralized services
 - 🌐 **1,200+ active sites** across various industries and niches
-- 🔧 **Live services, applications, and dApps** deployed globally
+- 🔧 **20+ apps, dApps and services** live and deployed globally
 - 🤖 **AI-powered tools** and automated services
 - 🎁 **Ongoing bounty programs** with innovative distribution models
 - 👥 **650,000+ users** onboarded globally
@@ -142,8 +142,9 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🔐 **[.U Domains Claimed](https://dune.com/toysoldi3rr/ud-u-snapshot)** | 22,000+ |
 | 👥 **Users Onboarded** | 650,000+ |
 | 💰 **[On-Chain UCASH Holders](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37#balances)** | 300,000+ |
-| 🌐 **DNS Domains Managed** | 4,000+ |
-| 🔗 **Web3 Domains/Handles Managed** | 2,000+ |
+| 🌐 **DNS Domains Managed** | 3,000+ |
+| 🔗 **Web3 Domains/Handles Managed** | 1,000+ |
+| 📱 **Apps, dApps & Services Live** | 20+ |
 | 🌍 **Industries Covered** | Various niches |
 | 📅 **Years Active** | 10+ (2015-Now) |
 | 🎯 **Platform Interactions** | 4,000,000+ |
