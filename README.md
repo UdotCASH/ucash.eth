@@ -644,12 +644,12 @@ Based on subdomains, UCASH supports:
 - [Unisat](https://unisat.io) - Bitcoin BRC-20 wallet
 
 **Apps & Managers:**
-- [BNS.xyz](https://bns.xyz/) - BNS manager
+- [BNS](https://bns.org/) - BNS manager
 - [Stacks Name Lookup](https://stacks.zone/) - Name search
 
 **Explorers:**
 - [Stacks Explorer](https://explorer.stacks.co/) - Stacks blockchain
-- [BNS Explorers](https://bns.xyz/explorer) - Name explorer
+- [BNS Explorer](https://bns.org/) - Name explorer
 - [Blockstream](https://blockstream.info) - Bitcoin explorer
 
 ---
