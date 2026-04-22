@@ -827,7 +827,7 @@ A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoi
 A: All 100+ subdomains are currently in development status
 
 **Q: What storage networks are integrated?**
-A: IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
+A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 
 **Q: How do I verify a subdomain?**
 A: Check https://app.ens.domains/ucash.eth?tab=subnames
