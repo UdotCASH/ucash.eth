@@ -94,20 +94,28 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 💵 **Apr 2019** | **uFiats** | UCAD+ Market Experiment |
 | 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
 | 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
+| 💼 **Feb 2020** | **uWallet** | U Self-Custody App |
 | 🏪 **Apr 2020** | **E-Com & B2B** | E-commerce and B2B integration |
+| 📦 **Oct 2020** | **Wholesale** | Business Wholesale Products |
 | 🌍 **Jan 2021** | **Global Launch** | B2B Worldwide Services |
 | 💳 **Aug 2021** | **Payments** | Payment infrastructure |
 | 🎮 **Feb 2021** | **Univirsal** | 3D\|NFT\|Metaverse\|Gaming |
 | 📖 **Dec 2021** | **Univirse** | U Storyline |
 | 🚚 **Jan 2022** | **Logistics** | Logistics solutions |
+| 💰 **Feb 2022** | **UNITS** | UCASH Peg Token |
+| ⛓️ **Mar 2022** | **UCHAIN** | U Blockchain v0.1 |
 | 🌐 **Dec 2022** | **DNS & Domains** | DNS and domain services |
 | 🔮 **Apr 2023** | **Ucosystem** | Ucosystem platform launch |
 | 📝 **May 2023** | **Unregistrar** | TLD/DNS Registry Platform |
 | 🤖 **Dec 2023** | **AI** | AI integrations deployed |
+| ₿ **Apr 2024** | **Unsatoshi** | Bitcoin Layer Assets |
 | 🛒 **Jun 2024** | **Umerce** | Rebrand of uMerchants |
+| 🖥️ **May 2024** | **Upache** | Servers & Global DNS |
 | 🌐 **Aug 2024** | **U.ONL** | U.ONL platform launch |
+| 🧠 **Sep 2024** | **Uantum** | Internal LLM Model v1 |
 | 📝 **Nov 2024** | **Unregistry** | Unregistry service launch |
 | 🔐 **Dec 2024** | **Web3 Naming (.u)** | .u domain naming service |
+| 🌐 **Jan 2025** | **ONL Ecosystem** | .ONL TLD Domains |
 | 🌐 **Aug 2025** | **www.onl TLDs** | ICANN TLD Program Applications |
 | 🏷️ **Dec 2025** | **Undomains** | Domains Platform v1 |
 | 🚀 **Feb 2026** | **UN4** | UN4 platform launch |
