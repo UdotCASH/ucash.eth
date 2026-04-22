@@ -91,6 +91,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
 | 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
 | 🏪 **Apr 2020** | **E-Com & B2B** | E-commerce and B2B integration |
+| 🌍 **Jan 2021** | **Global Launch** | B2B Worldwide Services |
 | 💳 **Aug 2021** | **Payments** | Payment infrastructure |
 | 🚚 **Jan 2022** | **Logistics** | Logistics solutions |
 | 🌐 **Dec 2022** | **DNS & Domains** | DNS and domain services |
