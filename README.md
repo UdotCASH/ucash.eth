@@ -643,20 +643,20 @@ ucash.eth
 
 Based on subdomains, UCASH supports:
 
-| Network | Status      | ENS Subname | Native Chain Name | Naming Service |
-|---------|-----------|---------------|-------------------|----------------|
-| **Ethereum** | 🟡 Dev | Main operations | `ucash.eth` | ENS |
-| **Polygon** | 🟡 Dev | polygon.ucash.eth | `ucash.polygon` | Unstoppable Domains |
-| **Base** | 🟡 Dev | base.ucash.eth | `ucash.base.eth` | Base Names |
-| **Arbitrum** | 🟡 Dev | arb.ucash.eth | `ucash.arb` | SpaceID |
-| **Optimism** | 🟡 Dev | op.ucash.eth | `ucash.op` | OP Domains |
-| **Linea** | 🟡 Dev | linea.ucash.eth | `ucash.linea.eth` | Linea Names |
-| **Solana** | 🟡 Dev | sol.ucash.eth | `ucash.sol` | Solana Name Service |
-| **BNB Chain** | 🟡 Dev | bnb.ucash.eth | `ucash.bnb` | SpaceID |
-| **Bitcoin** | 🟡 Dev | btc.ucash.eth | `ucash.btc` | Bitcoin Name Service |
-| **XRP Ledger** | 🟡 Dev | xrp.ucash.eth | `ucash.xrp` | XRP Name Service |
-| **Litecoin** | 🟡 Dev | ltc.ucash.eth | `ucash.ltc` | LTC Names |
-| **Monero** | 🟡 Dev | xmr.ucash.eth | `ucash.xmr` | XMR Names |
+| Network | ENS Subname | Native Chain Name | Naming Service | Status          |
+|---------|---------------|-------------------|----------------|---------------|
+| **Ethereum** | Main operations | `ucash.eth` | ENS | 🟡 Dev |
+| **Polygon** | polygon.ucash.eth | `ucash.polygon` | Unstoppable Domains | 🟡 Dev |
+| **Base** | base.ucash.eth | `ucash.base.eth` | Base Names | 🟡 Dev |
+| **Arbitrum** | arb.ucash.eth | `ucash.arb` | SpaceID | 🟡 Dev |
+| **Optimism** | op.ucash.eth | `ucash.op` | OP Domains | 🟡 Dev |
+| **Linea** | linea.ucash.eth | `ucash.linea.eth` | Linea Names | 🟡 Dev |
+| **Solana** | sol.ucash.eth | `ucash.sol` | Solana Name Service | 🟡 Dev |
+| **BNB Chain** | bnb.ucash.eth | `ucash.bnb` | SpaceID | 🟡 Dev |
+| **Bitcoin** | btc.ucash.eth | `ucash.btc` | Bitcoin Name Service | 🟡 Dev |
+| **XRP Ledger** | xrp.ucash.eth | `ucash.xrp` | XRP Name Service | 🟡 Dev |
+| **Litecoin** | ltc.ucash.eth | `ucash.ltc` | LTC Names | 🟡 Dev |
+| **Monero** | xmr.ucash.eth | `ucash.xmr` | XMR Names | 🟡 Dev |
 
 ### 🔑 Supported Wallets, Apps & Explorers
 
