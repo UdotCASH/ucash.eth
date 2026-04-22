@@ -26,7 +26,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 |-----------|-------|
 | **Primary ENS** | `ucash.eth` |
 | **Total ENS Subdomains** | **100+ Development** |
-| **Multi-Chain Names** | **12+ Active** |
+| **Multi-Chain Names** | **10+ Active** |
 | **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP, Litecoin, Monero |
 | **Status** | 🟡 Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
