@@ -405,17 +405,18 @@ ucash.eth
 
 Based on subdomains, UCASH supports:
 
-| Network | Status | Subdomain |
-|---------|--------|-----------|
-| **Ethereum** | 🟡 In Dev | Main operations |
-| **Polygon** | 🟡 In Dev | polygon.ucash.eth |
-| **Base** | 🟡 In Dev | base.ucash.eth |
-| **Arbitrum** | 🟡 In Dev | arb.ucash.eth |
-| **Optimism** | 🟡 In Dev | op.ucash.eth |
-| **Linea** | 🟡 In Dev | linea.ucash.eth |
-| **Solana** | 🟡 In Dev | sol.ucash.eth |
-| **BNB Chain** | 🟡 In Dev | bnb.ucash.eth |
-| **Bitcoin** | 🟡 In Dev | btc.ucash.eth |
+| Network | Status | ENS Subdomain | Native Chain Name | Naming Service |
+|---------|--------|---------------|-------------------|----------------|
+| **Ethereum** | 🟡 In Dev | Main operations | `ucash.eth` | ENS |
+| **Polygon** | 🟡 In Dev | polygon.ucash.eth | `ucash.polygon` | Unstoppable Domains |
+| **Base** | 🟡 In Dev | base.ucash.eth | `ucash.base.eth` | Base Names |
+| **Arbitrum** | 🟡 In Dev | arb.ucash.eth | `ucash.arb` | SpaceID |
+| **Optimism** | 🟡 In Dev | op.ucash.eth | `ucash.op` | OP Domains |
+| **Linea** | 🟡 In Dev | linea.ucash.eth | `ucash.linea.eth` | Linea Names |
+| **Solana** | 🟡 In Dev | sol.ucash.eth | `ucash.sol` | Solana Name Service |
+| **BNB Chain** | 🟡 In Dev | bnb.ucash.eth | `ucash.bnb` | SpaceID |
+| **Bitcoin** | 🟡 In Dev | btc.ucash.eth | `ucash.btc` | Bitcoin Name Service |
+| **XRP Ledger** | 🟡 In Dev | xrp.ucash.eth | `ucash.xrp` | XRP Name Service |
 
 ---
 

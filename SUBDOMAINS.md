@@ -75,6 +75,7 @@ All subdomains resolve to verified addresses or services.
 | `sol.ucash.eth` | Solana | Solana operations | 🟡 In Dev |
 | `bnb.ucash.eth` | BNB Chain | BNB operations | 🟡 In Dev |
 | `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟡 In Dev |
+| `xrp.ucash.eth` | XRP Ledger | XRP operations | 🟡 In Dev |
 
 ### Cross-Chain
 
