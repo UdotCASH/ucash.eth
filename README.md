@@ -170,14 +170,14 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 **📱 Connect With Us:**
 
-🐦 **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)<br>
-▶️ **YouTube**: [youtube.com/@UdotCASH](https://youtube.com/@UdotCASH)<br>
-📸 **Instagram**: [instagram.com/UdotCASH](https://instagram.com/UdotCASH)<br>
-📘 **Facebook**: [fb.com/UdotCASH](https://fb.com/UdotCASH)<br>
-🔴 **Reddit**: [reddit.com/r/ucash](https://reddit.com/r/ucash)<br>
-💼 **LinkedIn**: [linkedin.com/company/ucash](https://linkedin.com/company/ucash)<br>
-💻 **GitHub**: [github.com/UdotCASH](https://github.com/UdotCASH)<br>
-✈️ **Telegram**: [t.me/ucash](https://t.me/ucash)
+🐦 [Twitter](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)<br>
+▶️ [YouTube](https://youtube.com/@UdotCASH)<br>
+📸 [Instagram](https://instagram.com/UdotCASH)<br>
+📘 [Facebook](https://fb.com/UdotCASH)<br>
+🔴 [Reddit](https://reddit.com/r/ucash)<br>
+💼 [LinkedIn](https://linkedin.com/company/ucash)<br>
+💻 [GitHub](https://github.com/UdotCASH)<br>
+✈️ [Telegram](https://t.me/ucash)
 
 ---
 
