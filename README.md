@@ -63,13 +63,13 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 UCASH is a **network loyalty, rewards, and utility asset** that has been building innovative Web3 infrastructure since 2015. Our ecosystem encompasses:
 
-- ✨ **Multi-chain presence** across 12+ blockchain networks
+- ✨ **Multi-chain presence** across 10+ blockchain networks
 - 🏗️ **100+ subdomains** providing decentralized services
 - 🌐 **2,000+ active sites** across various industries and niches
 - 🔧 **Live services, applications, and dApps** deployed globally
 - 🤖 **AI-powered tools** and automated services
 - 🎁 **Ongoing bounty programs** with innovative distribution models
-- 👥 **600,000+ users** onboarded globally
+- 👥 **650,000+ users** onboarded globally
 - 💰 **[300,000+ on-chain holders](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37#balances)** across multiple networks
 - 🔐 **[22,000+ .U domains claimed](https://dune.com/toysoldi3rr/ud-u-snapshot)** on Unstoppable Domains
 - 🌐 **4,000+ DNS domains** managed across the ecosystem
@@ -133,15 +133,15 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | Metric | Count |
 |--------|-------|
 | 🌐 **Active Sites** | 2,000+ |
-| 🔗 **Blockchain Networks** | 12+ |
+| 🔗 **Blockchain Networks** | 10+ |
 | 🏷️ **ENS Subdomains** | 100+ |
 | 🔐 **[.U Domains Claimed](https://dune.com/toysoldi3rr/ud-u-snapshot)** | 22,000+ |
-| 👥 **Users Onboarded** | 600,000+ |
+| 👥 **Users Onboarded** | 650,000+ |
 | 💰 **[On-Chain UCASH Holders](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37#balances)** | 300,000+ |
 | 🌐 **DNS Domains Managed** | 4,000+ |
 | 🔗 **Web3 Domains/Handles Managed** | 2,000+ |
 | 🌍 **Industries Covered** | Various niches |
-| 📅 **Years Active** | 12+ (2015-2027) |
+| 📅 **Years Active** | 10+ (2015-Current) |
 
 ### 🤝 Join Our Community
 
