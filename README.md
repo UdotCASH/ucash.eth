@@ -213,42 +213,42 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Subdomain | Country/Region | Primary/Dual Purpose | Status |
 |-----------|---------------|-------------------|--------|
-| `ad.ucash.eth` | Andorra | Andorran operations / **Advertisement & Ads** | 🟡 In Dev |
-| `ar.ucash.eth` | Argentina | Argentine operations / **Augmented Reality (AR)** | 🟡 In Dev |
-| `at.ucash.eth` | Austria | Austrian operations / **@ symbol representation, "at" links** | 🟡 In Dev |
-| `br.ucash.eth` | Brazil | Brazilian operations / Brazil | 🟡 In Dev |
-| `ca.ucash.eth` | Canada | Canadian operations / Canada | 🟡 In Dev |
-| `cc.ucash.eth` | Cocos Islands | CC operations / **Cryptocurrency** | 🟡 In Dev |
-| `cn.ucash.eth` | China | Chinese operations | 🟡 In Dev |
-| `co.ucash.eth` | Colombia | Colombian operations / **Company, Corporate, Commerce** | 🟡 In Dev |
-| `cv.ucash.eth` | Cape Verde | Cape Verdean operations / **Curriculum Vitae (resume), Crypto ventures** | 🟡 In Dev |
-| `de.ucash.eth` | Germany | German operations | 🟡 In Dev |
-| `es.ucash.eth` | Spain | Spanish operations | 🟡 In Dev |
-| `fm.ucash.eth` | Federated States of Micronesia | FM operations / **FM Radio** | 🟡 In Dev |
-| `fr.ucash.eth` | France | French operations | 🟡 In Dev |
-| `id.ucash.eth` | Indonesia | Indonesian operations / **Identity (ID), Digital identity** | 🟡 In Dev |
-| `in.ucash.eth` | India | Indian operations / **"in" (location, situation, state), India-first** | 🟡 In Dev |
-| `io.ucash.eth` | British Indian Ocean Territory | BIOT operations / **I/O & Tech (Input/Output)** | 🟡 In Dev |
-| `it.ucash.eth` | Italy | Italian operations / **Information Technology (IT), IT services** | 🟡 In Dev |
-| `jp.ucash.eth` | Japan | Japanese operations | 🟡 In Dev |
-| `kr.ucash.eth` | South Korea | Korean operations | 🟡 In Dev |
-| `la.ucash.eth` | Laos | Laotian operations / **Los Angeles, LA brand, .la TLD** | 🟡 In Dev |
-| `li.ucash.eth` | Liechtenstein | Liechtenstein operations / **Links, Link shortener, Brands** | 🟡 In Dev |
-| `ly.ucash.eth` | Libya | Libyan operations / **Link shortener** | 🟡 In Dev |
-| `me.ucash.eth` | Montenegro | Montenegrin operations / **Personal Identity** ("about me") | 🟡 In Dev |
-| `mx.ucash.eth` | Mexico | Mexican operations / **MX records (mail), DNS mail exchange** | 🟡 In Dev |
-| `mw.ucash.eth` | Malawi | Malawian operations / **Megawatt (energy, power)** | 🟡 In Dev |
-| `my.ucash.eth` | Malaysia | Malaysian operations / **Personal sites, "My" prefix, .my domains** | 🟡 In Dev |
-| `ng.ucash.eth` | Nigeria | Nigerian operations | 🟡 In Dev |
-| `nl.ucash.eth` | Netherlands | Dutch operations / **"New Line"** | 🟡 In Dev |
-| `ru.ucash.eth` | Russia | Russian operations | 🟡 In Dev |
-| `rw.ucash.eth` | Rwanda | Rwandan operations / **RW (Real World, Real World Assets)** | 🟡 In Dev |
-| `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟡 In Dev |
-| `tv.ucash.eth` | Tuvalu | TV operations / **Television & Streaming** | 🟡 In Dev |
-| `uk.ucash.eth` | United Kingdom | UK operations | 🟡 In Dev |
-| `us.ucash.eth` | United States | US operations / **"About Us", US-focused content** | 🟡 In Dev |
-| `vn.ucash.eth` | Vietnam | Vietnamese operations | 🟡 In Dev |
-| `ws.ucash.eth` | Samoa | Samoan operations / **Websites, Web Services, WebSocket** | 🟡 In Dev |
+| `ad.ucash.eth` | Andorra | Andorra TLD / **Advertisement & Ads** | 🟡 In Dev |
+| `ar.ucash.eth` | Argentina | Argentina TLD / **Augmented Reality (AR)** | 🟡 In Dev |
+| `at.ucash.eth` | Austria | Austria TLD / **@ symbol representation, "at" links** | 🟡 In Dev |
+| `br.ucash.eth` | Brazil | Brazil TLD | 🟡 In Dev |
+| `ca.ucash.eth` | Canada | Canada TLD | 🟡 In Dev |
+| `cc.ucash.eth` | Cocos Islands | Cocos Islands TLD / **Cryptocurrency** | 🟡 In Dev |
+| `cn.ucash.eth` | China | China TLD | 🟡 In Dev |
+| `co.ucash.eth` | Colombia | Colombia TLD / **Company, Corporate, Commerce** | 🟡 In Dev |
+| `cv.ucash.eth` | Cape Verde | Cape Verde TLD / **Curriculum Vitae (resume), Crypto ventures** | 🟡 In Dev |
+| `de.ucash.eth` | Germany | Germany TLD | 🟡 In Dev |
+| `es.ucash.eth` | Spain | Spain TLD | 🟡 In Dev |
+| `fm.ucash.eth` | Federated States of Micronesia | Micronesia TLD / **FM Radio** | 🟡 In Dev |
+| `fr.ucash.eth` | France | France TLD | 🟡 In Dev |
+| `id.ucash.eth` | Indonesia | Indonesia TLD / **Identity (ID), Digital identity** | 🟡 In Dev |
+| `in.ucash.eth` | India | India TLD / **"in" (location, situation, state), India-first** | 🟡 In Dev |
+| `io.ucash.eth` | British Indian Ocean Territory | BIOT TLD / **I/O & Tech (Input/Output)** | 🟡 In Dev |
+| `it.ucash.eth` | Italy | Italy TLD / **Information Technology (IT), IT services** | 🟡 In Dev |
+| `jp.ucash.eth` | Japan | Japan TLD | 🟡 In Dev |
+| `kr.ucash.eth` | South Korea | South Korea TLD | 🟡 In Dev |
+| `la.ucash.eth` | Laos | Laos TLD / **Los Angeles, LA brand, .la TLD** | 🟡 In Dev |
+| `li.ucash.eth` | Liechtenstein | Liechtenstein TLD / **Links, Link shortener, Brands** | 🟡 In Dev |
+| `ly.ucash.eth` | Libya | Libya TLD / **Link shortener** | 🟡 In Dev |
+| `me.ucash.eth` | Montenegro | Montenegro TLD / **Personal Identity** ("about me") | 🟡 In Dev |
+| `mx.ucash.eth` | Mexico | Mexico TLD / **MX records (mail), DNS mail exchange** | 🟡 In Dev |
+| `mw.ucash.eth` | Malawi | Malawi TLD / **Megawatt (energy, power)** | 🟡 In Dev |
+| `my.ucash.eth` | Malaysia | Malaysia TLD / **Personal sites, "My" prefix, .my domains** | 🟡 In Dev |
+| `ng.ucash.eth` | Nigeria | Nigeria TLD | 🟡 In Dev |
+| `nl.ucash.eth` | Netherlands | Netherlands TLD / **"New Line"** | 🟡 In Dev |
+| `ru.ucash.eth` | Russia | Russia TLD | 🟡 In Dev |
+| `rw.ucash.eth` | Rwanda | Rwanda TLD / **RW (Real World, Real World Assets)** | 🟡 In Dev |
+| `to.ucash.eth` | Tonga | Tonga TLD / **"To" links** | 🟡 In Dev |
+| `tv.ucash.eth` | Tuvalu | Tuvalu TLD / **Television & Streaming** | 🟡 In Dev |
+| `uk.ucash.eth` | United Kingdom | UK TLD | 🟡 In Dev |
+| `us.ucash.eth` | United States | US TLD / **"About Us", US-focused content** | 🟡 In Dev |
+| `vn.ucash.eth` | Vietnam | Vietnam TLD | 🟡 In Dev |
+| `ws.ucash.eth` | Samoa | Samoa TLD / **Websites, Web Services, WebSocket** | 🟡 In Dev |
 
 ### 📝 Generic TLD Subdomains (gTLDs)
 
