@@ -879,8 +879,8 @@ BNS (Bitcoin Network System) is a decentralized network based on Rings Network, 
 
 ### Reporting Issues
 
-- 📧 **Security**: security@ucash.eth
-- 📧 **Phishing**: abuse@ucash.eth
+- 📧 **Security**: security@u.cash
+- 📧 **Phishing**: abuse@u.cash
 - 📧 **General**: info@u.cash
 
 ---
@@ -997,7 +997,7 @@ A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable D
 
 - **Website**: https://u.cash
 - **Email**: info@u.cash
-- **Security**: security@ucash.eth
+- **Security**: security@u.cash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
 - **Telegram**: t.me/ucash
