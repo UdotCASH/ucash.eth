@@ -36,22 +36,22 @@ All subdomains resolve to verified addresses or services.
 
 | Subdomain | Purpose | Status | Notes |
 |-----------|---------|--------|-------|
-| `batch.ucash.eth` | Batch Sender | 🟡 In Dev | Main contract |
-| `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract directory |
-| `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
-| `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
+| `batch.ucash.eth` | Batch Send | 🟡 In Dev | Batch Wallet |
+| `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract Directory |
+| `token.ucash.eth` | Token | 🟡 In Dev | UCASH Token Contract |
+| `bridge.ucash.eth` | Bridge | 🟡 In Dev | Multi-Chain Bridge |
 | `earn.ucash.eth` | Earn | 🟡 In Dev | Earn Rewards |
-| `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
-| `claim.ucash.eth` | Claims | 🟡 In Dev | Token claims |
-| `lock.ucash.eth` | Locking | 🟡 In Dev | Token locking |
+| `vault.ucash.eth` | Vault | 🟡 In Dev | Token Vaults |
+| `claim.ucash.eth` | Claims | 🟡 In Dev | Token Claims |
+| `lock.ucash.eth` | Locking | 🟡 In Dev | Token Locking |
 | `gov.ucash.eth` | Governance | 🟡 In Dev | Governance |
-| `dao.ucash.eth` | DAO | 🟡 In Dev | DAO operations |
-| `vote.ucash.eth` | Voting | 🟡 In Dev | Voting system |
-| `oracle.ucash.eth` | Oracle | 🟡 In Dev | Price oracle |
-| `agent.ucash.eth` | Agent | 🟡 In Dev | Smart agents |
-| `bot.ucash.eth` | Bot | 🟡 In Dev | Agent/Action Bots |
-| `sign.ucash.eth` | Signing | 🟡 In Dev | Message signing |
-| `supply.ucash.eth` | Supply | 🟡 In Dev | Token supply |
+| `dao.ucash.eth` | DAO | 🟡 In Dev | DAO Ops |
+| `vote.ucash.eth` | Voting | 🟡 In Dev | Voting |
+| `oracle.ucash.eth` | Oracle | 🟡 In Dev | Network Oracles |
+| `agent.ucash.eth` | Agent | 🟡 In Dev | Smart Agents |
+| `bot.ucash.eth` | Bot | 🟡 In Dev | Action Bots |
+| `sign.ucash.eth` | Signing | 🟡 In Dev | Message Signing |
+| `supply.ucash.eth` | Supply | 🟡 In Dev | Token Supply Data |
 | `initial.ucash.eth` | Initial | 🟡 In Dev | Initial Bounty Offering (IBO) Wallet |
 | `ongoing.ucash.eth` | Ongoing | 🟡 In Dev | Ongoing Bounty Offering (OBO) Wallet |
 | `build.ucash.eth` | Build | 🟡 In Dev | Build Bounty Offering (BBO) Wallet |
