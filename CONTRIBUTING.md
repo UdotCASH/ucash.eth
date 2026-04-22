@@ -137,7 +137,7 @@ Before submitting, ensure:
 
 ## 📞 Get in Touch
 
-- **Website**: https://ucash.eth
+- **Website**: https://u.cash
 - **Email**: info@u.cash
 - **Security**: security@ucash.eth
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)

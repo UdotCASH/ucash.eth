@@ -25,7 +25,7 @@ This directory contains official UCASH brand assets.
 
 ## Download
 
-For high-resolution assets, visit: https://ucash.eth/brand
+For high-resolution assets, visit: https://u.cash/brand
 
 ## Contact
 

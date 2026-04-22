@@ -12,7 +12,7 @@
 
 Multi-chain blockchain infrastructure for batch token distribution and payment solutions
 
-[Website](https://ucash.eth) • [Documentation](https://docs.ucash.eth) • [GitHub](https://github.com/UdotCASH)
+[Website](https://u.cash) • [Documentation](https://docs.ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
 </div>
 
@@ -841,7 +841,7 @@ A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable D
 
 ### Official Channels
 
-- **Website**: https://ucash.eth
+- **Website**: https://u.cash
 - **Email**: info@u.cash
 - **Security**: security@ucash.eth
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
