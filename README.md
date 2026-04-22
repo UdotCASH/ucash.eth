@@ -258,7 +258,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 > **Total Active Subnames**: 100+
 > **Last Updated**: 2026-04-22
-> **Source**: https://app.ens.domains/ucash.eth?tab=subnames
+> **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
 ### 🏗️ Core Infrastructure Subnames
 
@@ -869,12 +869,12 @@ BNS (Bitcoin Network System) is a decentralized network based on Rings Network, 
 - All 100+ subdomains are **Manager-controlled** (owned by ucash.eth owner)
 - Only trust addresses from this repository
 - Never trust addresses from unofficial sources
-- Always verify subdomains on https://app.ens.domains/ucash.eth
+- Always verify subdomains on [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth)
 
 ### Verification Steps
 
 1. **Check this repository** - All subdomains listed here
-2. **Verify on ENS app** - https://app.ens.domains/ucash.eth?tab=subnames
+2. **Verify on ENS app** - [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 3. **Check Etherscan** - Verify contract addresses
 4. **Confirm in official channels** - Discord/Telegram
 
@@ -985,7 +985,7 @@ await wallet.sendTransaction({
 <br>A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 
 **Q: How do I verify a subdomain?**
-<br>A: Check https://app.ens.domains/ucash.eth?tab=subnames
+<br>A: Check [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
 **Q: What naming services are used?**
 <br>A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, BNS.org (Bitcoin), XRPNS (XRP), and FIO Protocol
