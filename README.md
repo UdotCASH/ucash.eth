@@ -257,7 +257,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 ## 🌳 Live Subnames - Complete Directory
 
 > **Total Active Subnames**: 100+
-> **Last Updated**: 2026-04-21
+> **Last Updated**: 2026-04-22
 > **Source**: https://app.ens.domains/ucash.eth?tab=subnames
 
 ### 🏗️ Core Infrastructure Subnames
@@ -1040,13 +1040,13 @@ Official UCASH team will **NEVER**:
 
 **100+ Subnames • 10+ Multi-Chain Names • Batch Token Distribution**
 
-[Website](https://ucash.eth) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
+[Website](https://u.cash) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
 </div>
 
 ---
 
-*Last Updated: 2026-04-21*
+*Last Updated: 2026-04-22*
 *Total ENS Subnames: 100+*
-*Multi-Chain Names: 11*
+*Multi-Chain Names: 10+*
 *Repository: https://github.com/UdotCASH/ucash.eth*
