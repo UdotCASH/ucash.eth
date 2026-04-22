@@ -45,6 +45,95 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 ---
 
+## 📖 About UCASH
+
+<div align="center">
+
+### 🎯 The World's 1st & Largest Ongoing Airdrop + Bounty Hunt
+
+**Pioneers of the Initial Bounty Offering (IBO) and Ongoing Bounty Offering (OBO) Distribution Growth Model**
+
+[![Status](https://img.shields.io/badge/Status-Network_Loyalty_%2B_Rewards_%2B_Utility-brightgreen)]()
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-2,000%2B_Sites-blue)]()
+[![Timeline](https://img.shields.io/badge/Timeline-2015--2027-orange)]()
+
+</div>
+
+### 🚀 Project Overview
+
+UCASH is a **network loyalty, rewards, and utility asset** that has been building innovative Web3 infrastructure since 2015. Our ecosystem encompasses:
+
+- ✨ **Multi-chain presence** across 12+ blockchain networks
+- 🏗️ **100+ subdomains** providing decentralized services
+- 🌐 **2,000+ active sites** across various industries and niches
+- 🔧 **Live services, applications, and dApps** deployed globally
+- 🤖 **AI-powered tools** and automated services
+- 🎁 **Ongoing bounty programs** with innovative distribution models
+
+### 📅 Milestone Timeline
+
+| Period | Milestone | Description |
+|--------|-----------|-------------|
+| 🌐 **Oct 2015** | **U.CASH Site** | Initial website launch |
+| 🏢 **Jan 2017** | **U Org** | UCASH organization founded |
+| 💰 **Aug 2017 - Jan 2018** | **UCASH IBO** | Initial Bounty Offering |
+| 🪙 **Jan 2018** | **UCASH Token** | Token generation event |
+| 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
+| 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
+| 🏪 **Apr 2020** | **E-Com & B2B** | E-commerce and B2B integration |
+| 💳 **Aug 2021** | **Payments** | Payment infrastructure |
+| 🚚 **Jan 2022** | **Logistics** | Logistics solutions |
+| 🌐 **Dec 2022** | **DNS & Domains** | DNS and domain services |
+| 🔮 **Apr 2023** | **Ucosystem** | Ucosystem platform launch |
+| 🤖 **Dec 2023** | **AI** | AI integrations deployed |
+| 🌐 **Aug 2024** | **U.ONL** | U.ONL platform launch |
+| 📝 **Nov 2024** | **Unregistry** | Unregistry service launch |
+| 🔐 **Dec 2024** | **Web3 Naming (.u)** | .u domain naming service |
+| 🌐 **Aug 2025** | **www.onl TLDs** | .onl TLD ecosystem |
+| 🚀 **Feb 2026** | **UN4** | UN4 platform launch |
+| 🔗 **Apr 2026** | **UCASH.ETH (ENS)** | Full ENS integration |
+| 🏷️ **Jun 2026** | **Web3 Handles (@u)** | Web3 handle system |
+| 🎬 **Oct 2026** | **U.PRODUCTIONS** | Productions arm launch |
+| 🔄 **Nov 2026** | **Full Ecosystem Relaunch** | Complete ecosystem upgrade |
+| 🎉 **Jan 2027** | **U Anniversary** | UCASH anniversary |
+
+### 📊 Ecosystem Statistics
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 🌐 **Active Sites** | 2,000+ |
+| 🔗 **Blockchain Networks** | 12+ |
+| 🏷️ **ENS Subdomains** | 100+ |
+| 🌍 **Industries Covered** | Various niches |
+| 📅 **Years Active** | 12+ (2015-2027) |
+
+</div>
+
+### 🤝 Join Our Community
+
+**Growing an ecosystem of innovative business + user apps and services**
+
+<div align="center">
+
+**🔗 Explore Our Ecosystem:**
+
+- [🌐 u.onl](https://u.onl) • [💼 u.cash](https://u.cash) • [🚀 un4.com](https://un4.com)
+- [🔧 ucosystem.com](https://ucosystem.com)
+
+**📊 Technical Resources:**
+
+- [📦 UCASH ENS Data](https://github.com/UdotCASH/ucash.eth) • [🔍 ENS Records](https://app.ens.domains/ucash.eth)
+
+**📱 Connect With Us:**
+
+Follow us on our socials for the latest updates!
+
+</div>
+
+---
+
 ## 🌐 Multi-Chain Name Registrations
 
 UCASH maintains consistent naming across multiple blockchain naming services beyond ENS:
