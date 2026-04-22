@@ -91,6 +91,78 @@ All subdomains resolve to verified addresses or services.
 
 ---
 
+### 🔗 Sub-Subdomains (3rd-Level Names)
+
+UCASH supports nested subdomains (3rd-level and deeper) for specialized services and chain-specific deployments.
+
+#### Bridge Subdomains (bridge.ucash.eth)
+
+Chain-specific bridge deployments:
+
+| Subdomain | Chain | Purpose | Status |
+|-----------|-------|---------|--------|
+| `base.bridge.ucash.eth` | Base | Base bridge | 🟡 In Dev |
+| `polygon.bridge.ucash.eth` | Polygon | Polygon bridge | 🟡 In Dev |
+| `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟡 Planned |
+| `op.bridge.ucash.eth` | Optimism | Optimism bridge | 🟡 Planned |
+| `linea.bridge.ucash.eth` | Linea | Linea bridge | 🟡 Planned |
+
+#### Contract Subdomains (contract.ucash.eth)
+
+Smart contract deployments:
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `ucollateral.contract.ucash.eth` | Collateral contracts | 🟡 In Dev |
+| `ucurrencies.contract.ucash.eth` | Multi-currency contracts | 🟡 In Dev |
+| `unverifier.contract.ucash.eth` | Verification contracts | 🟡 In Dev |
+| `udistribute.contract.ucash.eth` | Distribution contracts | 🟡 In Dev |
+| `ubatch.contract.ucash.eth` | Batch contracts | 🟡 In Dev |
+
+#### Agent Subdomains (agent.ucash.eth)
+
+AI and automation agents:
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `u.agent.ucash.eth` | Universal agent | 🟡 In Dev |
+| `social.agent.ucash.eth` | Social media agent | 🟡 In Dev |
+| `market.agent.ucash.eth` | Market monitoring agent | 🟡 In Dev |
+| `trade.agent.ucash.eth` | Trading agent | 🟡 Planned |
+| `oracle.agent.ucash.eth` | Oracle agent | 🟡 Planned |
+
+#### Bot Subdomains (bot.ucash.eth)
+
+Automated service bots:
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `price.bot.ucash.eth` | Price tracking bot | 🟡 In Dev |
+| `social.bot.ucash.eth` | Social media bot | 🟡 In Dev |
+| `ai.bot.ucash.eth` | AI assistant bot | 🟡 In Dev |
+| `liquidity.bot.ucash.eth` | Liquidity monitoring bot | 🟡 In Dev |
+| `alert.bot.ucash.eth` | Alert notification bot | 🟡 Planned |
+| `audit.bot.ucash.eth` | Security audit bot | 🟡 Planned |
+
+#### Token Subdomains (token.ucash.eth)
+
+Chain-specific token deployments:
+
+| Subdomain | Chain | Purpose | Status |
+|-----------|-------|---------|--------|
+| `polygon.token.ucash.eth` | Polygon | Polygon token | 🟡 In Dev |
+| `base.token.ucash.eth` | Base | Base token | 🟡 In Dev |
+| `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟡 Planned |
+| `op.token.ucash.eth` | Optimism | Optimism token | 🟡 Planned |
+| `sol.token.ucash.eth` | Solana | Solana token | 🟡 Planned |
+| `bnb.token.ucash.eth` | BNB Chain | BNB token | 🟡 Planned |
+
+**Note:** More sub-subdomains will be added as new chains, contracts, agents, and services are deployed.
+
+---
+
+---
+
 ## 🔍 Explorers & Tools
 
 | Subdomain | Purpose | Status |
