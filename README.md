@@ -269,8 +269,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### 🔧 Smart Contracts & Protocol
 
-| Subname | Purpose | Notes | Status          |
-|-----------|---------|-------|---------------|
+| Subname | Purpose | Notes                 | Status                    |
+|-----------|---------|-----------------|------------------------|
 | `batch.ucash.eth` | Batch Send | Batch Wallet | 🟡 Dev |
 | `contracts.ucash.eth` | Contracts | Contract Directory | 🟡 Dev |
 | `token.ucash.eth` | Token | UCASH Token Contract | 🟡 Dev |
