@@ -144,6 +144,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `build.ucash.eth` | Build | 🟡 In Dev | Build Bounty Offering (BBO) Wallet |
 | `partners.ucash.eth` | Partners | 🟡 In Dev | Partner Bounty Offering (PBO) Wallet |
 | `future.ucash.eth` | Future | 🟡 In Dev | Future Bounty Offering (FBO) Wallet |
+| `liquidity.ucash.eth` | Liquidity | 🟡 In Dev | Liquidity Bounty Offering (LBO) Wallet |
 
 ### 🌐 Network-Specific Subdomains
 
