@@ -76,6 +76,8 @@ All subdomains resolve to verified addresses or services.
 | `bnb.ucash.eth` | BNB Chain | BNB operations | 🟡 In Dev |
 | `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟡 In Dev |
 | `xrp.ucash.eth` | XRP Ledger | XRP operations | 🟡 In Dev |
+| `ltc.ucash.eth` | Litecoin | Litecoin operations | 🟡 In Dev |
+| `xmr.ucash.eth` | Monero | Monero operations | 🟡 In Dev |
 
 ### Cross-Chain
 

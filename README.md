@@ -417,6 +417,8 @@ Based on subdomains, UCASH supports:
 | **BNB Chain** | 🟡 In Dev | bnb.ucash.eth | `ucash.bnb` | SpaceID |
 | **Bitcoin** | 🟡 In Dev | btc.ucash.eth | `ucash.btc` | Bitcoin Name Service |
 | **XRP Ledger** | 🟡 In Dev | xrp.ucash.eth | `ucash.xrp` | XRP Name Service |
+| **Litecoin** | 🟡 In Dev | ltc.ucash.eth | `ucash.ltc` | LTC Names |
+| **Monero** | 🟡 In Dev | xmr.ucash.eth | `ucash.xmr` | XMR Names |
 
 ---
 
