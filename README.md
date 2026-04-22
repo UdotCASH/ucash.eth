@@ -106,6 +106,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🌐 **Active Sites** | 2,000+ |
 | 🔗 **Blockchain Networks** | 12+ |
 | 🏷️ **ENS Subdomains** | 100+ |
+| 🅤 **[.U Domains Created](https://dune.com/toysoldi3rr/ud-u-snapshot)** | 22,000+ |
 | 🌍 **Industries Covered** | Various niches |
 | 📅 **Years Active** | 12+ (2015-2027) |
 
