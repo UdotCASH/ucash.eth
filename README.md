@@ -4,7 +4,7 @@
 
 [![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/ucash.eth)
 [![Subdomains](https://img.shields.io/badge/Subdomains-136%20In%20Dev-yellow)](https://app.ens.domains/ucash.eth?tab=subnames)
-[![MultiChain](https://img.shields.io/badge/MultiChain-11%20Names-ff69b4)](https://github.com/UdotCASH/ucash.eth)
+[![MultiChain](https://img.shields.io/badge/MultiChain-12%20Names-ff69b4)](https://github.com/UdotCASH/ucash.eth)
 [![Status](https://img.shields.io/badge/Status-In%20Dev-yellow)](https://etherscan.io)
 [![Network](https://img.shields.io/badge/Network-Multi%20Chain-purple)](https://etherscan.io)
 
@@ -26,8 +26,8 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 |-----------|-------|
 | **Primary ENS** | `ucash.eth` |
 | **Total ENS Subdomains** | **136 In Development** |
-| **Multi-Chain Names** | **11 In Dev** |
-| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity |
+| **Multi-Chain Names** | **12 In Dev** |
+| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP |
 | **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
 
@@ -59,9 +59,10 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.g` | Gravity Alpha | **SpaceID** | 🟡 In Dev | Gravity Alpha naming |
 | `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟡 In Dev | Solana native naming |
 | `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟡 In Dev | Polygon naming |
-| `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming service |
-| `ucash.btc` | Bitcoin | **BNS.org** (Bitcoin Name Service) | 🟡 In Dev | Bitcoin Stacks naming |
-| `ucash.u` | Universal | **UD** (Unstoppable Domains) | 🟡 In Dev | Cross-chain UD name |
+| `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming |
+| `ucash.btc` | Bitcoin | **BNS.org** | 🟡 In Dev | Bitcoin naming |
+| `ucash.xrp` | XRP | **XRPNS** | 🟡 In Dev | XRP Ledger naming |
+| `ucash.u` | Universal | **UD** | 🟡 In Dev | Cross-chain UD |
 
 ### Naming Service Details
 
@@ -489,7 +490,7 @@ await wallet.sendTransaction({
 A: **136 subdomains** currently in development (as of 2026-04-21)
 
 **Q: What multi-chain names does UCASH have registered?**
-A: UCASH has **11 blockchain name registrations active** across:
+A: UCASH has **12 blockchain name registrations active** across:
 - ENS: `ucash.eth` (136 subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
@@ -498,9 +499,10 @@ A: UCASH has **11 blockchain name registrations active** across:
 - Unstoppable Domains: `ucash.polygon`, `ucash.u`
 - OP Domains: `ucash.op`
 - Bitcoin Name Service: `ucash.btc`
+- XRPNS: `ucash.xrp`
 
 **Q: What networks are supported?**
-A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, and Gravity
+A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, and XRP
 
 **Q: Are all subdomains active?**
 A: All 136 subdomains are currently in development status
@@ -563,7 +565,7 @@ Official UCASH team will **NEVER**:
 
 <div align="center">
 
-**136 Subdomains • 11 Multi-Chain Names • Batch Token Distribution**
+**136 Subdomains • 12 Multi-Chain Names • Batch Token Distribution**
 
 [Website](https://ucash.eth) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
