@@ -81,7 +81,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 |--------|-----------|-------------|
 | 🌐 **Oct 2015** | **U.CASH Site** | Initial website launch |
 | 🏢 **Jan 2017** | **U Org** | UCASH organization founded |
-| 💰 **Aug 2017 - Jan 2018** | **UCASH IBO** | Initial Bounty Offering |
+| 💰 **Aug 2017** | **UCASH IBO** | Initial Bounty Offering Start |
 | 🪙 **Jan 2018** | **UCASH Token** | Token generation event |
 | 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
 | 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
