@@ -1001,7 +1001,7 @@ await wallet.sendTransaction({
 - **Security**: security@u.cash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
-- **Telegram**: t.me/ucash
+- **Telegram**: [t.me/ucash](https://t.me/ucash)
 
 ---
 
