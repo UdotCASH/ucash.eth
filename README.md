@@ -996,7 +996,7 @@ await wallet.sendTransaction({
 
 ### Official Channels
 
-- **Website**: https://u.cash
+- **Website**: [u.cash](https://u.cash)
 - **Email**: info@u.cash
 - **Security**: security@u.cash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
