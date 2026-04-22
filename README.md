@@ -129,7 +129,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract directory |
 | `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
 | `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
-| `earn.ucash.eth` | Earn | 🟡 In Dev | Yield farming |
+| `earn.ucash.eth` | Earn | 🟡 In Dev | Earn Rewards |
 | `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
 | `claim.ucash.eth` | Claims | 🟡 In Dev | Token claims |
 | `lock.ucash.eth` | Locking | 🟡 In Dev | Token locking |
