@@ -26,7 +26,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 |-----------|-------|
 | **Primary ENS** | `ucash.eth` |
 | **Total ENS Subdomains** | **136 In Development** |
-| **Multi-Chain Names** | **12 In Dev** |
+| **Multi-Chain Names** | **12 Active** |
 | **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP |
 | **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
@@ -51,17 +51,17 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Name | Network | Naming Service | Status | Notes |
 |------|---------|----------------|--------|-------|
-| `ucash.eth` | Ethereum | **ENS** (Ethereum Name Service) | 🟡 In Dev | Primary ENS with 136 subdomains |
-| `ucash.base.eth` | Base | **Base Names** (Base ENS) | 🟡 In Dev | Layer 2 ENS on Base network |
-| `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟡 In Dev | Layer 2 ENS on Linea network |
-| `ucash.arb` | Arbitrum | **SpaceID** | 🟡 In Dev | Arbitrum naming service |
-| `ucash.bnb` | BNB Chain | **SpaceID** | 🟡 In Dev | BNB Chain naming service |
-| `ucash.g` | Gravity Alpha | **SpaceID** | 🟡 In Dev | Gravity Alpha naming |
-| `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟡 In Dev | Solana native naming |
-| `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟡 In Dev | Polygon naming |
-| `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming |
-| `ucash.btc` | Bitcoin | **BNS.org** | 🟡 In Dev | Bitcoin naming |
-| `ucash.xrp` | XRP | **XRPNS** | 🟡 In Dev | XRP Ledger naming |
+| `ucash.eth` | Ethereum | **ENS** (Ethereum Name Service) | 🟢 Active | Primary ENS with 136 subdomains |
+| `ucash.base.eth` | Base | **Base Names** (Base ENS) | 🟢 Active | Layer 2 ENS on Base network |
+| `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟢 Active | Layer 2 ENS on Linea network |
+| `ucash.arb` | Arbitrum | **SpaceID** | 🟢 Active | Arbitrum naming service |
+| `ucash.bnb` | BNB Chain | **SpaceID** | 🟢 Active | BNB Chain naming service |
+| `ucash.g` | Gravity Alpha | **SpaceID** | 🟢 Active | Gravity Alpha naming |
+| `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟢 Active | Solana native naming |
+| `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟢 Active | Polygon naming |
+| `ucash.op` | Optimism | **OP Domains** | 🟢 Active | Optimism naming |
+| `ucash.btc` | Bitcoin | **BNS.org** | 🟢 Active | Bitcoin naming |
+| `ucash.xrp` | XRP | **XRPNS** | 🟢 Active | XRP Ledger naming |
 | `ucash.u` | Universal | **.U TLD** (Ucosystem TLD via UD) | 🟢 Active | Universal Web3 Names |
 
 ### Naming Service Details
