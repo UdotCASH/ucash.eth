@@ -166,7 +166,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 **📱 Connect With Us:**
 
-<a href="https://twitter.com/UdotCASH" style="text-decoration:none">🐦 Twitter</a> • <a href="https://youtube.com/@UdotCASH" style="text-decoration:none">▶️ YouTube</a> • <a href="https://instagram.com/UdotCASH" style="text-decoration:none">📸 Instagram</a> • <a href="https://fb.com/UdotCASH" style="text-decoration:none">📘 Facebook</a> • <a href="https://reddit.com/r/ucash" style="text-decoration:none">🔴 Reddit</a> • <a href="https://linkedin.com/company/ucash" style="text-decoration:none">💼 LinkedIn</a> • <a href="https://github.com/UdotCASH" style="text-decoration:none">💻 GitHub</a> • <a href="https://t.me/ucash" style="text-decoration:none">✈️ Telegram</a>
+<a href="https://twitter.com/UdotCASH" style="text-decoration:none">X (@UdotCASH)</a> • <a href="https://twitter.com/ucashx" style="text-decoration:none">X (@ucashx)</a> • <a href="https://twitter.com/UdotONL" style="text-decoration:none">X (@UdotONL)</a> • <a href="https://fb.com/UdotCASH" style="text-decoration:none">Facebook</a> • <a href="https://youtube.com/@UdotCASH" style="text-decoration:none">YouTube</a> • <a href="https://instagram.com/UdotCASH" style="text-decoration:none">Instagram</a> • <a href="https://reddit.com/r/ucash" style="text-decoration:none">Reddit</a> • <a href="https://linkedin.com/company/ucash" style="text-decoration:none">LinkedIn</a> • <a href="https://github.com/UdotCASH" style="text-decoration:none">GitHub</a> • <a href="https://t.me/ucash" style="text-decoration:none">Telegram</a>
 
 ---
 
