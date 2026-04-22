@@ -55,7 +55,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 [![Status](https://img.shields.io/badge/Status-Network_Loyalty_%2B_Rewards_%2B_Utility-brightgreen)]()
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-2,000%2B_Sites-blue)]()
-[![Timeline](https://img.shields.io/badge/Timeline-2015--2027-orange)]()
+[![Timeline](https://img.shields.io/badge/Timeline-2015--Now-orange)]()
 
 </div>
 
@@ -79,7 +79,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 - 📱 **200,000+ social, forum & chat followers** across platforms
 - ⭐ **2,000+ stars** on CoinMarketCap and other ranking sites
 
-### 📅 Milestone Timeline
+### 📅 Ecosystem Timeline
 
 | Period | Milestone | Description |
 |--------|-----------|-------------|
