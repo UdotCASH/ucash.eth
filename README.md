@@ -415,7 +415,7 @@ Based on subdomains, UCASH supports:
 
 - 📧 **Security**: security@ucash.eth
 - 📧 **Phishing**: abuse@ucash.eth
-- 📧 **General**: contact@ucash.eth
+- 📧 **General**: info@u.cash
 
 ---
 
@@ -528,12 +528,11 @@ A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable D
 ### Official Channels
 
 - **Website**: https://ucash.eth
-- **Email**: contact@ucash.eth
+- **Email**: info@u.cash
 - **Security**: security@ucash.eth
-- **Twitter**: [@ucash_eth](https://twitter.com/ucash_eth)
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
-- **Discord**: [LINK]
-- **Telegram**: t.me/ucash_official
+- **Telegram**: t.me/ucash
 
 ---
 
