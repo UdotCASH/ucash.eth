@@ -163,6 +163,26 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.xmr` | Monero | **XMR Names** | 🟢 Active | Monero naming |
 | `ucash.u` | Universal | **Ucosystem TLD** | 🟢 Active | Universal Web3 Names |
 
+### 🌐 Public Registration TLDs
+
+UCASH operates TLDs open for public registration, allowing anyone to claim their own Web3 identity:
+
+| TLD | Platform | Type | Registration | Stats |
+|-----|----------|------|-------------|-------|
+| **.U** | [Unstoppable Domains](https://unstoppabledomains.com) | Web3 Domain | [Register Now](https://unstoppabledomains.com/search?searchTerm=.u) | 🔐 22,000+ claimed |
+| **@U** | [FIO Protocol](https://fio.net) | Web3 Handle | [Register Now](https://fio.net) | Public registration open |
+
+**Why register a .U domain?**
+- 🔗 **Multi-chain address** — Replace long wallet addresses with `yourname.u`
+- 🌐 **Decentralized website** — Host content on IPFS/arweave linked to your domain
+- 🔒 **No renewals** — Own it forever, one-time registration fee
+- 💳 **Payment simplification** — Receive crypto payments to `yourname.u`
+
+**Why register a @U handle?**
+- 📱 **Cross-chain payments** — Send/receive across any blockchain
+- 🔄 **Interoperable** — Works with major wallets and exchanges
+- 🛡️ **Secure by design** — Built-in transaction mapping and memo support
+
 ### Naming Service Details
 
 #### Layer 2 ENS (L2 ENS)
