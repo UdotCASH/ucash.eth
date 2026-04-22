@@ -60,7 +60,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.sol` | Solana | **Solana Name Service** | 🟢 Active | Solana native naming |
 | `ucash.polygon` | Polygon | **Unstoppable Domains** | 🟢 Active | Polygon naming |
 | `ucash.op` | Optimism | **Optimism Domains** | 🟢 Active | Optimism naming |
-| `ucash.btc` | Bitcoin | **Bitcoin Name Service** | 🟢 Active | Bitcoin naming |
+| `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | 🟢 Active | BNS on Rings Network |
 | `ucash.xrp` | XRP | **XRP Name Service** | 🟢 Active | XRP Ledger naming |
 | `ucash.ltc` | Litecoin | **LTC Names** | 🟢 Active | Litecoin naming |
 | `ucash.xmr` | Monero | **XMR Names** | 🟢 Active | Monero naming |
@@ -93,10 +93,11 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 - Uses `.op` TLD
 - Layer 2 naming for Optimism
 
-#### Bitcoin Name Service
-- Built on Stacks blockchain
+#### Bitcoin Name Service (BNS)
+- Built on Rings Network
 - Uses `.btc` TLD
-- Secured by Bitcoin
+- Decentralized peer-to-peer communication network
+- Represents identity of decentralized websites and applications in Rings Network
 
 ---
 
@@ -637,19 +638,20 @@ Based on subdomains, UCASH supports:
 ---
 
 #### Bitcoin Name Service (ucash.btc)
+**About BNS:**
+BNS (Bitcoin Network System) is a decentralized network based on Rings Network, providing peer-to-peer communication and blockchain expansion capabilities. BNS is not only a domain name service, but also a concept of a network, representing the identity of decentralized websites and applications in Rings Network.
+
 **Wallets:**
-- [Leather (formerly Hiro)](https://leather.io) - Stacks wallet
-- [Xverse](https://xverse.app) - Stacks & Bitcoin wallet
-- [Gamma](https://gamma.io) - Stacks wallet
-- [Unisat](https://unisat.io) - Bitcoin BRC-20 wallet
+- [Rings Wallet](https://ringsnetwork.io) - Rings Network wallet
+- [BNS-compatible wallets](https://bns.org) - BNS integrated wallets
 
 **Apps & Managers:**
-- [BNS](https://bns.org/) - BNS manager
-- [Stacks Name Lookup](https://stacks.zone/) - Name search
+- [BNS](https://bns.org/) - Official BNS manager
+- [Rings Network](https://ringsnetwork.io) - Network information
 
 **Explorers:**
-- [Stacks Explorer](https://explorer.stacks.co/) - Stacks blockchain
 - [BNS Explorer](https://bns.org/) - Name explorer
+- [Rings Explorer](https://ringsnetwork.io) - Rings Network explorer
 - [Blockstream](https://blockstream.info) - Bitcoin explorer
 
 ---
