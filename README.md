@@ -958,10 +958,10 @@ await wallet.sendTransaction({
 ## ❓ FAQ
 
 **Q: How many subdomains does ucash.eth have?**
-A: **100+ subdomains** currently in development (as of 2026-04-21)
+<br>A: **100+ subdomains** currently in development (as of 2026-04-22)
 
 **Q: What multi-chain names does UCASH have available?**
-A: UCASH has **10+ blockchain names active** across:
+<br>A: UCASH has **10+ blockchain names active** across:
 - ENS: `ucash.eth` (100+ subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
@@ -976,19 +976,19 @@ A: UCASH has **10+ blockchain names active** across:
 - XMR Names: `ucash.xmr`
 
 **Q: What networks are supported?**
-A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, XRP, Litecoin, and Monero
+<br>A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, XRP, Litecoin, and Monero
 
 **Q: Are all subdomains active?**
-A: All 100+ subdomains are currently in development status
+<br>A: All 100+ subdomains are currently in development status
 
 **Q: What storage networks are integrated?**
-A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
+<br>A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 
 **Q: How do I verify a subdomain?**
-A: Check https://app.ens.domains/ucash.eth?tab=subnames
+<br>A: Check https://app.ens.domains/ucash.eth?tab=subnames
 
 **Q: What naming services are used?**
-A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, BNS.org (Bitcoin), XRPNS (XRP), and FIO Protocol
+<br>A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, BNS.org (Bitcoin), XRPNS (XRP), and FIO Protocol
 
 ---
 
