@@ -128,7 +128,6 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
 | `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
 | `earn.ucash.eth` | Earn | 🟡 In Dev | Yield farming |
-| `liquidity.ucash.eth` | Liquidity | 🟡 In Dev | Liquidity pools |
 | `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
 | `claim.ucash.eth` | Claims | 🟡 In Dev | Token claims |
 | `lock.ucash.eth` | Locking | 🟡 In Dev | Token locking |
@@ -140,11 +139,11 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `bot.ucash.eth` | Bot | 🟡 In Dev | Agent/Action Bots |
 | `sign.ucash.eth` | Signing | 🟡 In Dev | Message signing |
 | `supply.ucash.eth` | Supply | 🟡 In Dev | Token supply |
-| `initial.ucash.eth` | Initial | 🟡 In Dev | Initial distribution |
-| `ongoing.ucash.eth` | Ongoing | 🟡 In Dev | Ongoing operations |
-| `build.ucash.eth` | Build | 🟡 In Dev | Build system |
-| `partners.ucash.eth` | Partners | 🟡 In Dev | Partner portal |
-| `future.ucash.eth` | Future | 🟡 In Dev | Future plans |
+| `initial.ucash.eth` | Initial | 🟡 In Dev | Initial Bounty Offering (IBO) Wallet |
+| `ongoing.ucash.eth` | Ongoing | 🟡 In Dev | Ongoing Bounty Offering (OBO) Wallet |
+| `build.ucash.eth` | Build | 🟡 In Dev | Build Bounty Offering (BBO) Wallet |
+| `partners.ucash.eth` | Partners | 🟡 In Dev | Partner Bounty Offering (PBO) Wallet |
+| `future.ucash.eth` | Future | 🟡 In Dev | Future Bounty Offering (FBO) Wallet |
 
 ### 🌐 Network-Specific Subdomains
 
