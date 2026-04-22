@@ -175,7 +175,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | TLD | Platform | Type | Registration | Stats |
 |-----|----------|------|-------------|-------|
 | **.U** | [Unstoppable Domains](https://unstoppabledomains.com) | Web3 Domain | [Register Now](https://unstoppabledomains.com/search?searchTerm=.u) | 🔐 22,000+ claimed |
-| **@U** | [FIO Protocol](https://fio.net) | Web3 Handle | [Register Now](https://fio.net) | Public registration open |
+| **@U** | [FIO Protocol](https://fio.net) | Web3 Handle | Opening Soon | Public registration opening soon |
 
 **Why register a .U domain?**
 - 🔗 **Multi-chain address** — Replace long wallet addresses with `yourname.u`
