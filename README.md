@@ -256,8 +256,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ## 🌳 Live Subnames - Complete Directory
 
-> **Total Active Subnames**: 100+
-> **Last Updated**: 2026-04-22
+> **Total Active Subnames**: 100+<br>
+> **Last Updated**: 2026-04-22<br>
 > **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
 ### 🏗️ Core Infrastructure Subnames
