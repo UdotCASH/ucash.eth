@@ -336,9 +336,9 @@ Chain-specific bridge deployments:
 |-------------|-------|---------|-------------|
 | `base.bridge.ucash.eth` | Base | Base bridge | 🟡&nbsp;Dev |
 | `polygon.bridge.ucash.eth` | Polygon | Polygon bridge | 🟡&nbsp;Dev |
-| `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟡&nbsp;Planned |
-| `op.bridge.ucash.eth` | Optimism | Optimism bridge | 🟡&nbsp;Planned |
-| `linea.bridge.ucash.eth` | Linea | Linea bridge | 🟡&nbsp;Planned |
+| `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟠&nbsp;Planned |
+| `op.bridge.ucash.eth` | Optimism | Optimism bridge | 🟠&nbsp;Planned |
+| `linea.bridge.ucash.eth` | Linea | Linea bridge | 🟠&nbsp;Planned |
 
 #### Contract Subnames (contract.ucash.eth)
 
@@ -361,8 +361,8 @@ AI and automation agents:
 | `u.agent.ucash.eth` | Universal agent | 🟡&nbsp;Dev |
 | `social.agent.ucash.eth` | Social media agent | 🟡&nbsp;Dev |
 | `market.agent.ucash.eth` | Market monitoring agent | 🟡&nbsp;Dev |
-| `trade.agent.ucash.eth` | Trading agent | 🟡&nbsp;Planned |
-| `oracle.agent.ucash.eth` | Oracle agent | 🟡&nbsp;Planned |
+| `trade.agent.ucash.eth` | Trading agent | 🟠&nbsp;Planned |
+| `oracle.agent.ucash.eth` | Oracle agent | 🟠&nbsp;Planned |
 
 #### Bot Subnames (bot.ucash.eth)
 
@@ -374,8 +374,8 @@ Automated service bots:
 | `social.bot.ucash.eth` | Social media bot | 🟡&nbsp;Dev |
 | `ai.bot.ucash.eth` | AI assistant bot | 🟡&nbsp;Dev |
 | `liquidity.bot.ucash.eth` | Liquidity monitoring bot | 🟡&nbsp;Dev |
-| `alert.bot.ucash.eth` | Alert notification bot | 🟡&nbsp;Planned |
-| `audit.bot.ucash.eth` | Security audit bot | 🟡&nbsp;Planned |
+| `alert.bot.ucash.eth` | Alert notification bot | 🟠&nbsp;Planned |
+| `audit.bot.ucash.eth` | Security audit bot | 🟠&nbsp;Planned |
 
 #### Token Subnames (token.ucash.eth)
 
@@ -385,10 +385,10 @@ Chain-specific token deployments:
 |-------------|-------|---------|-------------|
 | `polygon.token.ucash.eth` | Polygon | Polygon token | 🟡&nbsp;Dev |
 | `base.token.ucash.eth` | Base | Base token | 🟡&nbsp;Dev |
-| `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟡&nbsp;Planned |
-| `op.token.ucash.eth` | Optimism | Optimism token | 🟡&nbsp;Planned |
-| `sol.token.ucash.eth` | Solana | Solana token | 🟡&nbsp;Planned |
-| `bnb.token.ucash.eth` | BNB Chain | BNB token | 🟡&nbsp;Planned |
+| `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟠&nbsp;Planned |
+| `op.token.ucash.eth` | Optimism | Optimism token | 🟠&nbsp;Planned |
+| `sol.token.ucash.eth` | Solana | Solana token | 🟠&nbsp;Planned |
+| `bnb.token.ucash.eth` | BNB Chain | BNB token | 🟠&nbsp;Planned |
 
 **Note:** More sub-subdomains will be added as new chains, contracts, agents, and services are deployed.
 
