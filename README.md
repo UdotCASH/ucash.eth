@@ -359,7 +359,6 @@ ucash.eth
 | `XRP Name Service` | ucash.xrp | XRP Name |
 | `LTC Names` | ucash.ltc | Litecoin Name |
 | `XMR Names` | ucash.xmr | Monero Name |
-| `Universal Name` | ucash.u | Universal Name |
 | `.U TLD` | *.u | .U TLD |
 | `@U Domain` | ucash@u | @U Domain |
 | `@U Names` | *@u | @U Names |
