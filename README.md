@@ -51,7 +51,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Name | Network | Naming Service | Status | Notes |
 |------|---------|----------------|--------|-------|
-| `ucash.eth` | Ethereum | **Ethereum Name Service** | 🟢 Active | Primary ENS with 100+ subdomains |
+| `ucash.eth` | Ethereum | **Ethereum Name Service** | 🟢 Active | Primary ENS with 100+ subnames |
 | `ucash.base.eth` | Base | **Base Names** | 🟢 Active | Layer 2 ENS on Base network |
 | `ucash.linea.eth` | Linea | **Linea Names** | 🟢 Active | Layer 2 ENS on Linea network |
 | `ucash.arb` | Arbitrum | **SpaceID** | 🟢 Active | Arbitrum naming service |
