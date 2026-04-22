@@ -104,8 +104,6 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 ### 📊 Ecosystem Statistics
 
-<div align="center">
-
 | Metric | Count |
 |--------|-------|
 | 🌐 **Active Sites** | 2,000+ |
@@ -118,8 +116,6 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🔗 **Web3 Domains/Handles Managed** | 2,000+ |
 | 🌍 **Industries Covered** | Various niches |
 | 📅 **Years Active** | 12+ (2015-2027) |
-
-</div>
 
 ### 🤝 Join Our Community
 
