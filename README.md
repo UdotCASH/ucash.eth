@@ -428,6 +428,198 @@ Based on subdomains, UCASH supports:
 | **Litecoin** | 🟡 In Dev | ltc.ucash.eth | `ucash.ltc` | LTC Names |
 | **Monero** | 🟡 In Dev | xmr.ucash.eth | `ucash.xmr` | XMR Names |
 
+### 🔑 Supported Wallets, Apps & Explorers
+
+#### ENS (Ethereum Name Service) - ucash.eth
+**Wallets:**
+- [MetaMask](https://metamask.io) - Popular Web3 wallet
+- [Coinbase Wallet](https://wallet.coinbase.com) - Coinbase's wallet
+- [Rainbow](https://rainbow.me) - Ethereum wallet
+- [Trust Wallet](https://trustwallet.com) - Multi-chain wallet
+- [Argent](https://argent.xyz) - Smart contract wallet
+- [Brave Wallet](https://brave.com/wallet) - Built into Brave browser
+- [WalletConnect](https://walletconnect.com) - Wallet protocol
+
+**Apps & Managers:**
+- [ENS App](https://app.ens.domains) - Official ENS manager
+- [ENSTools](https://enstools.eth.limo) - ENS tools
+
+**Explorers:**
+- [Etherscan](https://etherscan.io) - Ethereum block explorer
+- [Blockscout](https://eth.blockscout.com) - Open-source explorer
+
+---
+
+#### Base Names (ucash.base.eth)
+**Wallets:**
+- [Coinbase Wallet](https://wallet.coinbase.com) - Native Base support
+- [MetaMask](https://metamask.io) - Add Base network
+- [Rainbow](https://rainbow.me) - Base support
+- [Trust Wallet](https://trustwallet.com) - Multi-chain support
+
+**Apps & Managers:**
+- [Base Names App](https://base.names/) - Official Base Names manager
+- [ENS App](https://app.ens.domains) - Manage Base names
+
+**Explorers:**
+- [Basescan](https://basescan.org) - Base block explorer
+- [Base Explorer](https://explorer.base.org) - Official explorer
+
+---
+
+#### Linea Names (ucash.linea.eth)
+**Wallets:**
+- [MetaMask](https://metamask.io) - Add Linea network
+- [Trust Wallet](https://trustwallet.com) - Multi-chain support
+- [Coinbase Wallet](https://wallet.coinbase.com) - With network addition
+
+**Apps & Managers:**
+- [Linea Names](https://www.linea.build/p/apps) - Linea ecosystem apps
+- [ENS App](https://app.ens.domains) - Manage Linea names
+
+**Explorers:**
+- [Lineascan](https://lineascan.org) - Linea block explorer
+
+---
+
+#### SpaceID (ucash.arb, ucash.bnb, ucash.g)
+**Wallets:**
+- [MetaMask](https://metamask.io) - Multi-chain support
+- [Trust Wallet](https://trustwallet.com) - Native support
+- [Coinbase Wallet](https://wallet.coinbase.com) - Multi-chain
+
+**Apps & Managers:**
+- [SpaceID App](https://www.space.id/) - Official Space ID manager
+- [BNB Web3 Wallet](https://www.bnbchain.org/en/web3-wallet)
+
+**Explorers:**
+- [Arbiscan](https://arbiscan.io) - Arbitrum explorer
+- [BscScan](https://bscscan.com) - BNB Chain explorer
+- [Space ID Explorer](https://explorer.space.id/) - Name explorer
+
+---
+
+#### Solana Name Service (ucash.sol)
+**Wallets:**
+- [Phantom](https://phantom.app) - Popular Solana wallet
+- [Solflare](https://solflare.com) - Solana wallet
+- [Glow](https://glow.app) - Solana wallet
+- [Trust Wallet](https://trustwallet.com) - Multi-chain support
+
+**Apps & Managers:**
+- [SNS.id](https://sns.id/) - Official SNS manager
+- [Bonfida](https://bonfida.com) - Solana name marketplace
+
+**Explorers:**
+- [Solscan](https://solscan.io) - Solana explorer
+- [Solana Beach](https://solanabeach.io) - Block explorer
+- [Explorer](https://explorer.solana.com) - Official explorer
+
+---
+
+#### Unstoppable Domains (ucash.polygon, ucash.ltc, ucash.xmr)
+**Wallets:**
+- [MetaMask](https://metamask.io) - UD partner
+- [Coinbase Wallet](https://wallet.coinbase.com) - UD partner
+- [Trust Wallet](https://trustwallet.com) - UD partner
+- [Rainbow](https://rainbow.me) - Ethereum support
+- [Ledger](https://www.ledger.com) - Hardware wallet
+
+**Apps & Managers:**
+- [Unstoppable Domains](https://unstoppabledomains.com) - Official manager
+- [UD Login](https://login.unstoppabledomains.com) - Single sign-on
+
+**Explorers:**
+- [Polygonscan](https://polygonscan.com) - Polygon explorer
+- [Polygon Explorer](https://explorer.polygon.technology) - Official explorer
+
+---
+
+#### OP Domains (ucash.op)
+**Wallets:**
+- [MetaMask](https://metamask.io) - Add Optimism network
+- [Coinbase Wallet](https://wallet.coinbase.com) - Optimism support
+- [Rainbow](https://rainbow.me) - Optimism support
+
+**Apps & Managers:**
+- [Punk Domains](https://punk.domains) - Optimism domains manager
+- [Optimistic Domains](https://optimistic.domains) - OP name manager
+- [ENS App](https://app.ens.domains) - L2 ENS support
+
+**Explorers:**
+- [Optimism Etherscan](https://optimism.etherscan.io) - Optimism explorer
+- [Optimism Explorer](https://explorer.optimism.io) - Official explorer
+
+---
+
+#### Bitcoin Name Service (ucash.btc)
+**Wallets:**
+- [Leather (formerly Hiro)](https://leather.io) - Stacks wallet
+- [Xverse](https://xverse.app) - Stacks & Bitcoin wallet
+- [Gamma](https://gamma.io) - Stacks wallet
+- [Unisat](https://unisat.io) - Bitcoin BRC-20 wallet
+
+**Apps & Managers:**
+- [BNS.xyz](https://bns.xyz/) - BNS manager
+- [Stacks Name Lookup](https://stacks.zone/) - Name search
+
+**Explorers:**
+- [Stacks Explorer](https://explorer.stacks.co/) - Stacks blockchain
+- [BNS Explorers](https://bns.xyz/explorer) - Name explorer
+- [Blockstream](https://blockstream.info) - Bitcoin explorer
+
+---
+
+#### XRP Name Service (ucash.xrp)
+**Wallets:**
+- [XUMM](https://xumm.app) - Popular XRP wallet
+- [XRP Toolkit](https://xrptoolkit.com) - Advanced XRP tools
+- [Gem Wallet](https://gemwallet.com) - XRP wallet
+- [GateHub](https://gatehub.net) - XRP wallet
+
+**Apps & Managers:**
+- [XRPNS.com](https://www.xrpns.com/) - Official XRPNS manager
+- [XRP Name Service](https://xrpname.com/) - Name registration
+
+**Explorers:**
+- [XRPL Services](https://xrpscan.com) - XRP ledger explorer
+- [Bithomp](https://bithomp.com) - XRP explorer
+- [XRPL Explorer](https://l.xrpl.org) - Official XRPL explorer
+
+---
+
+#### LTC Names (ucash.ltc)
+**Wallets:**
+- [Litecoin Core](https://litecoin.info) - Official Litecoin wallet
+- [Exodus](https://exodus.com) - Multi-currency wallet
+- [Ledger](https://www.ledger.com) - Hardware wallet
+- [Trust Wallet](https://trustwallet.com) - Multi-chain support
+
+**Apps & Managers:**
+- [Unstoppable Domains](https://unstoppabledomains.com) - Manage .ltc names
+- [LTC Explorer](https://litecoin.net/) - Blockchain explorer
+
+**Explorers:**
+- [Blockstream LTC](https://blockstream.info/litecoin) - Litecoin explorer
+- [Litecoin Explorer](https://blockexplorer.com/litecoin) - Block explorer
+
+---
+
+#### XMR Names (ucash.xmr)
+**Wallets:**
+- [Monero GUI](https://www.getmonero.org) - Official Monero wallet
+- [Monero GUI Wallet](https://www.getmonero.org/downloads/) - Desktop wallet
+- [Cake Wallet](https://cakewallet.com) - Monero mobile wallet
+- [Ledger](https://www.ledger.com) - Hardware wallet
+
+**Apps & Managers:**
+- [Unstoppable Domains](https://unstoppabledomains.com) - Manage .xmr names
+- [Monero Resources](https://www.getmonero.org) - Official resources
+
+**Explorers:**
+- [XMR Chain](https://xmrchain.net) - Monero block explorer
+- [Monero Explorer](https://moneroexplorer.com) - Chain explorer
+
 ---
 
 ## 🔒 Security & Verification
