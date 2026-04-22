@@ -56,18 +56,18 @@ This is the primary address for `ucash.eth` and all official UCASH operations.
 | Network | ENS Name | Address | Explorer | Status |
 |---------|----------|---------|----------|--------|
 | **Ethereum** | ucash.eth | 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F | [Etherscan](https://etherscan.io/address/0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F) | 🟢 Active |
-| **Base** | ucash.base.eth | [TBD] | [Basescan](https://basescan.org) | 🟡 In Dev |
-| **Linea** | ucash.linea.eth | [TBD] | [Lineascan](https://lineascan.org) | 🟡 In Dev |
-| **Arbitrum** | ucash.arb | [TBD] | [Arbiscan](https://arbiscan.io) | 🟡 In Dev |
-| **BNB Chain** | ucash.bnb | [TBD] | [BscScan](https://bscscan.com) | 🟡 In Dev |
-| **Gravity Alpha** | ucash.g | [TBD] | [Explorer](https://gravity.com) | 🟡 In Dev |
-| **Solana** | ucash.sol | [TBD] | [Solscan](https://solscan.io) | 🟡 In Dev |
-| **Polygon** | ucash.polygon | 0xa94880d3a4b39746e90cdb57f8de3732c984de14 | [Polygonscan](https://polygonscan.com/token/0xa94880d3a4b39746e90cdb57f8de3732c984de14) | 🟡 In Dev |
-| **Optimism** | ucash.op | [TBD] | [Optimism Etherscan](https://optimism.etherscan.io) | 🟡 In Dev |
-| **Bitcoin** | ucash.btc | [TBD] | [Blockchain Explorer](https://blockstream.info) | 🟡 In Dev |
-| **XRP** | ucash.xrp | [TBD] | [XRPL Explorer](https://l.xrpl.org) | 🟡 In Dev |
-| **Litecoin** | ucash.ltc | [TBD] | [LTC Explorer](https://blockstream.info/litecoin) | 🟡 In Dev |
-| **Monero** | ucash.xmr | [TBD] | [XMR Explorer](https://xmrchain.net) | 🟡 In Dev |
+| **Base** | ucash.base.eth | [TBD] | [Basescan](https://basescan.org) | 🟡 Dev |
+| **Linea** | ucash.linea.eth | [TBD] | [Lineascan](https://lineascan.org) | 🟡 Dev |
+| **Arbitrum** | ucash.arb | [TBD] | [Arbiscan](https://arbiscan.io) | 🟡 Dev |
+| **BNB Chain** | ucash.bnb | [TBD] | [BscScan](https://bscscan.com) | 🟡 Dev |
+| **Gravity Alpha** | ucash.g | [TBD] | [Explorer](https://gravity.com) | 🟡 Dev |
+| **Solana** | ucash.sol | [TBD] | [Solscan](https://solscan.io) | 🟡 Dev |
+| **Polygon** | ucash.polygon | 0xa94880d3a4b39746e90cdb57f8de3732c984de14 | [Polygonscan](https://polygonscan.com/token/0xa94880d3a4b39746e90cdb57f8de3732c984de14) | 🟡 Dev |
+| **Optimism** | ucash.op | [TBD] | [Optimism Etherscan](https://optimism.etherscan.io) | 🟡 Dev |
+| **Bitcoin** | ucash.btc | [TBD] | [Blockchain Explorer](https://blockstream.info) | 🟡 Dev |
+| **XRP** | ucash.xrp | [TBD] | [XRPL Explorer](https://l.xrpl.org) | 🟡 Dev |
+| **Litecoin** | ucash.ltc | [TBD] | [LTC Explorer](https://blockstream.info/litecoin) | 🟡 Dev |
+| **Monero** | ucash.xmr | [TBD] | [XMR Explorer](https://xmrchain.net) | 🟡 Dev |
 | **Universal** | ucash.u | [TBD] | [Unstoppable](https://unstoppable.domains) | 🟢 Active |
 
 **Note**: TBD = To Be Determined/Deployed
