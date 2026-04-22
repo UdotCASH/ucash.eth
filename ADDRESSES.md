@@ -23,6 +23,7 @@ Official UCASH team will **NEVER**:
 ```
 ENS: ucash.eth
 Status: ✅ Active
+Address: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
 Owner: [OWNER_ADDRESS]
 ```
 
@@ -34,99 +35,52 @@ Owner: [OWNER_ADDRESS]
 
 ---
 
-## 💰 Wallet Addresses
+## 💰 Primary Ethereum Address
 
-### Ethereum Mainnet
+### Mainnet
+```
+Address: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
+ENS: ucash.eth
+Etherscan: https://etherscan.io/address/0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
+Verified: ✅ Verified
+```
 
-| Purpose | Address | ENS | Verified |
-|---------|---------|-----|----------|
-| **Primary/Treasury** | `[PRIMARY_ADDRESS]` | `ucash.eth` | ✅ |
-| **Operations** | `[OPS_ADDRESS]` | `ops.ucash.eth` | ✅ |
-| **Development** | `[DEV_ADDRESS]` | `dev.ucash.eth` | ✅ |
-| **Marketing** | `[MKT_ADDRESS]` | `marketing.ucash.eth` | ✅ |
-| **Community** | `[COMMUNITY_ADDRESS]` | `community.ucash.eth` | ✅ |
-
-### Multi-Chain Wallets
-
-| Network | Address | ENS | Explorer |
-|---------|---------|-----|----------|
-| **Base** | `[BASE_ADDRESS]` | `base.ucash.eth` | [Basescan](https://basescan.org) |
-| **Polygon** | `[POLYGON_ADDRESS]` | `polygon.ucash.eth` | [Polygonscan](https://polygonscan.com) |
-| **Arbitrum** | `[ARBITRUM_ADDRESS]` | `arbitrum.ucash.eth` | [Arbiscan](https://arbiscan.io) |
-| **Optimism** | `[OPTIMISM_ADDRESS]` | `optimism.ucash.eth` | [Optimism Etherscan](https://optimism.etherscan.io) |
+This is the primary address for `ucash.eth` and all official UCASH operations.
 
 ---
 
-## 📜 Smart Contracts
+## 🌐 Multi-Chain Addresses
 
-### Ethereum Mainnet Contracts
+### Multi-Chain Name Registrations
 
-#### UCASH Batch Sender
-```
-Name: UCASHBatchSender
-Address: [CONTRACT_ADDRESS]
-ENS: batch.ucash.eth
-Verified: ✅ Verified on Etherscan
-Etherscan: https://etherscan.io/address/[CONTRACT_ADDRESS]
-Deployed: [DATE]
-```
+| Network | ENS Name | Address | Explorer | Status |
+|---------|----------|---------|----------|--------|
+| **Ethereum** | ucash.eth | 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F | [Etherscan](https://etherscan.io/address/0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F) | 🟢 Active |
+| **Base** | ucash.base.eth | [TBD] | [Basescan](https://basescan.org) | 🟡 In Dev |
+| **Linea** | ucash.linea.eth | [TBD] | [Lineascan](https://lineascan.org) | 🟡 In Dev |
+| **Arbitrum** | ucash.arb | [TBD] | [Arbiscan](https://arbiscan.io) | 🟡 In Dev |
+| **BNB Chain** | ucash.bnb | [TBD] | [BscScan](https://bscscan.com) | 🟡 In Dev |
+| **Gravity Alpha** | ucash.g | [TBD] | [Explorer](https://gravity.com) | 🟡 In Dev |
+| **Solana** | ucash.sol | [TBD] | [Solscan](https://solscan.io) | 🟡 In Dev |
+| **Polygon** | ucash.polygon | 0xa94880d3a4b39746e90cdb57f8de3732c984de14 | [Polygonscan](https://polygonscan.com/token/0xa94880d3a4b39746e90cdb57f8de3732c984de14) | 🟡 In Dev |
+| **Optimism** | ucash.op | [TBD] | [Optimism Etherscan](https://optimism.etherscan.io) | 🟡 In Dev |
+| **Bitcoin** | ucash.btc | [TBD] | [Blockchain Explorer](https://blockstream.info) | 🟡 In Dev |
+| **XRP** | ucash.xrp | [TBD] | [XRPL Explorer](https://l.xrpl.org) | 🟡 In Dev |
+| **Universal** | ucash.u | [TBD] | [Unstoppable](https://unstoppable.domains) | 🟢 Active |
 
-**Purpose**: Gas-optimized batch token distribution
-
-**Key Features**:
-- Support for up to 1000 recipients per transaction
-- 28.5% gas savings through optimization
-- ReentrancyGuard protection
-- Pausable for emergency stops
-
-#### UCASH Token (if deployed)
-```
-Name: UCASH
-Symbol: UCASH
-Address: [TOKEN_ADDRESS]
-Decimals: 18
-Verified: ✅ Verified on Etherscan
-Etherscan: https://etherscan.io/address/[TOKEN_ADDRESS]
-```
-
-### Testnet Contracts
-
-#### Sepolia Testnet
-```
-Batch Sender: [SEPOLIA_BATCH_ADDRESS]
-Token: [SEPOLIA_TOKEN_ADDRESS]
-Network: Sepolia
-Explorer: https://sepolia.etherscan.io
-Status: ✅ Active for Testing
-```
+**Note**: TBD = To Be Determined/Deployed
 
 ---
 
-## 🔗 Service Addresses
+## 🔗 Blockchain Explorers
 
-### Infrastructure Services
+### Token Contracts
 
-| Service | Address | ENS | Purpose |
-|---------|---------|-----|---------|
-| **API** | `[API_ADDRESS]` | `api.ucash.eth` | API endpoints |
-| **Bridge** | `[BRIDGE_ADDRESS]` | `bridge.ucash.eth` | Cross-chain bridge |
-| **Payment** | `[PAYMENT_ADDRESS]` | `pay.ucash.eth` | Payment processor |
-| **Staking** | `[STAKING_ADDRESS]` | `stake.ucash.eth` | Staking contract |
-
----
-
-## 📊 Address Changes & History
-
-### Recent Changes
-
-| Date | Type | Description |
-|------|------|-------------|
-| YYYY-MM-DD | Update | Initial repository creation |
-| YYYY-MM-DD | Change | [Description of change] |
-
-### Migration History
-
-If any addresses have been migrated or deprecated, they will be listed here.
+| Network | Contract Address | Explorer |
+|---------|-----------------|----------|
+| **Ethereum** | 0x92e52a1a235d9a103d970901066ce910aacefd37 | [Etherscan](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37) |
+| **Polygon** | 0xa94880d3a4b39746e90cdb57f8de3732c984de14 | [Polygonscan](https://polygonscan.com/token/0xa94880d3a4b39746e90cdb57f8de3732c984de14) |
+| **Base** | 0x26cf750abaf38af7109effdbdf79ba50d2ee09a1 | [Basescan](https://basescan.org/token/0x26cf750abaf38af7109effdbdf79ba50d2ee09a1) |
 
 ---
 
@@ -137,7 +91,7 @@ If any addresses have been migrated or deprecated, they will be listed here.
 1. ✅ **Verify ENS**: Check `ucash.eth` resolves correctly
 2. ✅ **Cross-Reference**: Confirm address matches this repository
 3. ✅ **Etherscan Check**: Verify contract is verified (if applicable)
-4. ✅ **Official Channel**: Confirm via official Discord/Telegram
+4. ✅ **Official Channel**: Confirm via official social media
 5. ✅ **Start Small**: Send test transaction with small amount
 
 ### Red Flags
@@ -151,22 +105,18 @@ If any addresses have been migrated or deprecated, they will be listed here.
 
 ---
 
-## 📞 Report Issues
+## 📞 Contact
 
 ### Security Issues
-If you discover a security vulnerability:
 - **Email**: security@ucash.eth
-- **PGP Key**: [PGP_KEY_ID] (if available)
-
-### Report Phishing
-If you encounter phishing attempts:
-- **Email**: abuse@ucash.eth
-- **Include**: Screenshots, addresses used, transaction hashes
+- **Abuse**: abuse@ucash.eth
 
 ### General Inquiries
-- **Email**: contact@ucash.eth
-- **Discord**: [OFFICIAL_DISCORD_LINK]
-- **Telegram**: t.me/ucash_official
+- **Email**: info@u.cash
+- **Website**: https://u.cash
+- **GitHub**: [UdotCASH](https://github.com/UdotCASH)
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
+- **Telegram**: t.me/ucash
 
 ---
 
@@ -180,38 +130,6 @@ When verifying UCASH contracts, check:
 - [ ] ABI is available for integration
 - [ ] Audit report is available (if applicable)
 - [ ] Official announcement exists
-
----
-
-## 🔄 Auto-Update Script
-
-For developers who want to automatically verify addresses:
-
-```bash
-#!/bin/bash
-# verify-ucash-addresses.sh
-
-echo "Verifying ucash.eth addresses..."
-
-# Get primary address
-ADDRESS=$(nslookup ucash.eth | grep "Address:" | tail -1 | awk '{print $2}')
-echo "Primary Address: $ADDRESS"
-
-# Verify on Etherscan
-echo "Checking Etherscan..."
-curl -s "https://api.etherscan.io/api?module=account&action=balance&address=$ADDRESS&tag=latest&apikey=YOUR_API_KEY"
-
-# More verification...
-```
-
----
-
-## 📚 Additional Resources
-
-- [Main README](./README.md)
-- [Security Guide](./SECURITY.md)
-- [Integration Guide](./INTEGRATION.md)
-- [Subdomain Info](./SUBDOMAINS.md)
 
 ---
 

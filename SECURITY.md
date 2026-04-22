@@ -323,7 +323,7 @@ curl https://api.ens.domains/owner/ucash.eth
 
 - **Security Announcements**: Subscribe to [MAILING_LIST]
 - **Discord Security Channel**: [DISORD_LINK]
-- **Twitter Security Alerts**: [@ucash_eth](https://twitter.com/ucash_eth)
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 
 ---
 

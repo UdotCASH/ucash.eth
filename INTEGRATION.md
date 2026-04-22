@@ -611,8 +611,9 @@ testENSIntegration();
 
 ### Support
 - **GitHub Issues**: https://github.com/UdotCASH/ucash.eth/issues
-- **Discord**: [DISCORD_LINK]
-- **Email**: dev@ucash.eth
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
+- **Telegram**: t.me/ucash
+- **Email**: info@u.cash
 
 ---
 

@@ -137,8 +137,11 @@ Before submitting, ensure:
 
 ## 📞 Get in Touch
 
-- **Discord**: [DISCORD_LINK]
-- **Email**: dev@ucash.eth
+- **Website**: https://ucash.eth
+- **Email**: info@u.cash
+- **Security**: security@ucash.eth
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
+- **Telegram**: t.me/ucash
 - **GitHub**: https://github.com/UdotCASH/ucash.eth
 
 ---

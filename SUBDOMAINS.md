@@ -6,120 +6,216 @@
 
 ## Overview
 
-This document lists all official subdomains under `ucash.eth` and their purposes. All subdomains are managed by the UCASH team and point to verified services and contracts.
+This document lists all official subdomains under `ucash.eth` and their purposes.
+
+**Total Active Subdomains**: 100+
+**Manager**: Controlled by ucash.eth owner
+
+All subdomains resolve to verified addresses or services.
 
 ---
 
-## 🏗️ Infrastructure Subdomains
+## 🏗️ Core Infrastructure Subdomains
 
-### Core Infrastructure
+| Subdomain | Purpose | Status | Notes |
+|-----------|---------|--------|-------|
+| `www.ucash.eth` | Website redirect | 🟡 In Dev | Main website |
+| `app.ucash.eth` | Web application | 🟡 In Dev | Primary DApp |
+| `api.ucash.eth` | REST API | 🟡 In Dev | API endpoints |
+| `docs.ucash.eth` | Documentation | 🟡 In Dev | Technical docs |
+| `info.ucash.eth` | Information | 🟡 In Dev | General info |
+| `admin.ucash.eth` | Admin panel | 🟡 In Dev | Admin access |
+| `dev.ucash.eth` | Development | 🟡 In Dev | Dev environment |
+| `test.ucash.eth` | Testing | 🟡 In Dev | Test environment |
+| `testnet.ucash.eth` | Testnet | 🟡 In Dev | Testnet operations |
+| `pay.ucash.eth` | Payments | 🟡 In Dev | Payment processor |
 
-| Subdomain | Type | Target/Address | Purpose | Status |
-|-----------|------|----------------|---------|--------|
-| `app.ucash.eth` | CNAME | `[APP_DOMAIN]` | Main web application | 🟢 Active |
-| `www.ucash.eth` | CNAME | `ucash.eth` | Website redirect | 🟢 Active |
-| `contracts.ucash.eth` | ADDR | `[CONTRACT_ADDRESS]` | Smart contracts directory | 🟢 Active |
-| `batch.ucash.eth` | ADDR | `[BATCH_SENDER]` | Batch sender contract | 🟢 Active |
-| `bridge.ucash.eth` | ADDR | `[BRIDGE_ADDRESS]` | Cross-chain bridge | 🟡 Testing |
-| `pay.ucash.eth` | ADDR | `[PAYMENT_ADDRESS]` | Payment processor | 🟢 Active |
+---
 
-### API & Services
+## 🔧 Smart Contracts & Protocol
 
-| Subdomain | Type | Target | Purpose | Status |
-|-----------|------|--------|---------|--------|
-| `api.ucash.eth` | CNAME | `api.ucash.eth` | REST API endpoints | 🟢 Active |
-| `rpc.ucash.eth` | CNAME | `rpc.ucash.eth` | RPC endpoint | 🟢 Active |
-| `docs.ucash.eth` | CNAME | `docs.ucash.eth` | Documentation | 🟢 Active |
-| `blog.ucash.eth` | CNAME | `blog.ucash.eth` | Blog & news | 🟡 Coming Soon |
-| `status.ucash.eth` | CNAME | `status.ucash.eth` | System status page | 🟡 Planned |
+| Subdomain | Purpose | Status | Notes |
+|-----------|---------|--------|-------|
+| `batch.ucash.eth` | Batch Sender | 🟡 In Dev | Main contract |
+| `contracts.ucash.eth` | Contracts | 🟡 In Dev | Contract directory |
+| `token.ucash.eth` | Token | 🟡 In Dev | UCASH token |
+| `bridge.ucash.eth` | Bridge | 🟡 In Dev | Cross-chain bridge |
+| `earn.ucash.eth` | Earn | 🟡 In Dev | Yield farming |
+| `vault.ucash.eth` | Vault | 🟡 In Dev | Token vaults |
+| `claim.ucash.eth` | Claims | 🟡 In Dev | Token claims |
+| `lock.ucash.eth` | Locking | 🟡 In Dev | Token locking |
+| `gov.ucash.eth` | Governance | 🟡 In Dev | Governance |
+| `dao.ucash.eth` | DAO | 🟡 In Dev | DAO operations |
+| `vote.ucash.eth` | Voting | 🟡 In Dev | Voting system |
+| `oracle.ucash.eth` | Oracle | 🟡 In Dev | Price oracle |
+| `agent.ucash.eth` | Agent | 🟡 In Dev | Smart agents |
+| `bot.ucash.eth` | Bot | 🟡 In Dev | Agent/Action Bots |
+| `sign.ucash.eth` | Signing | 🟡 In Dev | Message signing |
+| `supply.ucash.eth` | Supply | 🟡 In Dev | Token supply |
+| `initial.ucash.eth` | Initial | 🟡 In Dev | Initial Bounty Offering (IBO) Wallet |
+| `ongoing.ucash.eth` | Ongoing | 🟡 In Dev | Ongoing Bounty Offering (OBO) Wallet |
+| `build.ucash.eth` | Build | 🟡 In Dev | Build Bounty Offering (BBO) Wallet |
+| `partners.ucash.eth` | Partners | 🟡 In Dev | Partner Bounty Offering (PBO) Wallet |
+| `future.ucash.eth` | Future | 🟡 In Dev | Future Bounty Offering (FBO) Wallet |
+| `liquidity.ucash.eth` | Liquidity | 🟡 In Dev | Liquidity Bounty Offering (LBO) Wallet |
 
 ---
 
 ## 🌐 Network-Specific Subdomains
 
-### Layer 1 (L1)
+### Blockchain Networks
 
 | Subdomain | Network | Purpose | Status |
 |-----------|---------|---------|--------|
-| `eth.ucash.eth` | Ethereum Mainnet | ETH operations & contracts | 🟢 Active |
-| `mainnet.ucash.eth` | Ethereum Mainnet | Mainnet operations (alias) | 🟢 Active |
+| `polygon.ucash.eth` | Polygon | Polygon operations | 🟡 In Dev |
+| `base.ucash.eth` | Base | Base operations | 🟡 In Dev |
+| `arb.ucash.eth` | Arbitrum | Arbitrum operations | 🟡 In Dev |
+| `linea.ucash.eth` | Linea | Linea operations | 🟡 In Dev |
+| `op.ucash.eth` | Optimism | Optimism operations | 🟡 In Dev |
+| `sol.ucash.eth` | Solana | Solana operations | 🟡 In Dev |
+| `bnb.ucash.eth` | BNB Chain | BNB operations | 🟡 In Dev |
+| `btc.ucash.eth` | Bitcoin | Bitcoin operations | 🟡 In Dev |
 
-### Layer 2 (L2)
+### Cross-Chain
 
-| Subdomain | Network | Purpose | Status |
-|-----------|---------|---------|--------|
-| `base.ucash.eth` | Base | Base chain operations | 🟢 Active |
-| `polygon.ucash.eth` | Polygon | Polygon operations | 🟢 Active |
-| `arbitrum.ucash.eth` | Arbitrum | Arbitrum operations | 🟢 Active |
-| `optimism.ucash.eth` | Optimism | Optimism operations | 🟢 Active |
-| `zksync.ucash.eth` | zkSync | zkSync operations | 🟡 Planned |
-| `scroll.ucash.eth` | Scroll | Scroll operations | 🟡 Planned |
-
-### Testnet Subdomains
-
-| Subdomain | Network | Purpose | Status |
-|-----------|---------|---------|--------|
-| `sepolia.ucash.eth` | Sepolia | Sepolia testnet | 🟢 Active |
-| `testnet.ucash.eth` | Sepolia | General testnet (alias) | 🟢 Active |
-| `base-sepolia.ucash.eth` | Base Sepolia | Base testnet | 🟡 Testing |
-| `amoy.ucash.eth` | Polygon Amoy | Polygon testnet | 🟡 Testing |
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `network.ucash.eth` | Network | 🟡 In Dev |
+| `bridge.ucash.eth` | Bridge | 🟡 In Dev |
+| `swap.ucash.eth` | Swap/DEX | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange | 🟡 In Dev |
 
 ---
 
-## 🛠️ Service Subdomains
+## 🔍 Explorers & Tools
 
-### DeFi Services
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `scan.ucash.eth` | Block Explorer | 🟡 In Dev |
+| `verify.ucash.eth` | Verification | 🟡 In Dev |
+| `link.ucash.eth` | Linking | 🟡 In Dev |
+| `mgr.ucash.eth` | Manager | 🟡 In Dev |
+| `nic.ucash.eth` | NIC | 🟡 In Dev |
+| `support.ucash.eth` | Support | 🟡 In Dev |
+| `bounties.ucash.eth` | Bounties | 🟡 In Dev |
+| `news.ucash.eth` | News | 🟡 In Dev |
+| `channel.ucash.eth` | Channel | 🟡 In Dev |
+| `cash.ucash.eth` | Cash | 🟡 In Dev |
+| `builders.ucash.eth` | Builders | 🟡 In Dev |
+
+---
+
+## 💾 Decentralized Storage Subdomains
+
+| Subdomain | Protocol | Purpose | Status |
+|-----------|----------|---------|--------|
+| `ipfs.ucash.eth` | IPFS | IPFS gateway | 🟡 In Dev |
+| `arweave.ucash.eth` | Arweave | Arweave storage | 🟡 In Dev |
+| `swarm.ucash.eth` | Swarm | Swarm storage | 🟡 In Dev |
+| `onion.ucash.eth` | Tor/I2P | Onion routing | 🟡 In Dev |
+| `skynet.ucash.eth` | Skynet | Skynet storage | 🟡 In Dev |
+
+---
+
+## 🔗 Naming & Domain Services
 
 | Subdomain | Service | Purpose | Status |
 |-----------|---------|---------|--------|
-| `stake.ucash.eth` | Staking | Token staking service | 🟢 Active |
-| `swap.ucash.eth` | DEX | Token swap aggregator | 🟡 Planned |
-| `farm.ucash.eth` | Yield Farming | Yield farming | 🟡 Planned |
-| `vault.ucash.eth` | Vault Management | Token vaults | 🟡 Planned |
-
-### Utilities
-
-| Subdomain | Service | Purpose | Status |
-|-----------|---------|---------|--------|
-| `faucet.ucash.eth` | Faucet | Testnet faucet | 🟡 Coming Soon |
-| `scan.ucash.eth` | Explorer | Block explorer | 🟡 Planned |
-| `bridge-swap.ucash.eth` | Bridge + Swap | Cross-chain swap | 🟡 Planned |
-| `gas.ucash.eth` | Gas Tracker | Gas price tracker | 🟡 Planned |
+| `dns.ucash.eth` | DNS | DNS records | 🟡 In Dev |
+| `ens.ucash.eth` | ENS | ENS integration | 🟡 In Dev |
+| `domains.ucash.eth` | Domains | Domain services | 🟡 In Dev |
+| `names.ucash.eth` | Names | Name services | 🟡 In Dev |
+| `uns.ucash.eth` | UNS | Unstoppable Domains | 🟡 In Dev |
+| `linked.ucash.eth` | Linked | Linked data | 🟡 In Dev |
 
 ---
 
-## 👛 Wallet Subdomains
+## 🌍 Geographic TLD Subdomains (Country Code TLDs)
 
-### Operational Wallets
+**Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin.
 
-| Subdomain | Purpose | Type | Status |
-|-----------|---------|------|--------|
-| `treasury.ucash.eth` | Treasury funds | ADDR | 🟢 Active |
-| `ops.ucash.eth` | Operations | ADDR | 🟢 Active |
-| `dev.ucash.eth` | Development | ADDR | 🟢 Active |
-| `marketing.ucash.eth` | Marketing | ADDR | 🟢 Active |
-| `community.ucash.eth` | Community rewards | ADDR | 🟢 Active |
+### All Geographic Subdomains (100+ total)
 
-### Special Purpose Wallets
-
-| Subdomain | Purpose | Type | Status |
-|-----------|---------|------|--------|
-| `airdrop.ucash.eth` | Airdrops | ADDR | 🟡 Planned |
-| `bounty.ucash.eth` | Bug bounties | ADDR | 🟡 Planned |
-| `grant.ucash.eth` | Grants program | ADDR | 🟡 Planned |
-| `multisig.ucash.eth` | Multi-sig wallet | ADDR | 🟢 Active |
+| Subdomain | Country/Region | Purpose | Status |
+|-----------|---------------|---------|--------|
+| `ad.ucash.eth` | Andorra | Local Use + Advertisement & Ads | 🟡 In Dev |
+| `ar.ucash.eth` | Argentina | Local Use + Augmented Reality (AR) | 🟡 In Dev |
+| `at.ucash.eth` | Austria | Local Use + @ symbol, "at" links | 🟡 In Dev |
+| `br.ucash.eth` | Brazil | Local Use | 🟡 In Dev |
+| `ca.ucash.eth` | Canada | Local Use | 🟡 In Dev |
+| `cc.ucash.eth` | Cocos Islands | Local Use + Cryptocurrency | 🟡 In Dev |
+| `cn.ucash.eth` | China | Local Use | 🟡 In Dev |
+| `co.ucash.eth` | Colombia | Local Use + Company, Commerce | 🟡 In Dev |
+| `cv.ucash.eth` | Cape Verde | Local Use + Resume, Crypto ventures | 🟡 In Dev |
+| `de.ucash.eth` | Germany | Local Use | 🟡 In Dev |
+| `es.ucash.eth` | Spain | Local Use | 🟡 In Dev |
+| `fm.ucash.eth` | Micronesia | Local Use + FM Radio | 🟡 In Dev |
+| `fr.ucash.eth` | France | Local Use | 🟡 In Dev |
+| `id.ucash.eth` | Indonesia | Local Use + Identity (ID) | 🟡 In Dev |
+| `in.ucash.eth` | India | Local Use + "in" (location) | 🟡 In Dev |
+| `io.ucash.eth` | BIOT | Local Use + I/O & Tech | 🟡 In Dev |
+| `it.ucash.eth` | Italy | Local Use + IT services | 🟡 In Dev |
+| `jp.ucash.eth` | Japan | Local Use | 🟡 In Dev |
+| `kr.ucash.eth` | South Korea | Local Use | 🟡 In Dev |
+| `la.ucash.eth` | Laos | Local Use + Los Angeles, .la TLD | 🟡 In Dev |
+| `li.ucash.eth` | Liechtenstein | Local Use + Links, Brands | 🟡 In Dev |
+| `ly.ucash.eth` | Libya | Local Use + Link shortener | 🟡 In Dev |
+| `me.ucash.eth` | Montenegro | Local Use + Personal Identity | 🟡 In Dev |
+| `mx.ucash.eth` | Mexico | Local Use + MX records (mail) | 🟡 In Dev |
+| `mw.ucash.eth` | Malawi | Local Use + Megawatt (power) | 🟡 In Dev |
+| `my.ucash.eth` | Malaysia | Local Use + "My" prefix | 🟡 In Dev |
+| `ng.ucash.eth` | Nigeria | Local Use | 🟡 In Dev |
+| `nl.ucash.eth` | Netherlands | Local Use + "New Line" | 🟡 In Dev |
+| `ru.ucash.eth` | Russia | Local Use | 🟡 In Dev |
+| `rw.ucash.eth` | Rwanda | Local Use + RW (Real World, RWA) | 🟡 In Dev |
+| `to.ucash.eth` | Tonga | Local Use + "To" links | 🟡 In Dev |
+| `tv.ucash.eth` | Tuvalu | Local Use + Television & Streaming | 🟡 In Dev |
+| `uk.ucash.eth` | United Kingdom | Local Use | 🟡 In Dev |
+| `us.ucash.eth` | United States | Local Use + "About Us" | 🟡 In Dev |
+| `vn.ucash.eth` | Vietnam | Local Use | 🟡 In Dev |
+| `ws.ucash.eth` | Samoa | Local Use + Web Services, WebSocket | 🟡 In Dev |
 
 ---
 
-## 📱 Community Subdomains
+## 📝 Generic TLD Subdomains (gTLDs)
 
-| Subdomain | Purpose | Target | Status |
-|-----------|---------|--------|--------|
-| `discord.ucash.eth` | Discord invite | Discord server | 🟢 Active |
-| `telegram.ucash.eth` | Telegram invite | Telegram channel | 🟢 Active |
-| `twitter.ucash.eth` | Twitter/X profile | @ucash_eth | 🟢 Active |
-| `github.ucash.eth` | GitHub organization | UdotCASH | 🟢 Active |
-| `forum.ucash.eth` | Community forum | Forum software | 🟡 Planned |
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `tld.ucash.eth` | TLD operations | 🟡 In Dev |
+| `club.ucash.eth` | Club TLD | 🟡 In Dev |
+| `pro.ucash.eth` | Professional TLD | 🟡 In Dev |
+| `biz.ucash.eth` | Business TLD | 🟡 In Dev |
+| `name.ucash.eth` | Name TLD | 🟡 In Dev |
+| `vip.ucash.eth` | VIP TLD | 🟡 In Dev |
+| `top.ucash.eth` | Top TLD | 🟡 In Dev |
+| `tech.ucash.eth` | Technology TLD | 🟡 In Dev |
+| `online.ucash.eth` | Online TLD | 🟡 In Dev |
+| `ooo.ucash.eth` | Sales TLD | 🟡 In Dev |
+| `gdn.ucash.eth` | Generic TLD | 🟡 In Dev |
+| `xyz.ucash.eth` | Generic TLD | 🟡 In Dev |
+| `u.ucash.eth` | Universal TLD | 🟡 In Dev |
+| `net.ucash.eth` | Network TLD | 🟡 In Dev |
+| `org.ucash.eth` | Organization TLD | 🟡 In Dev |
+| `onl.ucash.eth` | Online TLD | 🟡 In Dev |
+| `com.ucash.eth` | Commercial TLD | 🟡 In Dev |
+| `wiki.ucash.eth` | Wiki TLD | 🟡 In Dev |
+| `technology.ucash.eth` | Technology TLD | 🟡 In Dev |
+| `productions.ucash.eth` | Productions TLD | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange TLD | 🟡 In Dev |
+
+---
+
+## 🎨 Brand & Identity Subdomains
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `brand.ucash.eth` | Brand | 🟡 In Dev |
+| `cash.ucash.eth` | Cash brand | 🟡 In Dev |
+| `builders.ucash.eth` | Builders | 🟡 In Dev |
+| `technology.ucash.eth` | Technology | 🟡 In Dev |
+| `productions.ucash.eth` | Productions | 🟡 In Dev |
+| `exchange.ucash.eth` | Exchange | 🟡 In Dev |
+| `channel.ucash.eth` | Channel | 🟡 In Dev |
 
 ---
 
@@ -127,121 +223,29 @@ This document lists all official subdomains under `ucash.eth` and their purposes
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `security.ucash.eth` | Security center | 🟢 Active |
-| `verify.ucash.eth` | Address verification | 🟢 Active |
-| `phishing-report.ucash.eth` | Report phishing | 🟢 Active |
-| `audit.ucash.eth` | Audit reports | 🟡 Planned |
+| `security.ucash.eth` | Security center | 🟡 In Dev |
+| `verify.ucash.eth` | Address verification | 🟡 In Dev |
 
 ---
 
-## 📊 Analytics & Monitoring
+## 📞 Contact Information
 
-| Subdomain | Purpose | Status |
-|-----------|---------|--------|
-| `stats.ucash.eth` | Usage statistics | 🟡 Planned |
-| `metrics.ucash.eth` | Performance metrics | 🟡 Planned |
-| `alerts.ucash.eth` | System alerts | 🟡 Planned |
-| `monitor.ucash.eth` | Uptime monitoring | 🟡 Planned |
+### Official Channels
 
----
+- **Website**: https://ucash.eth
+- **Email**: info@u.cash
+- **Security**: security@ucash.eth
+- **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
+- **GitHub**: [UdotCASH](https://github.com/UdotCASH)
+- **Telegram**: t.me/ucash
 
-## 🎓 Developer Resources
+### Social Media
 
-| Subdomain | Purpose | Status |
-|-----------|---------|--------|
-| `devportal.ucash.eth` | Developer portal | 🟡 Planned |
-| `sandbox.ucash.eth` | Development sandbox | 🟡 Planned |
-| `testnet-api.ucash.eth` | Testnet API | 🟢 Active |
-| `abi.ucash.eth` | Contract ABIs | 🟡 Planned |
-
----
-
-## 🏢 Business & Partners
-
-| Subdomain | Purpose | Status |
-|-----------|---------|--------|
-| `partners.ucash.eth` | Partner portal | 🟡 Planned |
-| `enterprise.ucash.eth` | Enterprise solutions | 🟡 Planned |
-| `integrations.ucash.eth` | Integration partners | 🟡 Planned |
-| `white-label.ucash.eth` | White-label solutions | 🟡 Planned |
-
----
-
-## 🎨 Brand & Marketing
-
-| Subdomain | Purpose | Status |
-|-----------|---------|--------|
-| `brand.ucash.eth` | Brand assets | 🟡 Planned |
-| `press.ucash.eth` | Press releases | 🟡 Planned |
-| `media.ucash.eth` | Media kit | 🟡 Planned |
-| `careers.ucash.eth` | Job listings | 🟡 Planned |
-
----
-
-## 🌍 Regional Subdomains
-
-| Subdomain | Region | Purpose | Status |
-|-----------|--------|---------|--------|
-| `asia.ucash.eth` | Asia-Pacific | Regional operations | 🟡 Planned |
-| `eu.ucash.eth` | Europe | Regional operations | 🟡 Planned |
-| `latam.ucash.eth` | Latin America | Regional operations | 🟡 Planned |
-
----
-
-## 🔄 Redirect Subdomains
-
-| Subdomain | Redirects To | Purpose |
-|-----------|--------------|---------|
-| `payme.ucash.eth` | `pay.ucash.eth` | Shorter payment link |
-| `batchsend.ucash.eth` | `app.ucash.eth/batch` | Batch send feature |
-| `tokens.ucash.eth` | `app.ucash.eth/tokens` | Token management |
-| `docs-api.ucash.eth` | `docs.ucash.eth/api` | API documentation |
-
----
-
-## 📝 Subdomain Naming Convention
-
-### Format
-```
-[service/feature].[network].ucash.eth
-```
-
-### Examples
-- `batch.base.ucash.eth` - Batch sender on Base
-- `faucet.sepolia.ucash.eth` - Sepolia faucet
-- `treasury.eth.ucash.eth` - Treasury on Ethereum
-
-### Reserved Patterns
-- `test.*.ucash.eth` - Reserved for testing
-- `dev.*.ucash.eth` - Reserved for development
-- `staging.*.ucash.eth` - Reserved for staging
-- `old.*.ucash.eth` - Reserved for deprecated services
-
----
-
-## 🚀 How to Request a Subdomain
-
-### Public Subdomain Allocation
-
-**Coming Soon**: We plan to offer subdomain allocation to:
-- Partners
-- Community projects
-- DApp integrations
-- Enterprise clients
-
-**Criteria**:
-- Must be UCASH-related
-- Must pass security review
-- Must comply with terms of service
-- Must maintain active usage
-
-**Request Process**:
-1. Submit proposal: subdomain@ucash.eth
-2. Security review
-3. Technical feasibility assessment
-4. Approval & configuration
-
-**Note**: Subdomains are offered at UCASH's discretion and may be revoked for TOS violations.
+- **YouTube**: https://youtube.com/@UdotCASH
+- **Instagram**: https://instagram.com/UdotCASH
+- **Facebook**: https://fb.com/UdotCASH
+- **Reddit**: https://reddit.com/r/ucash
+- **LinkedIn**: https://linkedin.com/company/ucash
 
 ---
 
@@ -261,7 +265,7 @@ nslookup app.ucash.eth
 const address = await provider.resolveName('app.ucash.eth');
 ```
 
-**Method 3: Check ENS Manager**
+**Method 3: ENS Manager**
 ```
 Visit: https://app.ens.domains/name/app.ucash.eth
 ```
@@ -278,29 +282,7 @@ If you encounter issues with a subdomain:
 - **DNS Issues**: dns@ucash.eth
 - **Configuration**: ops@ucash.eth
 - **Security**: security@ucash.eth
-- **General**: contact@ucash.eth
-
-### Report Fake Subdomains
-
-If you see unofficial/fake subdomains:
-- **Report**: abuse@ucash.eth
-- **Include**: Subdomain name, where you saw it, evidence of fake/scam
-
----
-
-## 📅 Changelog
-
-### 2026-04-21
-- Created subdomain directory
-- Documented all active subdomains
-- Added future planned subdomains
-
-### Future Updates
-This document will be updated as new subdomains are added or changed.
-
----
-
-**⚠️ SECURITY REMINDER**: Only trust subdomains listed in this official repository. Fake subdomains may be used for phishing.
+- **General**: info@u.cash
 
 ---
 
