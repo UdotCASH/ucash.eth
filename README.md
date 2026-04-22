@@ -643,8 +643,8 @@ ucash.eth
 
 Based on subdomains, UCASH supports:
 
-| Network | ENS Subname | Native Chain Name | Naming Service | Status          |
-|---------|---------------|-------------------|----------------|---------------|
+| Network | ENS Subname | Chain Name | Service | Status                    |
+|---------|-----------|------------|---------|------------------------|
 | **Ethereum** | Main operations | `ucash.eth` | ENS | 🟡 Dev |
 | **Polygon** | polygon.ucash.eth | `ucash.polygon` | Unstoppable Domains | 🟡 Dev |
 | **Base** | base.ucash.eth | `ucash.base.eth` | Base Names | 🟡 Dev |
