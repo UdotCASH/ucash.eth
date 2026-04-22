@@ -176,20 +176,20 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Name | Network | Naming Service | Notes |
 |------|---------|----------------|------|
-| 🟡 `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 100+ subnames |
-| 🟡 `ucash.base.eth` | Base | **Base Names** | Layer 2 ENS on Base network |
-| 🟡 `ucash.linea.eth` | Linea | **Linea Names** | Layer 2 ENS on Linea network |
-| 🟡 `ucash.arb` | Arbitrum | **SpaceID** | Arbitrum naming service |
-| 🟡 `ucash.bnb` | BNB Chain | **SpaceID** | BNB Chain naming service |
-| 🟡 `ucash.g` | Gravity Alpha | **SpaceID** | Gravity Alpha naming |
-| 🟡 `ucash.sol` | Solana | **Solana Name Service** | Solana native naming |
-| 🟡 `ucash.polygon` | Polygon | **Unstoppable Domains** | Polygon naming |
-| 🟡 `ucash.op` | Optimism | **Optimism Domains** | Optimism naming |
-| 🟡 `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | BNS on Rings Network |
-| 🟡 `ucash.xrp` | XRP | **XRP Name Service** | XRP Ledger naming |
-| 🟡 `ucash.ltc` | Litecoin | **LTC Names** | Litecoin naming |
-| 🟡 `ucash.xmr` | Monero | **XMR Names** | Monero naming |
-| 🟡 `ucash.u` | Universal | **Ucosystem TLD** | Universal Web3 Names |
+| `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 100+ subnames |
+| `ucash.base.eth` | Base | **Base Names** | Layer 2 ENS on Base network |
+| `ucash.linea.eth` | Linea | **Linea Names** | Layer 2 ENS on Linea network |
+| `ucash.arb` | Arbitrum | **SpaceID** | Arbitrum naming service |
+| `ucash.bnb` | BNB Chain | **SpaceID** | BNB Chain naming service |
+| `ucash.g` | Gravity Alpha | **SpaceID** | Gravity Alpha naming |
+| `ucash.sol` | Solana | **Solana Name Service** | Solana native naming |
+| `ucash.polygon` | Polygon | **Unstoppable Domains** | Polygon naming |
+| `ucash.op` | Optimism | **Optimism Domains** | Optimism naming |
+| `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | BNS on Rings Network |
+| `ucash.xrp` | XRP | **XRP Name Service** | XRP Ledger naming |
+| `ucash.ltc` | Litecoin | **LTC Names** | Litecoin naming |
+| `ucash.xmr` | Monero | **XMR Names** | Monero naming |
+| `ucash.u` | Universal | **Ucosystem TLD** | Universal Web3 Names |
 
 ### 🌐 Public Registration TLDs
 
