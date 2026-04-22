@@ -62,7 +62,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.op` | Optimism | **OP Domains** | 🟡 In Dev | Optimism naming |
 | `ucash.btc` | Bitcoin | **BNS.org** | 🟡 In Dev | Bitcoin naming |
 | `ucash.xrp` | XRP | **XRPNS** | 🟡 In Dev | XRP Ledger naming |
-| `ucash.u` | Universal | **UD** | 🟡 In Dev | Cross-chain UD |
+| `ucash.u` | Universal | **.U TLD** (Owned by UCASH via UD) | 🟢 Active | UCASH's own TLD |
 
 ### Naming Service Details
 
@@ -83,7 +83,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 #### Unstoppable Domains (UD)
 - `.polygon` - Polygon-specific domain
-- `.u` - Universal cross-chain domains
+- `.u` - **UCASH's own TLD** - Universal Web3 Names (owned by UCASH via UD)
 - Purchased once, owned forever (no renewal fees)
 
 #### OP Domains
@@ -496,7 +496,8 @@ A: UCASH has **12 blockchain name registrations active** across:
 - Linea Names: `ucash.linea.eth`
 - SpaceID: `ucash.arb`, `ucash.bnb`, `ucash.g`
 - Solana Name Service: `ucash.sol`
-- Unstoppable Domains: `ucash.polygon`, `ucash.u`
+- Unstoppable Domains: `ucash.polygon`
+- .U TLD (owned by UCASH): `ucash.u` - Universal Web3 Names
 - OP Domains: `ucash.op`
 - Bitcoin Name Service: `ucash.btc`
 - XRPNS: `ucash.xrp`
