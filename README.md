@@ -158,11 +158,11 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 **🔗 Explore Our Ecosystem:**
 
-<a href="https://u.onl" style="text-decoration:none">🌐 u.onl</a> • <a href="https://u.cash" style="text-decoration:none">💼 u.cash</a> • <a href="https://un4.com" style="text-decoration:none">🚀 un4.com</a> • <a href="https://ucosystem.com" style="text-decoration:none">🔧 ucosystem.com</a>
+<a href="https://u.onl" style="text-decoration:none">u.onl</a> • <a href="https://u.cash" style="text-decoration:none">u.cash</a> • <a href="https://un4.com" style="text-decoration:none">un4.com</a> • <a href="https://ucosystem.com" style="text-decoration:none">ucosystem.com</a>
 
 **📊 Technical Resources:**
 
-<a href="https://github.com/UdotCASH/ucash.eth" style="text-decoration:none">📦 UCASH ENS Data</a> • <a href="https://app.ens.domains/ucash.eth" style="text-decoration:none">🔍 ENS Records</a>
+<a href="https://github.com/UdotCASH/ucash.eth" style="text-decoration:none">UCASH ENS Data</a> • <a href="https://app.ens.domains/ucash.eth" style="text-decoration:none">ENS Records</a>
 
 **📱 Connect With Us:**
 
