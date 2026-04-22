@@ -51,18 +51,18 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Name | Network | Naming Service | Status | Notes |
 |------|---------|----------------|--------|-------|
-| `ucash.eth` | Ethereum | **ENS** (Ethereum Name Service) | 🟢 Active | Primary ENS with 136 subdomains |
-| `ucash.base.eth` | Base | **Base Names** (Base ENS) | 🟢 Active | Layer 2 ENS on Base network |
-| `ucash.linea.eth` | Linea | **Linea Names** (Linea ENS) | 🟢 Active | Layer 2 ENS on Linea network |
+| `ucash.eth` | Ethereum | **Ethereum Name Service** | 🟢 Active | Primary ENS with 136 subdomains |
+| `ucash.base.eth` | Base | **Base Names** | 🟢 Active | Layer 2 ENS on Base network |
+| `ucash.linea.eth` | Linea | **Linea Names** | 🟢 Active | Layer 2 ENS on Linea network |
 | `ucash.arb` | Arbitrum | **SpaceID** | 🟢 Active | Arbitrum naming service |
 | `ucash.bnb` | BNB Chain | **SpaceID** | 🟢 Active | BNB Chain naming service |
 | `ucash.g` | Gravity Alpha | **SpaceID** | 🟢 Active | Gravity Alpha naming |
-| `ucash.sol` | Solana | **SNS** (Solana Name Service) | 🟢 Active | Solana native naming |
-| `ucash.polygon` | Polygon | **UD** (Unstoppable Domains) | 🟢 Active | Polygon naming |
-| `ucash.op` | Optimism | **OP Domains** | 🟢 Active | Optimism naming |
-| `ucash.btc` | Bitcoin | **BNS.org** | 🟢 Active | Bitcoin naming |
-| `ucash.xrp` | XRP | **XRPNS** | 🟢 Active | XRP Ledger naming |
-| `ucash.u` | Universal | **.U TLD** (Ucosystem TLD) | 🟢 Active | Universal Web3 Names |
+| `ucash.sol` | Solana | **Solana Name Service** | 🟢 Active | Solana native naming |
+| `ucash.polygon` | Polygon | **Unstoppable Domains** | 🟢 Active | Polygon naming |
+| `ucash.op` | Optimism | **Optimism Domains** | 🟢 Active | Optimism naming |
+| `ucash.btc` | Bitcoin | **Bitcoin Name Service** | 🟢 Active | Bitcoin naming |
+| `ucash.xrp` | XRP | **XRP Name Service** | 🟢 Active | XRP Ledger naming |
+| `ucash.u` | Universal | **Ucosystem TLD** | 🟢 Active | Universal Web3 Names |
 
 ### Naming Service Details
 
@@ -76,7 +76,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 - Supports Arbitrum, BNB Chain, and other networks
 - No `.eth` suffix - uses `.arb`, `.bnb`, `.g` TLDs
 
-#### Solana Name Service (SNS)
+#### Solana Name Service
 - Native to Solana blockchain
 - Uses `.sol` TLD
 - Point to Solana addresses
@@ -91,7 +91,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 - Uses `.op` TLD
 - Layer 2 naming for Optimism
 
-#### Bitcoin Name Service (BNS.org)
+#### Bitcoin Name Service
 - Built on Stacks blockchain
 - Uses `.btc` TLD
 - Secured by Bitcoin
