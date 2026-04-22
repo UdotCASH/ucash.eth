@@ -269,8 +269,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### 🔧 Smart Contracts & Protocol
 
-| Subname | Purpose | Notes | Status      |
-|-----------|---------|-------|-----------|
+| Subname | Purpose | Notes | Status          |
+|-----------|---------|-------|---------------|
 | `batch.ucash.eth` | Batch Send | Batch Wallet | 🟡 Dev |
 | `contracts.ucash.eth` | Contracts | Contract Directory | 🟡 Dev |
 | `token.ucash.eth` | Token | UCASH Token Contract | 🟡 Dev |
@@ -444,8 +444,8 @@ Chain-specific token deployments:
 
 **Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin. These are noted below.
 
-| Subname | Country/Region | Purpose | Status      |
-|-----------|---------------|---------|-----------|
+| Subname | Country/Region | Purpose | Status          |
+|-----------|---------------|---------|---------------|
 | `ad.ucash.eth` | Andorra | Local Use + **Advertisement & Ads** | 🟡 Dev |
 | `ar.ucash.eth` | Argentina | Local Use + **Augmented Reality (AR)** | 🟡 Dev |
 | `at.ucash.eth` | Austria | Local Use + **@ symbol representation, "at" links** | 🟡 Dev |
