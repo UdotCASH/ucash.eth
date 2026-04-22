@@ -77,7 +77,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 - 🎯 **4,000,000+ platform interactions** across all services
 - 🎁 **2,500,000+ bounty engagements** through IBO and OBO programs
 - 📱 **200,000+ social, forum & chat followers** across platforms
-- ⭐ **2,000+ stars** on CoinMarketCap and other ranking sites
+- ⭐ **[2,000+ stars](https://coinmarketcap.com/currencies/ucash)** on CoinMarketCap and other ranking sites
 
 ### 📅 Ecosystem Timeline
 
@@ -149,7 +149,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🎯 **Platform Interactions** | 4,000,000+ |
 | 🎁 **Bounty Engagements** | 2,500,000+ |
 | 📱 **Social, Forum & Chat Followers** | 200,000+ |
-| ⭐ **CoinMarketCap & Rank Stars** | 2,000+ |
+| ⭐ **[CoinMarketCap & Rank Stars](https://coinmarketcap.com/currencies/ucash)** | 2,000+ |
 
 ### 🤝 Join Our Community
 
