@@ -61,7 +61,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 ### 🚀 Project Overview
 
-UCASH is a **network loyalty, rewards, and utility asset** that has been building innovative Web3 infrastructure since 2015. Our ecosystem encompasses:
+UCASH is a **network loyalty, rewards, and utility asset** that has been building innovative Web3 infrastructure since 2015. Our founders have been active in the Bitcoin industry since 2012. Our ecosystem encompasses:
 
 - ✨ **Multi-chain presence** across 10+ blockchain networks
 - 🏗️ **100+ subdomains** providing decentralized services
