@@ -74,6 +74,10 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 - 🔐 **[22,000+ .U domains claimed](https://dune.com/toysoldi3rr/ud-u-snapshot)** on Unstoppable Domains
 - 🌐 **4,000+ DNS domains** managed across the ecosystem
 - 🔗 **2,000+ Web3 domains/handles** managed (.U and more)
+- 🎯 **4,000,000+ platform engagements** across all services
+- 🎁 **2,500,000+ bounty engagements** through IBO and OBO programs
+- 📱 **200,000+ social, forum & chat followers** across platforms
+- ⭐ **2,000+ stars** on CoinMarketCap and other ranking sites
 
 ### 📅 Milestone Timeline
 
