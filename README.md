@@ -1005,7 +1005,7 @@ await wallet.sendTransaction({
 - **Facebook**: [fb.com/UdotCASH](https://fb.com/UdotCASH)
 - **Reddit**: [reddit.com/r/ucash](https://reddit.com/r/ucash)
 - **LinkedIn**: [linkedin.com/company/ucash](https://linkedin.com/company/ucash)
-- **GitHub**: [UdotCASH](https://github.com/UdotCASH)
+- **GitHub**: [github.com/UdotCASH](https://github.com/UdotCASH)
 - **Telegram**: [t.me/ucash](https://t.me/ucash)
 
 ---
