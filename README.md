@@ -298,15 +298,20 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 ucash.eth
 ├── Owner/Manager: [OWNER_ADDRESS]
 ├── Resolver: Public Resolver
-├── Total Subdomains: 136
+├── Total Subdomains: 135
 ├── Registration: [REGISTRATION_DATE]
-└── Text Records
-    ├── email: contact@ucash.eth
-    ├── url: https://ucash.eth
-    ├── com.twitter: @ucash_eth
-    ├── com.github: UdotCASH
-    ├── description: Multi-chain batch token distribution
-    └── notice: Official UCASH ENS - Verify at github.com/UdotCASH/ucash.eth
+├── Text Records (9 configured)
+│   ├── email: info@u.cash
+│   ├── url: https://u.cash
+│   ├── com.twitter: UdotCASH
+│   ├── com.github: UdotCASH
+│   ├── org.telegram: ucash
+│   ├── name: UCASH
+│   ├── description: World's 1st, Largest & Ongoing Airdrop + Bounty Hunt | Pioneers of the Initial Bounty Offering and Ongoing Bounty Offering Distribution Model | Network Loyalty/Rewards Asset | Visit https://u.onl, https://u.cash and https://ucosystem.com for more information
+│   ├── avatar: https://euc.li/ucash.eth
+│   └── header: https://euc.li/ucash.eth/h
+└── Address Records (1 configured)
+    └── eth: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
 ```
 
 ### Text Records
