@@ -158,26 +158,15 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 **🔗 Explore Our Ecosystem:**
 
-<a href="https://u.onl">🌐 u.onl</a><br>
-<a href="https://u.cash">💼 u.cash</a><br>
-<a href="https://un4.com">🚀 un4.com</a><br>
-<a href="https://ucosystem.com">🔧 ucosystem.com</a>
+<a href="https://u.onl" style="text-decoration:none">🌐 u.onl</a> • <a href="https://u.cash" style="text-decoration:none">💼 u.cash</a> • <a href="https://un4.com" style="text-decoration:none">🚀 un4.com</a> • <a href="https://ucosystem.com" style="text-decoration:none">🔧 ucosystem.com</a>
 
 **📊 Technical Resources:**
 
-[📦 UCASH ENS Data](https://github.com/UdotCASH/ucash.eth)<br>
-[🔍 ENS Records](https://app.ens.domains/ucash.eth)
+<a href="https://github.com/UdotCASH/ucash.eth" style="text-decoration:none">📦 UCASH ENS Data</a> • <a href="https://app.ens.domains/ucash.eth" style="text-decoration:none">🔍 ENS Records</a>
 
 **📱 Connect With Us:**
 
-🐦 [Twitter](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)<br>
-▶️ [YouTube](https://youtube.com/@UdotCASH)<br>
-📸 [Instagram](https://instagram.com/UdotCASH)<br>
-📘 [Facebook](https://fb.com/UdotCASH)<br>
-🔴 [Reddit](https://reddit.com/r/ucash)<br>
-💼 [LinkedIn](https://linkedin.com/company/ucash)<br>
-💻 [GitHub](https://github.com/UdotCASH)<br>
-✈️ [Telegram](https://t.me/ucash)
+<a href="https://twitter.com/UdotCASH" style="text-decoration:none">🐦 Twitter</a> • <a href="https://youtube.com/@UdotCASH" style="text-decoration:none">▶️ YouTube</a> • <a href="https://instagram.com/UdotCASH" style="text-decoration:none">📸 Instagram</a> • <a href="https://fb.com/UdotCASH" style="text-decoration:none">📘 Facebook</a> • <a href="https://reddit.com/r/ucash" style="text-decoration:none">🔴 Reddit</a> • <a href="https://linkedin.com/company/ucash" style="text-decoration:none">💼 LinkedIn</a> • <a href="https://github.com/UdotCASH" style="text-decoration:none">💻 GitHub</a> • <a href="https://t.me/ucash" style="text-decoration:none">✈️ Telegram</a>
 
 ---
 
