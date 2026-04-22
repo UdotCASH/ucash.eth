@@ -156,8 +156,6 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 **Growing an ecosystem of innovative business + user apps and services**
 
-<div align="center">
-
 **🔗 Explore Our Ecosystem:**
 
 [🌐 u.onl](https://u.onl)<br>
@@ -173,8 +171,6 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 **📱 Connect With Us:**
 
 Follow us on our socials for the latest updates!
-
-</div>
 
 ---
 
