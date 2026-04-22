@@ -266,7 +266,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ooo.ucash.eth` | Sales TLD | 🟡 In Dev |
 | `gdn.ucash.eth` | gTLD | 🟡 In Dev |
 | `xyz.ucash.eth` | XYZ TLD | 🟡 In Dev |
-| `u.ucash.eth` | US TLD | 🟡 In Dev |
+| `u.ucash.eth` | Universal TLD | 🟡 In Dev |
 | `net.ucash.eth` | Network TLD | 🟡 In Dev |
 | `org.ucash.eth` | Organization TLD | 🟡 In Dev |
 | `onl.ucash.eth` | Online TLD | 🟡 In Dev |
