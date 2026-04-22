@@ -124,6 +124,9 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🎬 **Sep 2026** | **U.PRODUCTIONS** | Productions arm launch |
 | 🔄 **Nov 2026** | **Full Ecosystem Relaunch** | Complete ecosystem upgrade |
 | 🎉 **Jan 2027** | **U Org** | U Org 10th Anniversary |
+| 📱 **Mar 2027** | **U App** | New U App Launch |
+| 🌐 **Oct 2027** | **U.CASH** | Site 12th Anniversary |
+| 🏷️ **Jan 2028** | **ICANN Program** | First new 2026 TLDs launch |
 
 ### 📊 Ecosystem Statistics
 
