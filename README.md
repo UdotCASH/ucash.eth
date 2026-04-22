@@ -137,7 +137,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `vote.ucash.eth` | Voting | 🟡 In Dev | Voting system |
 | `oracle.ucash.eth` | Oracle | 🟡 In Dev | Price oracle |
 | `agent.ucash.eth` | Agent | 🟡 In Dev | Smart agents |
-| `bot.ucash.eth` | Bot | 🟡 In Dev | Trading bots |
+| `bot.ucash.eth` | Bot | 🟡 In Dev | Agent/Action Bots |
 | `sign.ucash.eth` | Signing | 🟡 In Dev | Message signing |
 | `supply.ucash.eth` | Supply | 🟡 In Dev | Token supply |
 | `initial.ucash.eth` | Initial | 🟡 In Dev | Initial distribution |
