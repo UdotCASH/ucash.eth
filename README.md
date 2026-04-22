@@ -174,22 +174,22 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 UCASH maintains consistent naming across multiple blockchain naming services beyond ENS:
 
-| Name | Network | Naming Service | Status | Notes |
-|------|---------|----------------|--------|-------|
-| `ucash.eth` | Ethereum | **Ethereum Name Service** | 🟢 Active | Primary ENS with 100+ subnames |
-| `ucash.base.eth` | Base | **Base Names** | 🟢 Active | Layer 2 ENS on Base network |
-| `ucash.linea.eth` | Linea | **Linea Names** | 🟢 Active | Layer 2 ENS on Linea network |
-| `ucash.arb` | Arbitrum | **SpaceID** | 🟢 Active | Arbitrum naming service |
-| `ucash.bnb` | BNB Chain | **SpaceID** | 🟢 Active | BNB Chain naming service |
-| `ucash.g` | Gravity Alpha | **SpaceID** | 🟢 Active | Gravity Alpha naming |
-| `ucash.sol` | Solana | **Solana Name Service** | 🟢 Active | Solana native naming |
-| `ucash.polygon` | Polygon | **Unstoppable Domains** | 🟢 Active | Polygon naming |
-| `ucash.op` | Optimism | **Optimism Domains** | 🟢 Active | Optimism naming |
-| `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | 🟢 Active | BNS on Rings Network |
-| `ucash.xrp` | XRP | **XRP Name Service** | 🟢 Active | XRP Ledger naming |
-| `ucash.ltc` | Litecoin | **LTC Names** | 🟢 Active | Litecoin naming |
-| `ucash.xmr` | Monero | **XMR Names** | 🟢 Active | Monero naming |
-| `ucash.u` | Universal | **Ucosystem TLD** | 🟢 Active | Universal Web3 Names |
+| Name | Network | Naming Service | Notes |
+|------|---------|----------------|------|
+| 🟡 `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 100+ subnames |
+| 🟡 `ucash.base.eth` | Base | **Base Names** | Layer 2 ENS on Base network |
+| 🟡 `ucash.linea.eth` | Linea | **Linea Names** | Layer 2 ENS on Linea network |
+| 🟡 `ucash.arb` | Arbitrum | **SpaceID** | Arbitrum naming service |
+| 🟡 `ucash.bnb` | BNB Chain | **SpaceID** | BNB Chain naming service |
+| 🟡 `ucash.g` | Gravity Alpha | **SpaceID** | Gravity Alpha naming |
+| 🟡 `ucash.sol` | Solana | **Solana Name Service** | Solana native naming |
+| 🟡 `ucash.polygon` | Polygon | **Unstoppable Domains** | Polygon naming |
+| 🟡 `ucash.op` | Optimism | **Optimism Domains** | Optimism naming |
+| 🟡 `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | BNS on Rings Network |
+| 🟡 `ucash.xrp` | XRP | **XRP Name Service** | XRP Ledger naming |
+| 🟡 `ucash.ltc` | Litecoin | **LTC Names** | Litecoin naming |
+| 🟡 `ucash.xmr` | Monero | **XMR Names** | Monero naming |
+| 🟡 `ucash.u` | Universal | **Ucosystem TLD** | Universal Web3 Names |
 
 ### 🌐 Public Registration TLDs
 
