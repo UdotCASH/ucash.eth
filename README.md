@@ -444,8 +444,8 @@ Chain-specific token deployments:
 
 **Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin. These are noted below.
 
-| Subname | Country/Region | Purpose | Status          |
-|-----------|---------------|---------|---------------|
+| Subname | Country | Purpose | Status                    |
+|-----------|---------|---------|------------------------|
 | `ad.ucash.eth` | Andorra | Local Use + **Advertisement & Ads** | 🟡 Dev |
 | `ar.ucash.eth` | Argentina | Local Use + **Augmented Reality (AR)** | 🟡 Dev |
 | `at.ucash.eth` | Austria | Local Use + **@ symbol representation, "at" links** | 🟡 Dev |
