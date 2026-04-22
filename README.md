@@ -1000,6 +1000,11 @@ await wallet.sendTransaction({
 - **Email**: info@u.cash
 - **Security**: security@u.cash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
+- **YouTube**: [youtube.com/@UdotCASH](https://youtube.com/@UdotCASH)
+- **Instagram**: [instagram.com/UdotCASH](https://instagram.com/UdotCASH)
+- **Facebook**: [fb.com/UdotCASH](https://fb.com/UdotCASH)
+- **Reddit**: [reddit.com/r/ucash](https://reddit.com/r/ucash)
+- **LinkedIn**: [linkedin.com/company/ucash](https://linkedin.com/company/ucash)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
 - **Telegram**: [t.me/ucash](https://t.me/ucash)
 
