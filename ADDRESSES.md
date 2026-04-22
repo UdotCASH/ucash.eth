@@ -66,6 +66,8 @@ This is the primary address for `ucash.eth` and all official UCASH operations.
 | **Optimism** | ucash.op | [TBD] | [Optimism Etherscan](https://optimism.etherscan.io) | 🟡 In Dev |
 | **Bitcoin** | ucash.btc | [TBD] | [Blockchain Explorer](https://blockstream.info) | 🟡 In Dev |
 | **XRP** | ucash.xrp | [TBD] | [XRPL Explorer](https://l.xrpl.org) | 🟡 In Dev |
+| **Litecoin** | ucash.ltc | [TBD] | [LTC Explorer](https://blockstream.info/litecoin) | 🟡 In Dev |
+| **Monero** | ucash.xmr | [TBD] | [XMR Explorer](https://xmrchain.net) | 🟡 In Dev |
 | **Universal** | ucash.u | [TBD] | [Unstoppable](https://unstoppable.domains) | 🟢 Active |
 
 **Note**: TBD = To Be Determined/Deployed

@@ -26,8 +26,8 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 |-----------|-------|
 | **Primary ENS** | `ucash.eth` |
 | **Total ENS Subdomains** | **100+ In Development** |
-| **Multi-Chain Names** | **10+ Active** |
-| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP |
+| **Multi-Chain Names** | **12+ Active** |
+| **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP, Litecoin, Monero |
 | **Status** | 🟡 In Development |
 | **Owner/Manager** | [OWNER_ADDRESS] |
 
@@ -62,6 +62,8 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.op` | Optimism | **Optimism Domains** | 🟢 Active | Optimism naming |
 | `ucash.btc` | Bitcoin | **Bitcoin Name Service** | 🟢 Active | Bitcoin naming |
 | `ucash.xrp` | XRP | **XRP Name Service** | 🟢 Active | XRP Ledger naming |
+| `ucash.ltc` | Litecoin | **LTC Names** | 🟢 Active | Litecoin naming |
+| `ucash.xmr` | Monero | **XMR Names** | 🟢 Active | Monero naming |
 | `ucash.u` | Universal | **Ucosystem TLD** | 🟢 Active | Universal Web3 Names |
 
 ### Naming Service Details
@@ -351,6 +353,8 @@ ucash.eth
 | `Bitcoin Name Service` | ucash.btc | Bitcoin Name |
 | `Universal Name` | ucash.u | Universal Name |
 | `XRP Name Service` | ucash.xrp | XRP Name |
+| `LTC Names` | ucash.ltc | Litecoin Name |
+| `XMR Names` | ucash.xmr | Monero Name |
 | `FIO TLD` | @u | FIO TLD |
 | `FIO Protocol` | ucash@ucash | FIO Protocol |
 | `UNS TLD` | .u | UNS TLD |
@@ -533,9 +537,11 @@ A: UCASH has **10+ blockchain name registrations active** across:
 - OP Domains: `ucash.op`
 - Bitcoin Name Service: `ucash.btc`
 - XRPNS: `ucash.xrp`
+- LTC Names: `ucash.ltc`
+- XMR Names: `ucash.xmr`
 
 **Q: What networks are supported?**
-A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, and XRP
+A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, XRP, Litecoin, and Monero
 
 **Q: Are all subdomains active?**
 A: All 100+ subdomains are currently in development status
