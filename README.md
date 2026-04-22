@@ -54,7 +54,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 **Pioneers of the Initial Bounty Offering (IBO) and Ongoing Bounty Offering (OBO) Distribution Growth Model**
 
 [![Status](https://img.shields.io/badge/Status-Network_Loyalty_%2B_Rewards_%2B_Utility-brightgreen)]()
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-2,000%2B_Sites-blue)]()
+[![Sites](https://img.shields.io/badge/Sites-1,500%2B_Active-blue)]()
 [![Timeline](https://img.shields.io/badge/Timeline-2015--Now-orange)]()
 
 </div>
