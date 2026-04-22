@@ -34,7 +34,7 @@ async function checkSubnames() {
         'initial', 'ongoing', 'build', 'partners', 'future', 'liquidity',
 
         // Blockchain Networks
-        'polygon', 'base', 'arb', 'linea', 'op', 'sol', 'bnb', 'btc', 'xrp', 'ltc', 'xmr',
+        'polygon', 'base', 'arb', 'linea', 'op', 'sol', 'bnb', 'btc', 'xrp', 'ltc', 'xmr', 'g',
 
         // Cross-Chain
         'network', 'bridge', 'swap', 'exchange',

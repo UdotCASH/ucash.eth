@@ -165,6 +165,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `xrp.ucash.eth` | XRP Ledger | XRP operations | 🟡 In Dev |
 | `ltc.ucash.eth` | Litecoin | Litecoin operations | 🟡 In Dev |
 | `xmr.ucash.eth` | Monero | Monero operations | 🟡 In Dev |
+| `g.ucash.eth` | Gravity Alpha | GA operations | 🟡 In Dev |
 
 #### Cross-Chain
 
@@ -394,8 +395,8 @@ ucash.eth
 #### Naming & Domain Services (6 subdomains)
 - dns, ens, domains, names, uns, linked
 
-#### Blockchain Networks (8 subdomains)
-- polygon, base, arb, linea, op, sol, bnb, btc
+#### Blockchain Networks (9 subdomains)
+- polygon, base, arb, linea, op, sol, bnb, btc, g
 
 #### Geographic (39 subdomains - 2-character ccTLDs)
 - nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id, ly, li, me, ad, to, io, co, cv, ws
