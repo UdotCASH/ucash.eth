@@ -21,89 +21,59 @@ async function checkSubnames() {
     console.log('ucash.eth nodehash:', ucashNode);
     console.log('');
 
-    // List of common subnames to check
+    // List of common subnames to check (100+ documented subdomains)
     const subnames = [
-        'www',
-        'app',
-        'api',
-        'docs',
-        'blog',
-        'contracts',
-        'batch',
-        'bridge',
-        'pay',
-        'staking',
-        'stake',
-        'faucet',
-        'scan',
-        'swap',
-        'dex',
-        'eth',
-        'base',
-        'polygon',
-        'arbitrum',
-        'optimism',
-        'sepolia',
-        'testnet',
-        'mainnet',
-        'treasury',
-        'ops',
-        'operations',
-        'dev',
-        'development',
-        'marketing',
-        'mkt',
-        'community',
-        'multisig',
-        'dao',
-        'governance',
-        'token',
-        'nft',
-        'wallet',
-        'explorer',
-        'chat',
-        'forum',
-        'status',
-        'metrics',
-        'analytics',
-        'portal',
-        'exchange',
-        'protocol',
-        'network',
-        'node',
-        'validator',
-        'relayer',
-        'aggregator',
-        'router',
-        'factory',
-        'registry',
-        'oracle',
-        'bridge-base',
-        'bridge-polygon',
-        'bridge-arbitrum',
-        'v1',
-        'v2',
-        'beta',
-        'alpha',
-        'test',
-        'staging',
-        'old',
-        'new',
-        'airdrop',
-        'claim',
-        'rewards',
-        'yield',
-        'farm',
-        'vault',
-        'insurance',
-        'governor',
-        'timelock',
-        'signer',
-        'keeper',
-        'bot',
-        'admin',
-        'root',
-        'legacy'
+        // Core Infrastructure
+        'www', 'app', 'api', 'docs', 'info', 'admin', 'dev', 'test', 'testnet', 'pay',
+
+        // Smart Contracts & Protocol
+        'batch', 'contracts', 'token', 'bridge', 'earn', 'vault', 'claim', 'lock',
+        'gov', 'dao', 'vote', 'oracle', 'agent', 'bot', 'sign', 'supply',
+
+        // Bounty Offering Wallets
+        'initial', 'ongoing', 'build', 'partners', 'future', 'liquidity',
+
+        // Blockchain Networks
+        'polygon', 'base', 'arb', 'linea', 'op', 'sol', 'bnb', 'btc',
+
+        // Cross-Chain
+        'network', 'bridge', 'swap', 'exchange',
+
+        // Explorers & Tools
+        'scan', 'verify', 'link', 'mgr', 'nic', 'support', 'bounties', 'news',
+        'channel', 'cash', 'builders',
+
+        // Decentralized Storage
+        'ipfs', 'arweave', 'swarm', 'onion', 'skynet',
+
+        // Naming & Domain Services
+        'dns', 'ens', 'domains', 'names', 'uns', 'linked',
+
+        // Geographic TLDs (ccTLDs)
+        'ad', 'ar', 'at', 'br', 'ca', 'cc', 'cn', 'co', 'cv', 'de', 'es', 'fm',
+        'fr', 'id', 'in', 'io', 'it', 'jp', 'kr', 'la', 'li', 'ly', 'me', 'mx',
+        'mw', 'my', 'ng', 'nl', 'ru', 'rw', 'to', 'tv', 'uk', 'us', 'vn', 'ws',
+
+        // Generic TLDs (gTLDs)
+        'tld', 'club', 'pro', 'biz', 'name', 'vip', 'top', 'tech', 'online',
+        'ooo', 'gdn', 'xyz', 'u', 'net', 'org', 'onl', 'com', 'wiki', 'technology',
+        'productions',
+
+        // Brand & Identity
+        'brand', 'builders', 'technology', 'productions', 'channel',
+
+        // Security
+        'security', 'verify',
+
+        // Legacy/Common (from original list)
+        'blog', 'staking', 'stake', 'faucet', 'dex', 'eth', 'arbitrum', 'optimism',
+        'sepolia', 'mainnet', 'treasury', 'ops', 'operations', 'development', 'marketing',
+        'mkt', 'community', 'multisig', 'governance', 'nft', 'wallet', 'explorer',
+        'chat', 'forum', 'status', 'metrics', 'analytics', 'portal', 'protocol', 'node',
+        'validator', 'relayer', 'aggregator', 'router', 'factory', 'registry',
+        'bridge-base', 'bridge-polygon', 'bridge-arbitrum', 'v1', 'v2', 'beta', 'alpha',
+        'staging', 'old', 'new', 'airdrop', 'rewards', 'yield', 'farm', 'insurance',
+        'governor', 'timelock', 'signer', 'keeper', 'admin', 'root', 'legacy'
     ];
 
     const found = [];
