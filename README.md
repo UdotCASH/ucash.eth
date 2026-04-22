@@ -84,6 +84,10 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🏢 **Jan 2017** | **U Org** | U Org Founded |
 | 💰 **Aug 2017** | **UCASH IBO** | Initial Bounty Offering Start |
 | 🪙 **Jan 2018** | **UCASH Token** | Token generation event |
+| 💸 **Apr 2018** | **uWithdraw** | Batch Distribution System |
+| 🏪 **Dec 2018** | **uMerchants** | E-Com & Apps for Businesses |
+| 🔒 **Jan 2019** | **uCollateral** | UCASH Lock Bounties |
+| 💱 **Feb 2019** | **uCurrencies** | U Pegged Currencies |
 | 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
 | 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
 | 🏪 **Apr 2020** | **E-Com & B2B** | E-commerce and B2B integration |
@@ -91,7 +95,9 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🚚 **Jan 2022** | **Logistics** | Logistics solutions |
 | 🌐 **Dec 2022** | **DNS & Domains** | DNS and domain services |
 | 🔮 **Apr 2023** | **Ucosystem** | Ucosystem platform launch |
+| 📝 **May 2023** | **Unregistrar** | TLD/DNS Registry Platform |
 | 🤖 **Dec 2023** | **AI** | AI integrations deployed |
+| 🛒 **Jun 2024** | **Umerce** | Rebrand of uMerchants |
 | 🌐 **Aug 2024** | **U.ONL** | U.ONL platform launch |
 | 📝 **Nov 2024** | **Unregistry** | Unregistry service launch |
 | 🔐 **Dec 2024** | **Web3 Naming (.u)** | .u domain naming service |
