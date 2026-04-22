@@ -300,7 +300,7 @@ ucash.eth
 ├── Resolver: Public Resolver
 ├── Total Subdomains: 100+
 ├── Registration: [REGISTRATION_DATE]
-├── Text Records (9 configured)
+├── Text Records (34 configured)
 │   ├── email: info@u.cash
 │   ├── url: https://u.cash
 │   ├── com.twitter: UdotCASH
@@ -316,19 +316,44 @@ ucash.eth
 
 ### Text Records
 
-**9 Records configured:**
+**34 Records configured:**
 
 | Record Key | Value | Purpose |
 |------------|-------|---------|
-| `email` | info@u.cash | Official contact |
-| `url` | https://u.cash | Official website |
-| `com.twitter` | UdotCASH | Twitter/X |
+| `com.twitter` | UdotCASH | Twitter |
 | `com.github` | UdotCASH | GitHub |
 | `org.telegram` | ucash | Telegram |
+| `email` | info@u.cash | Email |
 | `name` | UCASH | Display name |
-| `description` | World's 1st, Largest & Ongoing Airdrop + Bounty Hunt | Pioneers of the Initial Bounty Offering and Ongoing Bounty Offering Distribution Model | Network Loyalty/Rewards Asset | Visit https://u.onl, https://u.cash and https://ucosystem.com for more information | Description |
+| `description` | World's 1st, Largest & Ongoing Airdrop + Bounty Hunt | Pioneers of the Initial Bounty Offering and Ongoing Bounty Offering Distribution Model | Network Loyalty/Rewards Asset | Visit https://u.onl, https://u.cash, https://un4.com and https://ucosystem.com for more information | UCASH ENS Data - https://github.com/UdotCASH/ucash.eth | U.CASH Site Live: Oct 2015 | U. Org Founded: Jan 2017 | UCASH IBO: Aug 2017 to Jan 2018 | UCASH Token Launch: Jan 2018 | Multi-Chain: Oct 2019 | Multi-Apps: Jan 2020 | E-Commerce & B2B: Apr 2020 | Payments: Aug 2021 | Logistics: Jan 2022 | DNS, Domains & Servers: Dec 2022 | Ucosystem Launch: Apr 2023 | AI Integrations: Dec 2023 | U.ONL Launch: Aug 2024 | Unregistry Live: Nov 2024 | Web3 Naming (.u): Dec 2024 | www.onl TLD Site: Aug 2025 | UN4 Launch: Feb 2026 | 2,000+ sites active across various industries and niches | Live services, applications, and dApps across multiple chains and networks. | Full description |
+| `url` | https://u.cash | Website |
 | `avatar` | https://euc.li/ucash.eth | Profile image |
 | `header` | https://euc.li/ucash.eth/h | Header image |
+| `Youtube` | https://youtube.com/@UdotCASH | YouTube |
+| `Instagram` | https://instagram.com/UdotCASH | Instagram |
+| `Facebook` | https://fb.com/UdotCASH | Facebook |
+| `Reddit` | https://reddit.com/r/ucash | Reddit |
+| `LinkedIn` | https://linkedin.com/company/ucash | LinkedIn |
+| `X/Twitter (New)` | https://x.com/ucashx | X (ucashx) |
+| `X/Twitter (U.ONL)` | https://x.com/UdotONL | X (UdotONL) |
+| `CoinMarketCap` | https://coinmarketcap.com/currencies/ucash | CoinMarketCap |
+| `Etherscan` | https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37 | Etherscan |
+| `Polygonscan` | https://polygonscan.com/token/0xa94880d3a4b39746e90cdb57f8de3732c984de14 | Polygonscan |
+| `Basescan` | https://basescan.org/token/0x26cf750abaf38af7109effdbdf79ba50d2ee09a1 | Basescan |
+| `Base Name` | ucash.base.eth | Base ENS |
+| `Linea Name` | ucash.linea.eth | Linea ENS |
+| `Arbitrum` | ucash.arb | Arbitrum Name |
+| `BNB Name` | ucash.bnb | BNB Name |
+| `Gravity Alpha` | ucash.g | Gravity Alpha Name |
+| `Solana Name` | ucash.sol | Solana Name |
+| `Polygon Name` | ucash.polygon | Polygon Name |
+| `Optimistic Domain` | ucash.op | Optimism Domain |
+| `Bitcoin Name Service` | ucash.btc | Bitcoin Name |
+| `Universal Name` | ucash.u | Universal Name |
+| `XRP Name Service` | ucash.xrp | XRP Name |
+| `FIO TLD` | @u | FIO TLD |
+| `FIO Protocol` | ucash@ucash | FIO Protocol |
+| `UNS TLD` | .u | UNS TLD |
 
 ### Address Records
 
