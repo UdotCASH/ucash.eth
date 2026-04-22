@@ -82,7 +82,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 ### 📅 Ecosystem Timeline
 
 | Period | Milestone | Description |
-|--------|-----------|-------------|
+|-----------|-----------|-------------|
 | 🌐 **Oct 2015** | **U.CASH Site** | Initial website launch |
 | 🏦 **Mar 2016** | **U.CASH Portal** | MSB Portal Launch |
 | 💱 **Nov 2016** | **Converters** | MSB Onboard Global |
@@ -135,7 +135,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 ### 📊 Ecosystem Statistics
 
 | Metric | Count |
-|--------|-------|
+|-----------|-------|
 | 🌐 **Active Sites** | 1,200+ |
 | 🔗 **Blockchain Networks** | 10+ |
 | 🏷️ **[ENS Subnames](https://app.ens.domains/ucash.eth?tab=subnames)** | 100+ |
@@ -254,8 +254,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### 🏗️ Core Infrastructure Subnames
 
-| Subname | Purpose | Status | Notes |
-|-----------|---------|--------|-------|
+| Subname | Purpose | Status      | Notes |
+|-----------|---------|-----------|-------|
 | `www.ucash.eth` | Website redirect | 🟡 Dev | Main website |
 | `app.ucash.eth` | Web application | 🟡 Dev | Primary DApp |
 | `api.ucash.eth` | REST API | 🟡 Dev | API endpoints |
@@ -269,8 +269,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### 🔧 Smart Contracts & Protocol
 
-| Subname | Purpose | Status | Notes |
-|-----------|---------|--------|-------|
+| Subname | Purpose | Status      | Notes |
+|-----------|---------|-----------|-------|
 | `batch.ucash.eth` | Batch Send | 🟡 Dev | Batch Wallet |
 | `contracts.ucash.eth` | Contracts | 🟡 Dev | Contract Directory |
 | `token.ucash.eth` | Token | 🟡 Dev | UCASH Token Contract |
@@ -298,8 +298,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 #### Blockchain Networks
 
-| Subname | Network | Purpose | Status |
-|-----------|---------|---------|--------|
+| Subname | Network | Purpose | Status      |
+|-----------|---------|---------|-----------|
 | `polygon.ucash.eth` | Polygon | Polygon operations | 🟡 Dev |
 | `base.ucash.eth` | Base | Base operations | 🟡 Dev |
 | `arb.ucash.eth` | Arbitrum | Arbitrum operations | 🟡 Dev |
@@ -315,8 +315,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 #### Cross-Chain
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `network.ucash.eth` | Network | 🟡 Dev |
 | `bridge.ucash.eth` | Bridge | 🟡 Dev |
 | `swap.ucash.eth` | Swap/DEX | 🟡 Dev |
@@ -332,8 +332,8 @@ UCASH supports nested subdomains (3rd-level and deeper) for specialized services
 
 Chain-specific bridge deployments:
 
-| Subname | Chain | Purpose | Status |
-|-----------|-------|---------|--------|
+| Subname | Chain | Purpose | Status      |
+|-----------|-------|---------|-----------|
 | `base.bridge.ucash.eth` | Base | Base bridge | 🟡 Dev |
 | `polygon.bridge.ucash.eth` | Polygon | Polygon bridge | 🟡 Dev |
 | `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟡 Planned |
@@ -344,8 +344,8 @@ Chain-specific bridge deployments:
 
 Smart contract deployments:
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `ucollateral.contract.ucash.eth` | Collateral contracts | 🟡 Dev |
 | `ucurrencies.contract.ucash.eth` | Multi-currency contracts | 🟡 Dev |
 | `unverifier.contract.ucash.eth` | Verification contracts | 🟡 Dev |
@@ -356,8 +356,8 @@ Smart contract deployments:
 
 AI and automation agents:
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `u.agent.ucash.eth` | Universal agent | 🟡 Dev |
 | `social.agent.ucash.eth` | Social media agent | 🟡 Dev |
 | `market.agent.ucash.eth` | Market monitoring agent | 🟡 Dev |
@@ -368,8 +368,8 @@ AI and automation agents:
 
 Automated service bots:
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `price.bot.ucash.eth` | Price tracking bot | 🟡 Dev |
 | `social.bot.ucash.eth` | Social media bot | 🟡 Dev |
 | `ai.bot.ucash.eth` | AI assistant bot | 🟡 Dev |
@@ -381,8 +381,8 @@ Automated service bots:
 
 Chain-specific token deployments:
 
-| Subname | Chain | Purpose | Status |
-|-----------|-------|---------|--------|
+| Subname | Chain | Purpose | Status      |
+|-----------|-------|---------|-----------|
 | `polygon.token.ucash.eth` | Polygon | Polygon token | 🟡 Dev |
 | `base.token.ucash.eth` | Base | Base token | 🟡 Dev |
 | `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟡 Planned |
@@ -396,8 +396,8 @@ Chain-specific token deployments:
 
 #### Cross-Chain
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `network.ucash.eth` | Network | 🟡 Dev |
 | `bridge.ucash.eth` | Bridge | 🟡 Dev |
 | `swap.ucash.eth` | Swap/DEX | 🟡 Dev |
@@ -405,8 +405,8 @@ Chain-specific token deployments:
 
 ### 🔍 Explorers & Tools
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `scan.ucash.eth` | Block Explorer | 🟡 Dev |
 | `verify.ucash.eth` | Verification | 🟡 Dev |
 | `link.ucash.eth` | Linking | 🟡 Dev |
@@ -421,8 +421,8 @@ Chain-specific token deployments:
 
 ### 💾 Decentralized Storage Subnames
 
-| Subname | Protocol | Purpose | Status |
-|-----------|----------|---------|--------|
+| Subname | Protocol | Purpose | Status      |
+|-----------|----------|---------|-----------|
 | `ipfs.ucash.eth` | IPFS | IPFS gateway | 🟡 Dev |
 | `arweave.ucash.eth` | Arweave | Arweave storage | 🟡 Dev |
 | `swarm.ucash.eth` | Swarm | Swarm storage | 🟡 Dev |
@@ -431,8 +431,8 @@ Chain-specific token deployments:
 
 ### 🔗 Naming & Domain Services
 
-| Subname | Service | Purpose | Status |
-|-----------|---------|---------|--------|
+| Subname | Service | Purpose | Status      |
+|-----------|---------|---------|-----------|
 | `dns.ucash.eth` | DNS | DNS records | 🟡 Dev |
 | `ens.ucash.eth` | ENS | ENS integration | 🟡 Dev |
 | `domains.ucash.eth` | Domains | Domain services | 🟡 Dev |
@@ -444,8 +444,8 @@ Chain-specific token deployments:
 
 **Note**: Many 2-character ccTLDs have dual purposes beyond their geographic origin. These are noted below.
 
-| Subname | Country/Region | Purpose | Status |
-|-----------|---------------|---------|--------|
+| Subname | Country/Region | Purpose | Status      |
+|-----------|---------------|---------|-----------|
 | `ad.ucash.eth` | Andorra | Local Use + **Advertisement & Ads** | 🟡 Dev |
 | `ar.ucash.eth` | Argentina | Local Use + **Augmented Reality (AR)** | 🟡 Dev |
 | `at.ucash.eth` | Austria | Local Use + **@ symbol representation, "at" links** | 🟡 Dev |
@@ -485,8 +485,8 @@ Chain-specific token deployments:
 
 ### 📝 Generic TLD Subnames (gTLDs)
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `tld.ucash.eth` | TLD operations | 🟡 Dev |
 | `club.ucash.eth` | Club TLD | 🟡 Dev |
 | `pro.ucash.eth` | Professional TLD | 🟡 Dev |
@@ -511,8 +511,8 @@ Chain-specific token deployments:
 
 ### 🎨 Brand & Identity Subnames
 
-| Subname | Purpose | Status |
-|-----------|---------|--------|
+| Subname | Purpose | Status      |
+|-----------|---------|-----------|
 | `brand.ucash.eth` | Brand | 🟡 Dev |
 | `cash.ucash.eth` | Cash brand | 🟡 Dev |
 | `builders.ucash.eth` | Builders | 🟡 Dev |
@@ -643,8 +643,8 @@ ucash.eth
 
 Based on subdomains, UCASH supports:
 
-| Network | Status | ENS Subname | Native Chain Name | Naming Service |
-|---------|--------|---------------|-------------------|----------------|
+| Network | Status      | ENS Subname | Native Chain Name | Naming Service |
+|---------|-----------|---------------|-------------------|----------------|
 | **Ethereum** | 🟡 Dev | Main operations | `ucash.eth` | ENS |
 | **Polygon** | 🟡 Dev | polygon.ucash.eth | `ucash.polygon` | Unstoppable Domains |
 | **Base** | 🟡 Dev | base.ucash.eth | `ucash.base.eth` | Base Names |
