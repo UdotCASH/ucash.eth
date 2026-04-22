@@ -138,7 +138,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 |--------|-------|
 | 🌐 **Active Sites** | 1,500+ |
 | 🔗 **Blockchain Networks** | 10+ |
-| 🏷️ **ENS Subnames** | 100+ |
+| 🏷️ **[ENS Subnames](https://app.ens.domains/ucash.eth?tab=subnames)** | 100+ |
 | 🔐 **[.U Domains Claimed](https://dune.com/toysoldi3rr/ud-u-snapshot)** | 22,000+ |
 | 👥 **Users Onboarded** | 650,000+ |
 | 💰 **[On-Chain UCASH Holders](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37#balances)** | 300,000+ |
