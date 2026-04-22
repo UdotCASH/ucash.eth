@@ -1038,8 +1038,6 @@ Official UCASH team will **NEVER**:
 
 <div align="center">
 
-**100+ Subnames • 10+ Multi-Chain Names • Batch Token Distribution**
-
 [Website](https://u.cash) • [ENS](https://app.ens.domains/ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
 </div>
