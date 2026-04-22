@@ -254,45 +254,45 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### 🏗️ Core Infrastructure Subnames
 
-| Subname | Purpose | Status      | Notes |
-|-----------|---------|-----------|-------|
-| `www.ucash.eth` | Website redirect | 🟡 Dev | Main website |
-| `app.ucash.eth` | Web application | 🟡 Dev | Primary DApp |
-| `api.ucash.eth` | REST API | 🟡 Dev | API endpoints |
-| `docs.ucash.eth` | Documentation | 🟡 Dev | Technical docs |
-| `info.ucash.eth` | Information | 🟡 Dev | General info |
-| `admin.ucash.eth` | Admin panel | 🟡 Dev | Admin access |
-| `dev.ucash.eth` | Development | 🟡 Dev | Dev environment |
-| `test.ucash.eth` | Testing | 🟡 Dev | Test environment |
-| `testnet.ucash.eth` | Testnet | 🟡 Dev | Testnet operations |
-| `pay.ucash.eth` | Payments | 🟡 Dev | Payment processor |
+| Subname | Purpose | Notes | Status      |
+|-----------|---------|-------|-----------|
+| `www.ucash.eth` | Website redirect | Main website | 🟡 Dev |
+| `app.ucash.eth` | Web application | Primary DApp | 🟡 Dev |
+| `api.ucash.eth` | REST API | API endpoints | 🟡 Dev |
+| `docs.ucash.eth` | Documentation | Technical docs | 🟡 Dev |
+| `info.ucash.eth` | Information | General info | 🟡 Dev |
+| `admin.ucash.eth` | Admin panel | Admin access | 🟡 Dev |
+| `dev.ucash.eth` | Development | Dev environment | 🟡 Dev |
+| `test.ucash.eth` | Testing | Test environment | 🟡 Dev |
+| `testnet.ucash.eth` | Testnet | Testnet operations | 🟡 Dev |
+| `pay.ucash.eth` | Payments | Payment processor | 🟡 Dev |
 
 ### 🔧 Smart Contracts & Protocol
 
-| Subname | Purpose | Status      | Notes |
-|-----------|---------|-----------|-------|
-| `batch.ucash.eth` | Batch Send | 🟡 Dev | Batch Wallet |
-| `contracts.ucash.eth` | Contracts | 🟡 Dev | Contract Directory |
-| `token.ucash.eth` | Token | 🟡 Dev | UCASH Token Contract |
-| `bridge.ucash.eth` | Bridge | 🟡 Dev | Multi-Chain Bridge |
-| `earn.ucash.eth` | Earn | 🟡 Dev | Earn Rewards |
-| `vault.ucash.eth` | Vault | 🟡 Dev | Token Vaults |
-| `claim.ucash.eth` | Claims | 🟡 Dev | Token Claims |
-| `lock.ucash.eth` | Locking | 🟡 Dev | Token Locking |
-| `gov.ucash.eth` | Governance | 🟡 Dev | Governance |
-| `dao.ucash.eth` | DAO | 🟡 Dev | DAO Ops |
-| `vote.ucash.eth` | Voting | 🟡 Dev | Voting |
-| `oracle.ucash.eth` | Oracle | 🟡 Dev | Network Oracles |
-| `agent.ucash.eth` | Agent | 🟡 Dev | Smart Agents |
-| `bot.ucash.eth` | Bot | 🟡 Dev | Action Bots |
-| `sign.ucash.eth` | Signing | 🟡 Dev | Message Signing |
-| `supply.ucash.eth` | Supply | 🟡 Dev | Token Supply Data |
-| `initial.ucash.eth` | Initial | 🟡 Dev | Initial Bounty Offering (IBO) Wallet |
-| `ongoing.ucash.eth` | Ongoing | 🟡 Dev | Ongoing Bounty Offering (OBO) Wallet |
-| `build.ucash.eth` | Build | 🟡 Dev | Build Bounty Offering (BBO) Wallet |
-| `partners.ucash.eth` | Partners | 🟡 Dev | Partner Bounty Offering (PBO) Wallet |
-| `future.ucash.eth` | Future | 🟡 Dev | Future Bounty Offering (FBO) Wallet |
-| `liquidity.ucash.eth` | Liquidity | 🟡 Dev | Liquidity Bounty Offering (LBO) Wallet |
+| Subname | Purpose | Notes | Status      |
+|-----------|---------|-------|-----------|
+| `batch.ucash.eth` | Batch Send | Batch Wallet | 🟡 Dev |
+| `contracts.ucash.eth` | Contracts | Contract Directory | 🟡 Dev |
+| `token.ucash.eth` | Token | UCASH Token Contract | 🟡 Dev |
+| `bridge.ucash.eth` | Bridge | Multi-Chain Bridge | 🟡 Dev |
+| `earn.ucash.eth` | Earn | Earn Rewards | 🟡 Dev |
+| `vault.ucash.eth` | Vault | Token Vaults | 🟡 Dev |
+| `claim.ucash.eth` | Claims | Token Claims | 🟡 Dev |
+| `lock.ucash.eth` | Locking | Token Locking | 🟡 Dev |
+| `gov.ucash.eth` | Governance | Governance | 🟡 Dev |
+| `dao.ucash.eth` | DAO | DAO Ops | 🟡 Dev |
+| `vote.ucash.eth` | Voting | Voting | 🟡 Dev |
+| `oracle.ucash.eth` | Oracle | Network Oracles | 🟡 Dev |
+| `agent.ucash.eth` | Agent | Smart Agents | 🟡 Dev |
+| `bot.ucash.eth` | Bot | Action Bots | 🟡 Dev |
+| `sign.ucash.eth` | Signing | Message Signing | 🟡 Dev |
+| `supply.ucash.eth` | Supply | Token Supply Data | 🟡 Dev |
+| `initial.ucash.eth` | Initial | Initial Bounty Offering (IBO) Wallet | 🟡 Dev |
+| `ongoing.ucash.eth` | Ongoing | Ongoing Bounty Offering (OBO) Wallet | 🟡 Dev |
+| `build.ucash.eth` | Build | Build Bounty Offering (BBO) Wallet | 🟡 Dev |
+| `partners.ucash.eth` | Partners | Partner Bounty Offering (PBO) Wallet | 🟡 Dev |
+| `future.ucash.eth` | Future | Future Bounty Offering (FBO) Wallet | 🟡 Dev |
+| `liquidity.ucash.eth` | Liquidity | Liquidity Bounty Offering (LBO) Wallet | 🟡 Dev |
 
 ### 🌐 Network-Specific Subnames
 
