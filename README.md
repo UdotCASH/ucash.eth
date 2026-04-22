@@ -149,7 +149,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🎯 **Platform Interactions** | 4,000,000+ |
 | 🎁 **Bounty Engagements** | 2,500,000+ |
 | 📱 **Social, Forum & Chat Followers** | 200,000+ |
-| ⭐ **Stars on CoinMarketCap + Rankings** | 2,000+ |
+| ⭐ **CoinMarketCap & Rank Stars** | 2,000+ |
 
 ### 🤝 Join Our Community
 
