@@ -1041,4 +1041,7 @@ Official UCASH team will **NEVER**:
 
 ---
 
-*Last Updated: 2026-04-22 • Total ENS Subnames: 100+ • Multi-Chain Names: 10+ • Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
+*Last Updated: 2026-04-22*<br>
+*Total ENS Subnames: 100+*<br>
+*Multi-Chain Names: 10+*<br>
+*Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
