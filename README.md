@@ -254,7 +254,6 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Subdomain | Purpose | Status |
 |-----------|---------|--------|
-| `la.ucash.eth` | Los Angeles TLD | 🟡 In Dev |
 | `tld.ucash.eth` | TLD operations | 🟡 In Dev |
 | `club.ucash.eth` | Club TLD | 🟡 In Dev |
 | `pro.ucash.eth` | Professional TLD | 🟡 In Dev |
@@ -364,8 +363,8 @@ ucash.eth
 #### Geographic (39 subdomains - 2-character ccTLDs)
 - nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id, ly, li, me, ad, to, io, co, cv, ws
 
-#### Generic TLDs (20 subdomains - 3+ character gTLDs)
-- la, tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
+#### Generic TLDs (19 subdomains - 3+ character gTLDs)
+- tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
 
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
