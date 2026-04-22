@@ -833,7 +833,7 @@ A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
 A: Check https://app.ens.domains/ucash.eth?tab=subnames
 
 **Q: What naming services are used?**
-A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, and BNS.org (Bitcoin)
+A: ENS (Ethereum), Base Names, Linea Names, SpaceID, SNS (Solana), Unstoppable Domains, OP Domains, BNS.org (Bitcoin), XRPNS (XRP), and FIO Protocol
 
 ---
 
