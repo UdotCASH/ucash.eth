@@ -81,18 +81,24 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 |--------|-----------|-------------|
 | 🌐 **Oct 2015** | **U.CASH Site** | Initial website launch |
 | 🏦 **Mar 2016** | **U.CASH Portal** | MSB Portal Launch |
+| 💱 **Nov 2016** | **Converters** | MSB Onboard Global |
 | 🏢 **Jan 2017** | **U Org** | U Org Founded |
 | 💰 **Aug 2017** | **UCASH IBO** | Initial Bounty Offering Start |
 | 🪙 **Jan 2018** | **UCASH Token** | Token generation event |
 | 💸 **Apr 2018** | **uWithdraw** | Batch Distribution System |
+| 🔄 **Nov 2018** | **uExchange** | DEX v1 Launch |
 | 🏪 **Dec 2018** | **uMerchants** | E-Com & Apps for Businesses |
 | 🔒 **Jan 2019** | **uCollateral** | UCASH Lock Bounties |
 | 💱 **Feb 2019** | **uCurrencies** | U Pegged Currencies |
+| 📋 **Mar 2019** | **uClipboard** | Secure Sharing Service |
+| 💵 **Apr 2019** | **uFiats** | UCAD+ Market Experiment |
 | 🔗 **Oct 2019** | **Multi-Chain** | Multi-chain expansion begins |
 | 📱 **Jan 2020** | **Multi-Apps** | Multiple applications launched |
 | 🏪 **Apr 2020** | **E-Com & B2B** | E-commerce and B2B integration |
 | 🌍 **Jan 2021** | **Global Launch** | B2B Worldwide Services |
 | 💳 **Aug 2021** | **Payments** | Payment infrastructure |
+| 🎮 **Feb 2021** | **Univirsal** | 3D\|NFT\|Metaverse\|Gaming |
+| 📖 **Dec 2021** | **Univirse** | U Storyline |
 | 🚚 **Jan 2022** | **Logistics** | Logistics solutions |
 | 🌐 **Dec 2022** | **DNS & Domains** | DNS and domain services |
 | 🔮 **Apr 2023** | **Ucosystem** | Ucosystem platform launch |
@@ -106,7 +112,8 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🚀 **Feb 2026** | **UN4** | UN4 platform launch |
 | 🔗 **Apr 2026** | **UCASH.ETH (ENS)** | Full ENS integration |
 | 🏷️ **Jun 2026** | **Web3 Handles (@u)** | Web3 handle system |
-| 🎬 **Oct 2026** | **U.PRODUCTIONS** | Productions arm launch |
+| 🎬 **Sep 2026** | **U.PRODUCTIONS** | Productions arm launch |
+| 🌐 **Oct 2026** | **U.CASH** | Site 12th Anniversary |
 | 🔄 **Nov 2026** | **Full Ecosystem Relaunch** | Complete ecosystem upgrade |
 | 🎉 **Jan 2027** | **U Org** | U Org 10th Anniversary |
 
