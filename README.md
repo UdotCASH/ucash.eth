@@ -12,7 +12,7 @@
 
 Multi-chain blockchain infrastructure for batch token distribution and payment solutions
 
-[Website](https://u.cash) • [Documentation](https://docs.ucash.eth) • [GitHub](https://github.com/UdotCASH)
+[Website](https://u.cash) • [Documentation](https://github.com/UdotCASH/ucash.eth) • [GitHub](https://github.com/UdotCASH)
 
 </div>
 
