@@ -109,6 +109,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 📝 **Nov 2024** | **Unregistry** | Unregistry service launch |
 | 🔐 **Dec 2024** | **Web3 Naming (.u)** | .u domain naming service |
 | 🌐 **Aug 2025** | **www.onl TLDs** | ICANN TLD Program Applications |
+| 🏷️ **Dec 2025** | **Undomains** | Domains Platform v1 |
 | 🚀 **Feb 2026** | **UN4** | UN4 platform launch |
 | 🔗 **Apr 2026** | **UCASH.ETH (ENS)** | Full ENS integration |
 | 🏷️ **Jun 2026** | **Web3 Handles (@u)** | Web3 handle system |
