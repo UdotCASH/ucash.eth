@@ -306,7 +306,7 @@ ucash.eth
 ├── Resolver: Public Resolver
 ├── Total Subdomains: 100+
 ├── Registration: [REGISTRATION_DATE]
-├── Text Records (34 configured)
+├── Text Records (39 configured)
 │   ├── email: info@u.cash
 │   ├── url: https://u.cash
 │   ├── com.twitter: UdotCASH
@@ -322,7 +322,7 @@ ucash.eth
 
 ### Text Records
 
-**34 Records configured:**
+**39 Records configured:**
 
 | Record Key | Value | Purpose |
 |------------|-------|---------|
@@ -359,9 +359,13 @@ ucash.eth
 | `XRP Name Service` | ucash.xrp | XRP Name |
 | `LTC Names` | ucash.ltc | Litecoin Name |
 | `XMR Names` | ucash.xmr | Monero Name |
-| `FIO TLD` | @u | FIO TLD |
-| `FIO Protocol` | ucash@ucash | FIO Protocol |
-| `UNS TLD` | .u | UNS TLD |
+| `Universal Name` | ucash.u | Universal Name |
+| `.U TLD` | *.u | .U TLD |
+| `@U Domain` | ucash@u | @U Domain |
+| `@U Names` | *@u | @U Names |
+| `@UCASH Domain` | ucash@ucash | @UCASH Domain |
+| `@UCASH Names` | *@ucash | @UCASH Names |
+| `U.ONL DNS Link` | *.u.onl | U.ONL DNS Link |
 
 ### Address Records
 
