@@ -242,7 +242,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ng.ucash.eth` | Nigeria | Nigerian operations | 🟡 In Dev |
 | `nl.ucash.eth` | Netherlands | Dutch operations / **"New Line"** | 🟡 In Dev |
 | `ru.ucash.eth` | Russia | Russian operations | 🟡 In Dev |
-| `rw.ucash.eth` | Rwanda | Rwandan operations | 🟡 In Dev |
+| `rw.ucash.eth` | Rwanda | Rwandan operations / **RW (Real World, Real World Assets)** | 🟡 In Dev |
 | `to.ucash.eth` | Tonga | Tongan operations / **"To" links** | 🟡 In Dev |
 | `tv.ucash.eth` | Tuvalu | TV operations / **Television & Streaming** | 🟡 In Dev |
 | `uk.ucash.eth` | United Kingdom | UK operations | 🟡 In Dev |
