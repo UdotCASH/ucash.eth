@@ -813,7 +813,7 @@ A: UCASH has **10+ blockchain names active** across:
 - SpaceID: `ucash.arb`, `ucash.bnb`, `ucash.g`
 - Solana Name Service: `ucash.sol`
 - Unstoppable Domains: `ucash.polygon`
-- .U TLD (Ucosystem TLD): `ucash.u` - Universal Web3 Names
+- .U TLD (Ucosystem TLD): `ucash.u`
 - OP Domains: `ucash.op`
 - Bitcoin Name Service: `ucash.btc`
 - XRPNS: `ucash.xrp`
