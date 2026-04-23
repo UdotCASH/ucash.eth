@@ -43,6 +43,34 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 - ✅ **Developer Integration** - Easy integration with Web3 applications
 - ✅ **Decentralized Storage** - IPFS, Arweave, Swarm integration
 
+### 🌐 UCASH.ONL - IPFS Gateway Service
+
+`ucash.onl` is a **wildcard IPFS gateway resolution service** for the UCASH ENS ecosystem.
+
+**Key Features:**
+
+- 🔗 **Wildcard Resolution** - Maps `*.ucash.eth` subnames to `*.ucash.onl` URLs
+- 📦 **IPFS Gateway** - Serves decentralized content hosted on IPFS
+- 🌍 **Accessible URLs** - Easy-to-remember .onl domain format
+- 🚀 **Currently in Development** - Active development status
+
+**How it Works:**
+
+When you deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.eth`), it becomes accessible via:
+- **Primary**: `https://app.ucash.eth` (via ENS + IPFS)
+- **Gateway**: `https://app.ucash.onl` (via ucash.onl wildcard resolution)
+
+**Examples:**
+- `www.ucash.eth` → `https://www.ucash.onl`
+- `docs.ucash.eth` → `https://docs.ucash.onl`
+- `app.ucash.eth` → `https://app.ucash.onl`
+
+**Benefits:**
+- ✅ **Browser Compatibility** - Works in all browsers without Web3 extensions
+- ✅ **Faster Resolution** - Direct gateway access without ENS lookup
+- ✅ **Shareable Links** - Easy to share .onl URLs with non-crypto users
+- ✅ **CDN Integration** - Optimized content delivery
+
 ---
 
 ## 📖 About UCASH
