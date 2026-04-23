@@ -261,11 +261,20 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | `api.ucash.eth` | REST API | API endpoints | 🟡&nbsp;Dev |
 | `docs.ucash.eth` | Documentation | Technical docs | 🟡&nbsp;Dev |
 | `info.ucash.eth` | Information | General info | 🟡&nbsp;Dev |
+| `readme.ucash.eth` | README | Project README | 🟡&nbsp;Dev |
 | `admin.ucash.eth` | Admin panel | Admin access | 🟡&nbsp;Dev |
 | `dev.ucash.eth` | Development | Dev environment | 🟡&nbsp;Dev |
 | `test.ucash.eth` | Testing | Test environment | 🟡&nbsp;Dev |
 | `testnet.ucash.eth` | Testnet | Testnet operations | 🟡&nbsp;Dev |
+| `global.ucash.eth` | Global | Global operations | 🟡&nbsp;Dev |
 | `pay.ucash.eth` | Payments | Payment processor | 🟡&nbsp;Dev |
+| `tx.ucash.eth` | Transactions | Transaction tracking | 🟡&nbsp;Dev |
+| `address.ucash.eth` | Address | Address services | 🟡&nbsp;Dev |
+| `invoice.ucash.eth` | Invoice | Invoice management | 🟡&nbsp;Dev |
+| `dex.ucash.eth` | DEX | Decentralized exchange | 🟡&nbsp;Dev |
+| `box.ucash.eth` | Box | U.BOX services | 🟡&nbsp;Dev |
+| `subnames.ucash.eth` | Subnames | Subname directory | 🟡&nbsp;Dev |
+| `ai.ucash.eth` | AI | AI services | 🟡&nbsp;Dev |
 
 ### 🔧 Smart Contracts & Protocol
 
@@ -275,10 +284,12 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | `contracts.ucash.eth` | Contracts | Contract Directory | 🟡&nbsp;Dev |
 | `token.ucash.eth` | Token | UCASH Token Contract | 🟡&nbsp;Dev |
 | `bridge.ucash.eth` | Bridge | Multi-Chain Bridge | 🟡&nbsp;Dev |
+| `swap.ucash.eth` | Swap | Token swap/DEX | 🟡&nbsp;Dev |
 | `earn.ucash.eth` | Earn | Earn Rewards | 🟡&nbsp;Dev |
 | `vault.ucash.eth` | Vault | Token Vaults | 🟡&nbsp;Dev |
 | `claim.ucash.eth` | Claims | Token Claims | 🟡&nbsp;Dev |
 | `lock.ucash.eth` | Locking | Token Locking | 🟡&nbsp;Dev |
+| `faucet.ucash.eth` | Faucet | Token faucet | 🟡&nbsp;Dev |
 | `gov.ucash.eth` | Governance | Governance | 🟡&nbsp;Dev |
 | `dao.ucash.eth` | DAO | DAO Ops | 🟡&nbsp;Dev |
 | `vote.ucash.eth` | Voting | Voting | 🟡&nbsp;Dev |
@@ -324,85 +335,6 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ---
 
-### 🔗 Sub-Subnames (3rd-Level Names)
-
-UCASH supports nested subdomains (3rd-level and deeper) for specialized services and chain-specific deployments.
-
-#### Bridge Subnames (bridge.ucash.eth)
-
-Chain-specific bridge deployments:
-
-| Subname | Chain | Purpose | Status          |
-|-------------|-------|---------|-------------|
-| `base.bridge.ucash.eth` | Base | Base bridge | 🟡&nbsp;Dev |
-| `polygon.bridge.ucash.eth` | Polygon | Polygon bridge | 🟡&nbsp;Dev |
-| `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟠&nbsp;Planned |
-| `op.bridge.ucash.eth` | Optimism | Optimism bridge | 🟠&nbsp;Planned |
-| `linea.bridge.ucash.eth` | Linea | Linea bridge | 🟠&nbsp;Planned |
-
-#### Contract Subnames (contract.ucash.eth)
-
-Smart contract deployments:
-
-| Subname | Purpose | Status          |
-|-------------|---------|-------------|
-| `ucollateral.contract.ucash.eth` | Collateral contracts | 🟡&nbsp;Dev |
-| `ucurrencies.contract.ucash.eth` | Multi-currency contracts | 🟡&nbsp;Dev |
-| `unverifier.contract.ucash.eth` | Verification contracts | 🟡&nbsp;Dev |
-| `udistribute.contract.ucash.eth` | Distribution contracts | 🟡&nbsp;Dev |
-| `ubatch.contract.ucash.eth` | Batch contracts | 🟡&nbsp;Dev |
-
-#### Agent Subnames (agent.ucash.eth)
-
-AI and automation agents:
-
-| Subname | Purpose | Status          |
-|-------------|---------|-------------|
-| `u.agent.ucash.eth` | Universal agent | 🟡&nbsp;Dev |
-| `social.agent.ucash.eth` | Social media agent | 🟡&nbsp;Dev |
-| `market.agent.ucash.eth` | Market monitoring agent | 🟡&nbsp;Dev |
-| `trade.agent.ucash.eth` | Trading agent | 🟠&nbsp;Planned |
-| `oracle.agent.ucash.eth` | Oracle agent | 🟠&nbsp;Planned |
-
-#### Bot Subnames (bot.ucash.eth)
-
-Automated service bots:
-
-| Subname | Purpose | Status          |
-|-------------|---------|-------------|
-| `price.bot.ucash.eth` | Price tracking bot | 🟡&nbsp;Dev |
-| `social.bot.ucash.eth` | Social media bot | 🟡&nbsp;Dev |
-| `ai.bot.ucash.eth` | AI assistant bot | 🟡&nbsp;Dev |
-| `liquidity.bot.ucash.eth` | Liquidity monitoring bot | 🟡&nbsp;Dev |
-| `alert.bot.ucash.eth` | Alert notification bot | 🟠&nbsp;Planned |
-| `audit.bot.ucash.eth` | Security audit bot | 🟠&nbsp;Planned |
-
-#### Token Subnames (token.ucash.eth)
-
-Chain-specific token deployments:
-
-| Subname | Chain | Purpose | Status          |
-|-------------|-------|---------|-------------|
-| `polygon.token.ucash.eth` | Polygon | Polygon token | 🟡&nbsp;Dev |
-| `base.token.ucash.eth` | Base | Base token | 🟡&nbsp;Dev |
-| `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟠&nbsp;Planned |
-| `op.token.ucash.eth` | Optimism | Optimism token | 🟠&nbsp;Planned |
-| `sol.token.ucash.eth` | Solana | Solana token | 🟠&nbsp;Planned |
-| `bnb.token.ucash.eth` | BNB Chain | BNB token | 🟠&nbsp;Planned |
-
-**Note:** More sub-subdomains will be added as new chains, contracts, agents, and services are deployed.
-
----
-
-#### Cross-Chain
-
-| Subname | Purpose | Status          |
-|-------------|---------|-------------|
-| `network.ucash.eth` | Network | 🟡&nbsp;Dev |
-| `bridge.ucash.eth` | Bridge | 🟡&nbsp;Dev |
-| `swap.ucash.eth` | Swap/DEX | 🟡&nbsp;Dev |
-| `exchange.ucash.eth` | Exchange | 🟡&nbsp;Dev |
-
 ### 🔍 Explorers & Tools
 
 | Subname | Purpose | Status          |
@@ -415,9 +347,6 @@ Chain-specific token deployments:
 | `support.ucash.eth` | Support | 🟡&nbsp;Dev |
 | `bounties.ucash.eth` | Bounties | 🟡&nbsp;Dev |
 | `news.ucash.eth` | News | 🟡&nbsp;Dev |
-| `channel.ucash.eth` | Channel | 🟡&nbsp;Dev |
-| `cash.ucash.eth` | Cash | 🟡&nbsp;Dev |
-| `builders.ucash.eth` | Builders | 🟡&nbsp;Dev |
 
 ### 💾 Decentralized Storage Subnames
 
@@ -608,35 +537,32 @@ ucash.eth
 
 ### By Purpose
 
-#### Core Services (10 subdomains)
-- www, app, api, docs, info, admin, dev, test, testnet, pay
+#### Core Services (19 subdomains)
+- www, app, api, docs, info, readme, admin, dev, test, testnet, global, pay, tx, address, invoice, dex, box, subnames, ai
 
-#### DeFi/Financial (18 subdomains)
-- batch, token, contracts, swap, earn, liquidity, vault, claim, lock, supply, initial, faucet, cash, pay, bounties, exchange, bridge
+#### DeFi/Financial (24 subdomains)
+- batch, contracts, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity
 
-#### Governance (5 subdomains)
-- gov, dao, vote, oracle, sign
-
-#### Infrastructure (12 subdomains)
-- scan, verify, link, mgr, nic, support, partners, builders, network, bridge, agent, bot
+#### Infrastructure (9 subdomains)
+- scan, verify, link, mgr, nic, support, bounties, news, network
 
 #### Storage/Web3 (5 subdomains)
 - ipfs, arweave, swarm, onion, skynet
 
-#### Naming & Domain Services (6 subdomains)
-- dns, ens, domains, names, uns, linked
+#### Naming & Domain Services (7 subdomains)
+- dns, ens, domains, names, uns, linked, tld
 
-#### Blockchain Networks (9 subdomains)
-- polygon, base, arb, linea, op, sol, bnb, btc, g
+#### Blockchain Networks (12 subdomains)
+- polygon, base, arb, linea, op, sol, bnb, btc, xrp, ltc, xmr, g
 
-#### Geographic (39 subdomains - 2-character ccTLDs)
-- nl, fm, tv, mx, cc, ar, br, kr, ru, cn, jp, es, it, fr, de, my, vn, ng, at, uk, ca, us, rw, mw, in, id, ly, li, me, ad, to, io, co, cv, ws
+#### Geographic (35 subdomains - 2-character ccTLDs)
+- ad, ar, at, br, ca, cc, cn, co, cv, de, es, fr, id, in, io, it, jp, kr, la, li, ly, me, mx, mw, my, ng, nl, ru, rw, to, uk, us, vn, ws, fm, tv
 
-#### Generic TLDs (19 subdomains - 3+ character gTLDs)
+#### Generic TLDs (27 subdomains - 3+ character gTLDs)
 - tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
 
-#### Brand (7 subdomains)
-- brand, cash, builders, technology, productions, exchange, channel
+#### Brand (4 subdomains)
+- brand, cash, builders, channel
 
 ---
 
