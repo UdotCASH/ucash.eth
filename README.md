@@ -335,9 +335,13 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ---
 
-### 🔗 Bridge Sub-Subnames (3rd-Level Names)
+### 🔗 Sub-Subnames (3rd-Level Names)
 
-Chain-specific bridge deployments under `bridge.ucash.eth`:
+UCASH supports nested subdomains (3rd-level and deeper) for specialized services and chain-specific deployments.
+
+#### Bridge Subnames (bridge.ucash.eth)
+
+Chain-specific bridge deployments:
 
 | Subname | Chain | Purpose | Status          |
 |-------------|-------|---------|-------------|
@@ -582,7 +586,7 @@ ucash.eth
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
 
-#### Bridge Sub-Subnames (9 subdomains - 3rd-level under bridge.ucash.eth)
+#### Sub-Subnames (9 subdomains - 3rd-level names)
 - base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge
 
 ---
