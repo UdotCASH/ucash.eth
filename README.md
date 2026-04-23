@@ -282,6 +282,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 |-------------|---------|-----------------|------------------------|
 | `batch.ucash.eth` | Batch Send | Batch Wallet | 🟡&nbsp;Dev |
 | `contracts.ucash.eth` | Contracts | Contract Directory | 🟡&nbsp;Dev |
+| `contract.ucash.eth` | Contract | Smart Contract Services | 🟡&nbsp;Dev |
 | `token.ucash.eth` | Token | UCASH Token Contract | 🟡&nbsp;Dev |
 | `bridge.ucash.eth` | Bridge | Multi-Chain Bridge | 🟡&nbsp;Dev |
 | `swap.ucash.eth` | Swap | Token swap/DEX | 🟡&nbsp;Dev |
@@ -354,6 +355,19 @@ Chain-specific bridge deployments:
 | `sol.bridge.ucash.eth` | Solana | Solana bridge | 🟡&nbsp;Dev |
 | `btc.bridge.ucash.eth` | Bitcoin | Bitcoin bridge | 🟡&nbsp;Dev |
 | `g.bridge.ucash.eth` | Gravity Alpha | Gravity Alpha bridge | 🟡&nbsp;Dev |
+
+#### Contract Subnames (contract.ucash.eth)
+
+Smart contract deployments:
+
+| Subname | Purpose | Status          |
+|-------------|---------|-------------|
+| `uwithdraw.contract.ucash.eth` | Withdraw contracts | 🟡&nbsp;Dev |
+| `ubatch.contract.ucash.eth` | Batch contracts | 🟡&nbsp;Dev |
+| `udistribute.contract.ucash.eth` | Distribution contracts | 🟡&nbsp;Dev |
+| `unverifier.contract.ucash.eth` | Verification contracts | 🟡&nbsp;Dev |
+| `ucurrencies.contract.ucash.eth` | Multi-currency contracts | 🟡&nbsp;Dev |
+| `ucollateral.contract.ucash.eth` | Collateral contracts | 🟡&nbsp;Dev |
 
 ---
 
@@ -562,8 +576,8 @@ ucash.eth
 #### Core Services (19 subdomains)
 - www, app, api, docs, info, readme, admin, dev, test, testnet, global, pay, tx, address, invoice, dex, box, subnames, ai
 
-#### DeFi/Financial (24 subdomains)
-- batch, contracts, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity
+#### DeFi/Financial (25 subdomains)
+- batch, contracts, contract, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity
 
 #### Infrastructure (9 subdomains)
 - scan, verify, link, mgr, nic, support, bounties, news, network
@@ -586,8 +600,9 @@ ucash.eth
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
 
-#### Sub-Subnames (9 subdomains - 3rd-level names)
+#### Sub-Subnames (15 subdomains - 3rd-level names)
 - base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge
+- uwithdraw.contract, ubatch.contract, udistribute.contract, unverifier.contract, ucurrencies.contract, ucollateral.contract
 
 ---
 
