@@ -335,6 +335,24 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ---
 
+### 🔗 Bridge Sub-Subnames (3rd-Level Names)
+
+Chain-specific bridge deployments under `bridge.ucash.eth`:
+
+| Subname | Chain | Purpose | Status          |
+|-------------|-------|---------|-------------|
+| `base.bridge.ucash.eth` | Base | Base bridge | 🟡&nbsp;Dev |
+| `polygon.bridge.ucash.eth` | Polygon | Polygon bridge | 🟡&nbsp;Dev |
+| `arb.bridge.ucash.eth` | Arbitrum | Arbitrum bridge | 🟡&nbsp;Dev |
+| `op.bridge.ucash.eth` | Optimism | Optimism bridge | 🟡&nbsp;Dev |
+| `linea.bridge.ucash.eth` | Linea | Linea bridge | 🟡&nbsp;Dev |
+| `bnb.bridge.ucash.eth` | BNB Chain | BNB bridge | 🟡&nbsp;Dev |
+| `sol.bridge.ucash.eth` | Solana | Solana bridge | 🟡&nbsp;Dev |
+| `btc.bridge.ucash.eth` | Bitcoin | Bitcoin bridge | 🟡&nbsp;Dev |
+| `g.bridge.ucash.eth` | Gravity Alpha | Gravity Alpha bridge | 🟡&nbsp;Dev |
+
+---
+
 ### 🔍 Explorers & Tools
 
 | Subname | Purpose | Status          |
@@ -561,8 +579,11 @@ ucash.eth
 #### Generic TLDs (27 subdomains - 3+ character gTLDs)
 - tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
 
-#### Brand (4 subdomains)
-- brand, cash, builders, channel
+#### Brand (7 subdomains)
+- brand, cash, builders, technology, productions, exchange, channel
+
+#### Bridge Sub-Subnames (9 subdomains - 3rd-level under bridge.ucash.eth)
+- base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge
 
 ---
 
