@@ -533,7 +533,7 @@ ucash.eth
 ├── Resolver: Public Resolver
 ├── Total Subnames: 100+
 ├── Registration: [REGISTRATION_DATE]
-├── Text Records (39 configured)
+├── Text Records (40 configured)
 │   ├── email: info@u.cash
 │   ├── url: https://u.cash
 │   ├── com.twitter: UdotCASH
@@ -549,7 +549,7 @@ ucash.eth
 
 ### Text Records
 
-**39 Records configured:**
+**40 Records configured:**
 
 | Record Key | Value | Purpose |
 |------------|-------|---------|
@@ -582,16 +582,17 @@ ucash.eth
 | `Polygon Name` | ucash.polygon | Polygon Name |
 | `Optimistic Domain` | ucash.op | Optimism Domain |
 | `Bitcoin Name Service` | ucash.btc | Bitcoin Name |
-| `Universal Name` | ucash.u | Universal Name |
-| `XRP Name Service` | ucash.xrp | XRP Name |
-| `LTC Names` | ucash.ltc | Litecoin Name |
-| `XMR Names` | ucash.xmr | Monero Name |
+| `Litecoin Name` | ucash.ltc | Litecoin Name |
+| `XRP Name` | ucash.xrp | XRP Name |
+| `Monero Name` | ucash.xmr | Monero Name |
+| `.U Domain` | ucash.u | .U Domain |
 | `.U TLD` | *.u | .U TLD |
 | `@U Domain` | ucash@u | @U Domain |
 | `@U Names` | *@u | @U Names |
 | `@UCASH Domain` | ucash@ucash | @UCASH Domain |
 | `@UCASH Names` | *@ucash | @UCASH Names |
 | `U.ONL DNS Link` | *.u.onl | U.ONL DNS Link |
+| `U.BOX E-Mail` | *@u.box | U.BOX Email |
 
 ### Address Records
 
