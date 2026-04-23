@@ -3,8 +3,8 @@ MIT License
 Copyright (c) 2026 UCASH
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+of this IPFS gateway software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+**Software Description:**
+
+This repository contains IPFS gateway software and ENS (Ethereum Name Service) infrastructure
+for the UCASH ecosystem, including:
+
+- Automated website generation for 100+ ENS subnames
+- IPFS deployment and pinning services via Pinata
+- Gateway resolution services for ucash.onl wildcard domains
+- Web3 integration templates and tools
+- Decentralized storage interfaces (IPFS, Arweave, Swarm)
+
+The software enables seamless deployment of static websites to IPFS with automatic
+ENS text record updates and wildcard gateway resolution.
