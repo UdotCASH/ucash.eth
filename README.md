@@ -388,6 +388,21 @@ AI and automation agents:
 | `market.agent.ucash.eth` | Market monitoring agent | 🟡&nbsp;Dev |
 | `social.agent.ucash.eth` | Social media agent | 🟡&nbsp;Dev |
 
+#### Bot Subnames (bot.ucash.eth)
+
+Automated service bots:
+
+| Subname | Purpose | Status          |
+|-------------|---------|-------------|
+| `price.bot.ucash.eth` | Price tracking bot | 🟡&nbsp;Dev |
+| `social.bot.ucash.eth` | Social media bot | 🟡&nbsp;Dev |
+| `ai.bot.ucash.eth` | AI assistant bot | 🟡&nbsp;Dev |
+| `liquidity.bot.ucash.eth` | Liquidity monitoring bot | 🟡&nbsp;Dev |
+| `alert.bot.ucash.eth` | Alert notification bot | 🟡&nbsp;Dev |
+| `audit.bot.ucash.eth` | Security audit bot | 🟡&nbsp;Dev |
+| `support.bot.ucash.eth` | Support bot | 🟡&nbsp;Dev |
+| `expiry.bot.ucash.eth` | Expiry monitoring bot | 🟡&nbsp;Dev |
+
 ---
 
 ### 🔍 Explorers & Tools
@@ -619,10 +634,11 @@ ucash.eth
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
 
-#### Sub-Subnames (27 subdomains - 3rd-level names)
+#### Sub-Subnames (35 subdomains - 3rd-level names)
 - base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge (9 bridges)
 - uwithdraw.contract, ubatch.contract, udistribute.contract, unverifier.contract, ucurrencies.contract, ucollateral.contract (6 contracts)
 - u.agent, dev.agent, business.agent, design.agent, growth.agent, support.agent, security.agent, domain.agent, oracle.agent, trade.agent, market.agent, social.agent (12 agents)
+- price.bot, social.bot, ai.bot, liquidity.bot, alert.bot, audit.bot, support.bot, expiry.bot (8 bots)
 
 ---
 
