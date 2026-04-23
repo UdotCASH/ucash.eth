@@ -56,7 +56,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 
 **How it Works:**
 
-When you deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.eth`), it becomes accessible via:
+When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.eth`), it becomes accessible via:
 - **Primary**: `https://app.ucash.eth` (via ENS + IPFS)
 - **Gateway**: `https://app.ucash.onl` (via ucash.onl wildcard resolution)
 
