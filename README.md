@@ -369,6 +369,25 @@ Smart contract deployments:
 | `ucurrencies.contract.ucash.eth` | Multi-currency contracts | 🟡&nbsp;Dev |
 | `ucollateral.contract.ucash.eth` | Collateral contracts | 🟡&nbsp;Dev |
 
+#### Agent Subnames (agent.ucash.eth)
+
+AI and automation agents:
+
+| Subname | Purpose | Status          |
+|-------------|---------|-------------|
+| `u.agent.ucash.eth` | Universal agent | 🟡&nbsp;Dev |
+| `dev.agent.ucash.eth` | Development agent | 🟡&nbsp;Dev |
+| `business.agent.ucash.eth` | Business agent | 🟡&nbsp;Dev |
+| `design.agent.ucash.eth` | Design agent | 🟡&nbsp;Dev |
+| `growth.agent.ucash.eth` | Growth agent | 🟡&nbsp;Dev |
+| `support.agent.ucash.eth` | Support agent | 🟡&nbsp;Dev |
+| `security.agent.ucash.eth` | Security agent | 🟡&nbsp;Dev |
+| `domain.agent.ucash.eth` | Domain agent | 🟡&nbsp;Dev |
+| `oracle.agent.ucash.eth` | Oracle agent | 🟡&nbsp;Dev |
+| `trade.agent.ucash.eth` | Trading agent | 🟡&nbsp;Dev |
+| `market.agent.ucash.eth` | Market monitoring agent | 🟡&nbsp;Dev |
+| `social.agent.ucash.eth` | Social media agent | 🟡&nbsp;Dev |
+
 ---
 
 ### 🔍 Explorers & Tools
@@ -600,9 +619,10 @@ ucash.eth
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
 
-#### Sub-Subnames (15 subdomains - 3rd-level names)
-- base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge
-- uwithdraw.contract, ubatch.contract, udistribute.contract, unverifier.contract, ucurrencies.contract, ucollateral.contract
+#### Sub-Subnames (27 subdomains - 3rd-level names)
+- base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge (9 bridges)
+- uwithdraw.contract, ubatch.contract, udistribute.contract, unverifier.contract, ucurrencies.contract, ucollateral.contract (6 contracts)
+- u.agent, dev.agent, business.agent, design.agent, growth.agent, support.agent, security.agent, domain.agent, oracle.agent, trade.agent, market.agent, social.agent (12 agents)
 
 ---
 
