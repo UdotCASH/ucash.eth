@@ -409,10 +409,18 @@ Chain-specific token deployments:
 
 | Subname | Chain | Purpose | Status          |
 |-------------|-------|---------|-------------|
+| `polygon.token.ucash.eth` | Polygon | Polygon token | 🟡&nbsp;Dev |
+| `base.token.ucash.eth` | Base | Base token | 🟡&nbsp;Dev |
+| `arb.token.ucash.eth` | Arbitrum | Arbitrum token | 🟡&nbsp;Dev |
+| `op.token.ucash.eth` | Optimism | Optimism token | 🟡&nbsp;Dev |
+| `sol.token.ucash.eth` | Solana | Solana token | 🟡&nbsp;Dev |
+| `bnb.token.ucash.eth` | BNB Chain | BNB token | 🟡&nbsp;Dev |
 | `xrp.token.ucash.eth` | XRP Ledger | XRP token | 🟡&nbsp;Dev |
 | `xmr.token.ucash.eth` | Monero | Monero token | 🟡&nbsp;Dev |
 | `btc.token.ucash.eth` | Bitcoin | Bitcoin token | 🟡&nbsp;Dev |
 | `ltc.token.ucash.eth` | Litecoin | Litecoin token | 🟡&nbsp;Dev |
+
+**Note:** More sub-subdomains will be added as new chains, contracts, agents, and services are deployed.
 
 ---
 
@@ -645,12 +653,12 @@ ucash.eth
 #### Brand (7 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel
 
-#### Sub-Subnames (39 subdomains - 3rd-level names)
+#### Sub-Subnames (45 subdomains - 3rd-level names)
 - base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge (9 bridges)
 - uwithdraw.contract, ubatch.contract, udistribute.contract, unverifier.contract, ucurrencies.contract, ucollateral.contract (6 contracts)
 - u.agent, dev.agent, business.agent, design.agent, growth.agent, support.agent, security.agent, domain.agent, oracle.agent, trade.agent, market.agent, social.agent (12 agents)
 - price.bot, social.bot, ai.bot, liquidity.bot, alert.bot, audit.bot, support.bot, expiry.bot (8 bots)
-- xrp.token, xmr.token, btc.token, ltc.token (4 tokens)
+- polygon.token, base.token, arb.token, op.token, sol.token, bnb.token, xrp.token, xmr.token, btc.token, ltc.token (10 tokens)
 
 ---
 
