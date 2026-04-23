@@ -1,0 +1,97 @@
+name: Deploy Subnames to IPFS
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'subnames/**'
+      - '.github/workflows/deploy-ipfs.yml'
+      - 'package.json'
+
+  workflow_dispatch:
+    inputs:
+      deploy_single:
+        description: 'Deploy single site (optional)'
+        required: false
+        default: ''
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate HTML files
+        run: npm run generate
+
+      - name: Verify generation
+        run: |
+          echo "Checking generated sites..."
+          SITE_COUNT=$(find subnames/sites -name "index.html" | wc -l)
+          echo "Found $SITE_COUNT sites"
+          if [ "$SITE_COUNT" -lt 1 ]; then
+            echo "Error: No sites were generated!"
+            exit 1
+          fi
+
+      - name: Deploy to IPFS via Pinata
+        env:
+          PINATA_API_KEY: ${{ secrets.PINATA_API_KEY }}
+          PINATA_API_SECRET: ${{ secrets.PINATA_API_SECRET }}
+        run: |
+          if [ -n "${{ github.event.inputs.deploy_single }}" ]; then
+            echo "Deploying single site: ${{ github.event.inputs.deploy_single }}"
+            npm run deploy -- --single ${{ github.event.inputs.deploy_single }}
+          else
+            echo "Deploying all sites..."
+            npm run deploy
+          fi
+
+      - name: Upload CID mapping as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ipfs-cids
+          path: subnames/ipfs-cids.json
+          retention-days: 90
+
+      - name: Create deployment summary
+        run: |
+          echo "# 🎉 IPFS Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_STEP_SUMMARY
+          echo "**Commit:** ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## 📊 Statistics" >> $GITHUB_STEP_SUMMARY
+          echo "- **Sites Deployed:** $(jq '. | length' subnames/ipfs-cids.json 2>/dev/null || echo '0')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch:** ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## 🔗 Gateway URLs" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f "subnames/ipfs-cids.json" ]; then
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            jq -r 'to_entries[] | "\(.key).ucash.eth: https://gateway.pinata.cloud/ipfs/\(.value)"' subnames/ipfs-cids.json >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "## ❌ Deployment Failed" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the logs above for error details." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Common issues:**" >> $GITHUB_STEP_SUMMARY
+          echo "1. Missing Pinata API credentials (check GitHub Secrets)" >> $GITHUB_STEP_SUMMARY
+          echo "2. Invalid data in subnames.json" >> $GITHUB_STEP_SUMMARY
+          echo "3. Network connectivity issues" >> $GITHUB_STEP_SUMMARY

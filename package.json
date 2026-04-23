@@ -1,0 +1,28 @@
+{
+  "name": "ucash-subname-sites",
+  "version": "1.0.0",
+  "description": "Generate and deploy UCASH ENS subname websites to IPFS",
+  "main": "subnames/scripts/generate.js",
+  "scripts": {
+    "generate": "node subnames/scripts/generate.js",
+    "deploy": "node subnames/scripts/deploy.js",
+    "build": "npm run generate",
+    "ipfs": "npm run deploy",
+    "extract": "node subnames/scripts/extract-readme-data.js"
+  },
+  "keywords": [
+    "ens",
+    "ipfs",
+    "web3",
+    "ucash"
+  ],
+  "author": "UCASH",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "marked": "^11.0.0"
+  },
+  "devDependencies": {}
+}

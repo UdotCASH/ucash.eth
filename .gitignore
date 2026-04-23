@@ -1,2 +1,26 @@
 .CONTRIBUTORS
 .git_contributor_rules
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Generated sites
+subnames/sites/
+subnames/ipfs-cids.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

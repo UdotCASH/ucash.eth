@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= name %> - UCASH Brand</title>
+  <meta name="description" content="<%= description %>">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary: #EC4899;
+      --secondary: #F97316;
+      --accent: #14B8A6;
+      --dark: #0D1117;
+      --light: #C9D1D9;
+      --border: #30363D;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #1a0a1a 0%, #0D1117 100%);
+      color: var(--light);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .ucash-header {
+      background: rgba(26, 10, 26, 0.95);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 2rem;
+    }
+
+    .ucash-nav {
+      display: flex;
+      gap: 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .ucash-nav a {
+      color: var(--light);
+      text-decoration: none;
+    }
+
+    .ucash-nav a:hover {
+      color: var(--primary);
+    }
+
+    .ucash-main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 4rem 0;
+      background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(249, 115, 22, 0.1));
+      border-radius: 16px;
+      margin-bottom: 3rem;
+      border: 1px solid rgba(236, 72, 153, 0.3);
+    }
+
+    .hero h1 {
+      font-size: 3.5rem;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 1rem;
+    }
+
+    .brand-badge {
+      display: inline-block;
+      padding: 0.5rem 1.5rem;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      border-radius: 25px;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+
+    .info {
+      background: rgba(48, 54, 61, 0.3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .info h2 {
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    .brand-assets {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .asset-card {
+      background: rgba(48, 54, 61, 0.5);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    .asset-placeholder {
+      width: 100px;
+      height: 100px;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      border-radius: 10px;
+      margin: 0 auto 1rem;
+    }
+
+    .brand-guidelines {
+      background: rgba(48, 54, 61, 0.3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .brand-guidelines h2 {
+      color: var(--secondary);
+      margin-bottom: 1rem;
+    }
+
+    .color-palette {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .color-swatch {
+      height: 100px;
+      border-radius: 8px;
+      display: flex;
+      align-items: end;
+      padding: 0.5rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+
+    .ucash-footer {
+      background: rgba(26, 10, 26, 0.95);
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      margin-top: 3rem;
+    }
+
+    .ipfs-hash {
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      opacity: 0.6;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="ucash-header">
+    <nav class="ucash-nav">
+      <a href="https://u.cash">U.CASH</a>
+      <a href="https://u.onl">U.ONL</a>
+      <a href="https://un4.com">UN4</a>
+    </nav>
+  </header>
+
+  <main class="ucash-main">
+    <section class="hero">
+      <span class="brand-badge">Brand Identity</span>
+      <h1><%= name %>.ucash.eth</h1>
+      <p><%= purpose %></p>
+    </section>
+
+    <section class="info">
+      <h2>About</h2>
+      <p><%= description %></p>
+      <ul style="list-style: none; margin-top: 1rem;">
+        <li style="padding: 0.5rem 0;">Category: <%= category %></li>
+        <li style="padding: 0.5rem 0;">Notes: <%= notes %></li>
+      </ul>
+    </section>
+
+    <section class="brand-guidelines">
+      <h2>Brand Guidelines</h2>
+      <p>Official UCASH brand assets and usage guidelines</p>
+
+      <div class="color-palette">
+        <div class="color-swatch" style="background: #00D4FF; color: #000;">#00D4FF</div>
+        <div class="color-swatch" style="background: #7B68EE; color: #fff;">#7B68EE</div>
+        <div class="color-swatch" style="background: #FF6B6B; color: #fff;">#FF6B6B</div>
+        <div class="color-swatch" style="background: #0D1117; color: #fff;">#0D1117</div>
+      </div>
+    </section>
+
+    <div class="brand-assets">
+      <div class="asset-card">
+        <div class="asset-placeholder"></div>
+        <h3>Logo</h3>
+        <p style="font-size: 0.9rem; opacity: 0.7;">Primary logo</p>
+      </div>
+      <div class="asset-card">
+        <div class="asset-placeholder" style="background: linear-gradient(135deg, var(--secondary), var(--accent));"></div>
+        <h3>Icon</h3>
+        <p style="font-size: 0.9rem; opacity: 0.7;">App icon</p>
+      </div>
+      <div class="asset-card">
+        <div class="asset-placeholder" style="background: linear-gradient(135deg, var(--accent), var(--primary));"></div>
+        <h3>Wordmark</h3>
+        <p style="font-size: 0.9rem; opacity: 0.7;">Text logo</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="ucash-footer">
+    <p>&copy; 2026 UCASH. All rights reserved.</p>
+    <p class="ipfs-hash">IPFS CID: <span id="ipfs-cid">Loading...</span></p>
+  </footer>
+
+  <script>
+    const SUBNAME = '<%= name %>';
+    trackEvent('pageview', { url: window.location.href });
+
+    function trackEvent(action, data = {}) {
+      fetch('https://analytics.u.onl/track', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subname: SUBNAME, action, timestamp: Date.now(), ...data })
+      }).catch(() => {});
+    }
+  </script>
+</body>
+</html>

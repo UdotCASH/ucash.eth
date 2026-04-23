@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= name %> - UCASH Tools</title>
+  <meta name="description" content="<%= description %>">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary: #FF6B35;
+      --secondary: #004E89;
+      --accent: #FFA600;
+      --dark: #0D1117;
+      --light: #C9D1D9;
+      --border: #30363D;
+    }
+
+    body {
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      background: linear-gradient(135deg, #1a1a1a 0%, #0D1117 100%);
+      color: var(--light);
+      line-height: 1.6;
+    }
+
+    .ucash-header {
+      background: rgba(13, 17, 23, 0.95);
+      border-bottom: 2px solid var(--primary);
+      padding: 1rem 2rem;
+    }
+
+    .ucash-nav {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .ucash-nav a {
+      color: var(--light);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .ucash-nav a:hover {
+      color: var(--primary);
+    }
+
+    .ucash-main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 3rem 0;
+      border-bottom: 2px solid var(--border);
+      margin-bottom: 2rem;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+
+    .tool-badge {
+      display: inline-block;
+      padding: 0.3rem 0.8rem;
+      background: var(--primary);
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+
+    .search-box {
+      background: var(--dark);
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 0.75rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--light);
+      font-family: inherit;
+      font-size: 1rem;
+    }
+
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .info {
+      background: rgba(48, 54, 61, 0.3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .info h2 {
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+
+    .data-table th,
+    .data-table td {
+      padding: 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .data-table th {
+      background: rgba(255, 107, 53, 0.1);
+      color: var(--primary);
+      font-weight: 600;
+    }
+
+    .data-table tr:hover {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .interactive {
+      background: rgba(48, 54, 61, 0.3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    button {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 4px;
+      font-family: inherit;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+
+    .ucash-footer {
+      background: rgba(13, 17, 23, 0.95);
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      margin-top: 3rem;
+    }
+
+    .ipfs-hash {
+      font-family: inherit;
+      font-size: 0.85rem;
+      color: var(--light);
+      opacity: 0.6;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="ucash-header">
+    <nav class="ucash-nav">
+      <a href="https://u.cash">U.CASH</a>
+      <a href="https://u.onl">U.ONL</a>
+      <a href="https://un4.com">UN4</a>
+    </nav>
+  </header>
+
+  <main class="ucash-main">
+    <section class="hero">
+      <span class="tool-badge">Developer Tool</span>
+      <h1><%= name %>.ucash.eth</h1>
+      <p><%= purpose %></p>
+    </section>
+
+    <div class="search-box">
+      <input type="text" placeholder="Search addresses, transactions, blocks..." id="search-input">
+    </div>
+
+    <section class="info">
+      <h2>About This Tool</h2>
+      <p><%= description %></p>
+      <table class="data-table">
+        <tr>
+          <th>Property</th>
+          <th>Value</th>
+        </tr>
+        <tr>
+          <td>Category</td>
+          <td><%= category %></td>
+        </tr>
+        <tr>
+          <td>Status</td>
+          <td>🟡 Development</td>
+        </tr>
+        <tr>
+          <td>Notes</td>
+          <td><%= notes %></td>
+        </tr>
+      </table>
+    </section>
+
+    <section class="interactive">
+      <h2>Quick Actions</h2>
+      <button>Refresh Data</button>
+      <button>Export CSV</button>
+      <button>API Access</button>
+    </section>
+  </main>
+
+  <footer class="ucash-footer">
+    <p>&copy; 2026 UCASH. All rights reserved.</p>
+    <p class="ipfs-hash">IPFS CID: <span id="ipfs-cid">Loading...</span></p>
+  </footer>
+
+  <script>
+    const SUBNAME = '<%= name %>';
+    trackEvent('pageview', { url: window.location.href });
+
+    function trackEvent(action, data = {}) {
+      fetch('https://analytics.u.onl/track', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subname: SUBNAME, action, timestamp: Date.now(), ...data })
+      }).catch(() => {});
+    }
+  </script>
+</body>
+</html>
