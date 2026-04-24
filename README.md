@@ -25,7 +25,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | Attribute | Value |
 |-------------|-------|
 | **Primary ENS** | `ucash.eth` |
-| **Total ENS Subnames** | **100+ Development** |
+| **Total ENS Subnames** | **150+ Development** |
 | **Multi-Chain Names** | **10+ Active** |
 | **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP, Litecoin, Monero |
 | **Status** | 🟡&nbsp;Development |
@@ -276,8 +276,8 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ## 🌳 Live Subnames - Complete Directory
 
-> **Total Active Subnames**: 100+<br>
-> **Last Updated**: 2026-04-22<br>
+> **Total Active Subnames**: 150+<br>
+> **Last Updated**: 2026-04-24<br>
 > **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
 ### 🏗️ Core Infrastructure Subnames
@@ -303,6 +303,30 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | `box.ucash.eth` | Box | U.BOX services | 🟡&nbsp;Dev |
 | `subnames.ucash.eth` | Subnames | Subname directory | 🟡&nbsp;Dev |
 | `ai.ucash.eth` | AI | AI services | 🟡&nbsp;Dev |
+| `usdc.ucash.eth` | USDC | USDC stablecoin | 🟡&nbsp;Dev |
+| `dai.ucash.eth` | DAI | DAI stablecoin | 🟡&nbsp;Dev |
+| `usdt.ucash.eth` | USDT | USDT stablecoin | 🟡&nbsp;Dev |
+| `git.ucash.eth` | Git | Git repositories | 🟡&nbsp;Dev |
+| `history.ucash.eth` | History | Historical data | 🟡&nbsp;Dev |
+| `actions.ucash.eth` | Actions | Action hub | 🟡&nbsp;Dev |
+| `mail.ucash.eth` | Mail | Email services | 🟡&nbsp;Dev |
+| `payments.ucash.eth` | Payments | Payment processing | 🟡&nbsp;Dev |
+| `records.ucash.eth` | Records | Records management | 🟡&nbsp;Dev |
+| `finance.ucash.eth` | Finance | Finance dashboard | 🟡&nbsp;Dev |
+| `store.ucash.eth` | Store | E-commerce store | 🟡&nbsp;Dev |
+| `action.ucash.eth` | Action | Single action | 🟡&nbsp;Dev |
+| `ipns.ucash.eth` | IPNS | IPNS gateway | 🟡&nbsp;Dev |
+| `explorer.ucash.eth` | Explorer | Blockchain explorer | 🟡&nbsp;Dev |
+| `about.ucash.eth` | About | About page | 🟡&nbsp;Dev |
+| `eth.ucash.eth` | ETH | Ethereum services | 🟡&nbsp;Dev |
+| `connect.ucash.eth` | Connect | Connection services | 🟡&nbsp;Dev |
+| `sdk.ucash.eth` | SDK | Developer SDK | 🟡&nbsp;Dev |
+| `pages.ucash.eth` | Pages | Pages directory | 🟡&nbsp;Dev |
+| `gateway.ucash.eth` | Gateway | API gateway | 🟡&nbsp;Dev |
+| `automation.ucash.eth` | Automation | Automation hub | 🟡&nbsp;Dev |
+| `mission.ucash.eth` | Mission | Mission statement | 🟡&nbsp;Dev |
+| `workers.ucash.eth` | Workers | Workers platform | 🟡&nbsp;Dev |
+| `worker.ucash.eth` | Worker | Worker interface | 🟡&nbsp;Dev |
 
 ### 🔧 Smart Contracts & Protocol
 

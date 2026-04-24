@@ -1,6 +1,6 @@
 # 🌳 Subdomain Directory - ucash.eth
 
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-04-24
 
 ---
 
@@ -8,7 +8,7 @@
 
 This document lists all official subdomains under `ucash.eth` and their purposes.
 
-**Total Active Subdomains**: 100+
+**Total Active Subdomains**: 150+
 **Manager**: Controlled by ucash.eth owner
 
 All subdomains resolve to verified addresses or services.
@@ -29,6 +29,30 @@ All subdomains resolve to verified addresses or services.
 | `test.ucash.eth` | Testing | 🟡 Dev | Test environment |
 | `testnet.ucash.eth` | Testnet | 🟡 Dev | Testnet operations |
 | `pay.ucash.eth` | Payments | 🟡 Dev | Payment processor |
+| `usdc.ucash.eth` | USDC | 🟡 Dev | USDC stablecoin |
+| `dai.ucash.eth` | DAI | 🟡 Dev | DAI stablecoin |
+| `usdt.ucash.eth` | USDT | 🟡 Dev | USDT stablecoin |
+| `git.ucash.eth` | Git | 🟡 Dev | Git repositories |
+| `history.ucash.eth` | History | 🟡 Dev | Historical data |
+| `actions.ucash.eth` | Actions | 🟡 Dev | Action hub |
+| `mail.ucash.eth` | Mail | 🟡 Dev | Email services |
+| `payments.ucash.eth` | Payments | 🟡 Dev | Payment processing |
+| `records.ucash.eth` | Records | 🟡 Dev | Records management |
+| `finance.ucash.eth` | Finance | 🟡 Dev | Finance dashboard |
+| `store.ucash.eth` | Store | 🟡 Dev | E-commerce store |
+| `action.ucash.eth` | Action | 🟡 Dev | Single action |
+| `ipns.ucash.eth` | IPNS | 🟡 Dev | IPNS gateway |
+| `explorer.ucash.eth` | Explorer | 🟡 Dev | Blockchain explorer |
+| `about.ucash.eth` | About | 🟡 Dev | About page |
+| `eth.ucash.eth` | ETH | 🟡 Dev | Ethereum services |
+| `connect.ucash.eth` | Connect | 🟡 Dev | Connection services |
+| `sdk.ucash.eth` | SDK | 🟡 Dev | Developer SDK |
+| `pages.ucash.eth` | Pages | 🟡 Dev | Pages directory |
+| `gateway.ucash.eth` | Gateway | 🟡 Dev | API gateway |
+| `automation.ucash.eth` | Automation | 🟡 Dev | Automation hub |
+| `mission.ucash.eth` | Mission | 🟡 Dev | Mission statement |
+| `workers.ucash.eth` | Workers | 🟡 Dev | Workers platform |
+| `worker.ucash.eth` | Worker | 🟡 Dev | Worker interface |
 
 ---
 
