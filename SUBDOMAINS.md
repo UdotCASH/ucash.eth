@@ -1,6 +1,6 @@
 # 🌳 Subdomain Directory - ucash.eth
 
-**Last Updated**: 2026-04-24
+**Last Updated**: 2026-04-25
 
 ---
 
@@ -8,7 +8,7 @@
 
 This document lists all official subdomains under `ucash.eth` and their purposes.
 
-**Total Active Subdomains**: 150+
+**Total Active Subdomains**: 265+
 **Manager**: Controlled by ucash.eth owner
 
 All subdomains resolve to verified addresses or services.
@@ -53,6 +53,39 @@ All subdomains resolve to verified addresses or services.
 | `mission.ucash.eth` | Mission | 🟡 Dev | Mission statement |
 | `workers.ucash.eth` | Workers | 🟡 Dev | Workers platform |
 | `worker.ucash.eth` | Worker | 🟡 Dev | Worker interface |
+| `naming.ucash.eth` | Naming | 🟡 Dev | Naming services |
+| `auth.ucash.eth` | Authentication | 🟡 Dev | Auth services |
+| `host.ucash.eth` | Host | 🟡 Dev | Host services |
+| `contact.ucash.eth` | Contact | 🟡 Dev | Contact services |
+| `learn.ucash.eth` | Learning | 🟡 Dev | Educational resources |
+| `blog.ucash.eth` | Blog | 🟡 Dev | Blog platform |
+| `faq.ucash.eth` | FAQ | 🟡 Dev | FAQ page |
+| `knowledgebase.ucash.eth` | Knowledge Base | 🟡 Dev | Knowledge base |
+| `android.ucash.eth` | Android | 🟡 Dev | Android app |
+| `ios.ucash.eth` | iOS | 🟡 Dev | iOS app |
+| `data.ucash.eth` | Data | 🟡 Dev | Data services |
+| `home.ucash.eth` | Home | 🟡 Dev | Home page |
+| `-.ucash.eth` | Dash | 🟡 Dev | Dash services |
+| `brave.ucash.eth` | Brave | 🟡 Dev | Brave integration |
+| `web3.ucash.eth` | Web3 | 🟡 Dev | Web3 services |
+| `uni.ucash.eth` | Universal | 🟡 Dev | Universal services |
+| `page.ucash.eth` | Page | 🟡 Dev | Page services |
+| `extension.ucash.eth` | Extension | 🟡 Dev | Browser extension |
+| `meta.ucash.eth` | Metaverse | 🟡 Dev | Metaverse services |
+| `claw.ucash.eth` | CLAW | 🟡 Dev | CLAW platform |
+| `info.ucash.eth` | Information | 🟡 Dev | General info |
+| `readme.ucash.eth` | README | 🟡 Dev | Project README |
+| `global.ucash.eth` | Global | 🟡 Dev | Global operations |
+| `address.ucash.eth` | Address | 🟡 Dev | Address services |
+| `invoice.ucash.eth` | Invoice | 🟡 Dev | Invoice management |
+| `dex.ucash.eth` | DEX | 🟡 Dev | Decentralized exchange |
+| `box.ucash.eth` | Box | 🟡 Dev | U.BOX services |
+| `subnames.ucash.eth` | Subnames | 🟡 Dev | Subname directory |
+| `ai.ucash.eth` | AI | 🟡 Dev | AI services |
+| `tx.ucash.eth` | Transactions | 🟡 Dev | Transaction tracking |
+| `explorer.ucash.eth` | Explorer | 🟡 Dev | Blockchain explorer |
+| `about.ucash.eth` | About | 🟡 Dev | About page |
+| `mission.ucash.eth` | Mission | 🟡 Dev | Mission statement |
 
 ---
 
@@ -82,6 +115,14 @@ All subdomains resolve to verified addresses or services.
 | `partners.ucash.eth` | Partners | 🟡 Dev | Partner Bounty Offering (PBO) Wallet |
 | `future.ucash.eth` | Future | 🟡 Dev | Future Bounty Offering (FBO) Wallet |
 | `liquidity.ucash.eth` | Liquidity | 🟡 Dev | Liquidity Bounty Offering (LBO) Wallet |
+| `validator.ucash.eth` | Validator | 🟡 Dev | Validator operations |
+| `nft.ucash.eth` | NFT | 🟡 Dev | NFT marketplace |
+| `wallet.ucash.eth` | Wallet | 🟡 Dev | Crypto wallet |
+| `markets.ucash.eth` | Markets | 🟡 Dev | Market data |
+| `agents.ucash.eth` | AI Agents | 🟡 Dev | AI agent services |
+| `contract.ucash.eth` | Contract | 🟡 Dev | Smart Contract Services |
+| `swap.ucash.eth` | Swap | 🟡 Dev | Token swap/DEX |
+| `faucet.ucash.eth` | Faucet | 🟡 Dev | Token faucet |
 
 ---
 
@@ -103,6 +144,16 @@ All subdomains resolve to verified addresses or services.
 | `ltc.ucash.eth` | Litecoin | Litecoin operations | 🟡 Dev |
 | `xmr.ucash.eth` | Monero | Monero operations | 🟡 Dev |
 | `g.ucash.eth` | Gravity Alpha | GA operations | 🟡 Dev |
+| `sui.ucash.eth` | Sui | Sui operations | 🟡 Dev |
+| `ada.ucash.eth` | Cardano | Cardano operations | 🟡 Dev |
+| `ton.ucash.eth` | TON | TON blockchain | 🟡 Dev |
+| `tao.ucash.eth` | Bittensor | Bittensor TAO | 🟡 Dev |
+| `mesh.ucash.eth` | Mesh | Mesh network | 🟡 Dev |
+| `fio.ucash.eth` | FIO | FIO Protocol | 🟡 Dev |
+| `bch.ucash.eth` | Bitcoin Cash | BCH operations | 🟡 Dev |
+| `nodes.ucash.eth` | Nodes | Node infrastructure | 🟡 Dev |
+| `node.ucash.eth` | Node | Single node | 🟡 Dev |
+| `multichain.ucash.eth` | Multi-Chain | Cross-chain operations | 🟡 Dev |
 
 ### Cross-Chain
 
@@ -199,9 +250,17 @@ Chain-specific token deployments:
 | `support.ucash.eth` | Support | 🟡 Dev |
 | `bounties.ucash.eth` | Bounties | 🟡 Dev |
 | `news.ucash.eth` | News | 🟡 Dev |
-| `channel.ucash.eth` | Channel | 🟡 Dev |
-| `cash.ucash.eth` | Cash | 🟡 Dev |
-| `builders.ucash.eth` | Builders | 🟡 Dev |
+| `validate.ucash.eth` | Validation | 🟡 Dev | Validation tools |
+| `txt.ucash.eth` | TXT Records | 🟡 Dev | TXT records |
+| `xml.ucash.eth` | XML Services | 🟡 Dev | XML data |
+| `md.ucash.eth` | Markdown | 🟡 Dev | Markdown docs |
+| `sitemap.ucash.eth` | Sitemap | 🟡 Dev | Site map |
+| `whois.ucash.eth` | WHOIS | 🟡 Dev | WHOIS services |
+| `manager.ucash.eth` | Manager | 🟡 Dev | Manager tools |
+| `premium.ucash.eth` | Premium | 🟡 Dev | Premium services |
+| `channel.ucash.eth` | Channel | 🟡 Dev | Communication |
+| `cash.ucash.eth` | Cash | 🟡 Dev | Cash brand |
+| `builders.ucash.eth` | Builders | 🟡 Dev | Builder community |
 
 ---
 
@@ -214,6 +273,7 @@ Chain-specific token deployments:
 | `swarm.ucash.eth` | Swarm | Swarm storage | 🟡 Dev |
 | `onion.ucash.eth` | Tor/I2P | Onion routing | 🟡 Dev |
 | `skynet.ucash.eth` | Skynet | Skynet storage | 🟡 Dev |
+| `hosting.ucash.eth` | Hosting | 🟡 Dev | Web hosting |
 
 ---
 
@@ -302,6 +362,7 @@ Chain-specific token deployments:
 | `technology.ucash.eth` | Technology TLD | 🟡 Dev |
 | `productions.ucash.eth` | Productions TLD | 🟡 Dev |
 | `exchange.ucash.eth` | Exchange TLD | 🟡 Dev |
+| `brand.ucash.eth` | Brand | 🟡 Dev | Brand guidelines |
 
 ---
 
@@ -316,6 +377,9 @@ Chain-specific token deployments:
 | `productions.ucash.eth` | Productions | 🟡 Dev |
 | `exchange.ucash.eth` | Exchange | 🟡 Dev |
 | `channel.ucash.eth` | Channel | 🟡 Dev |
+| `premium.ucash.eth` | Premium | 🟡 Dev | Premium services |
+| `meta.ucash.eth` | Metaverse | 🟡 Dev | Metaverse services |
+| `claw.ucash.eth` | CLAW | 🟡 Dev | CLAW platform |
 
 ---
 
@@ -386,5 +450,5 @@ If you encounter issues with a subdomain:
 
 ---
 
-*Last Updated: 2026-04-21*
-*Next Review: 2026-05-21*
+*Last Updated: 2026-04-25*
+*Next Review: 2026-05-25*
