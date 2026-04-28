@@ -238,7 +238,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `u.dao.eth` | Ethereum | **Aragon DAO** | [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/u.dao.eth/dashboard) | DAO management |
 | `ada@ucash` | Cardano | **Ada Names** | [handle.me](https://handle.me/ucash) | Cardano handle |
 | `sui@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
-| `lens@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
+| `ucash.lens` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
 
 ### 🌐 Public Registration TLDs
 
