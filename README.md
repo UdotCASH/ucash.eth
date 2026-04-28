@@ -240,7 +240,6 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `sui@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
 | `lens@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
 | `fio@ucash` | FIO | **FIO Protocol** | [fio.net](https://fio.net) | FIO handle |
-| `@ucash` | FIO | **FIO Protocol** | [fio.net](https://fio.net) | FIO handle |
 
 ### 🌐 Public Registration TLDs
 
