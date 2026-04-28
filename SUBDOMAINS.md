@@ -8,7 +8,7 @@
 
 This document lists all official subdomains under `ucash.eth` and their purposes.
 
-**Total Active Subdomains**: 309+
+**Total Active Subdomains**: 300+
 **Manager**: Controlled by ucash.eth owner
 
 All subdomains resolve to verified addresses or services.

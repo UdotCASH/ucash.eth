@@ -25,7 +25,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | Attribute | Value |
 |-------------|-------|
 | **Primary ENS** | `ucash.eth` |
-| **Total ENS Subnames** | **309+ Development** |
+| **Total ENS Subnames** | **300+ Development** |
 | **Multi-Chain Names** | **15+ Active** |
 | **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP, Litecoin, Monero, Sui, Cardano, TON, Bittensor, Bitcoin Cash, FIO |
 | **Status** | 🟡&nbsp;Development |
@@ -36,7 +36,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 `ucash.eth` is the **official ENS identity** for UCASH, providing:
 
 - ✅ **Human-Readable Identity** - Easy to remember name instead of 0x addresses
-- ✅ **Massive Subname Infrastructure** - 309+ active subdomains
+- ✅ **Massive Subname Infrastructure** - 300+ active subdomains
 - ✅ **Multi-Chain Presence** - Consistent naming across all networks
 - ✅ **Trust & Verification** - Cryptographically verifiable on-chain records
 - ✅ **Payment Simplification** - Send tokens to `ucash.eth` instead of addresses
@@ -276,7 +276,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ## 🌳 Live Subnames - Complete Directory
 
-> **Total Active Subnames**: 309+<br>
+> **Total Active Subnames**: 300+<br>
 > **Last Updated**: 2026-04-25<br>
 > **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
@@ -1190,11 +1190,11 @@ await wallet.sendTransaction({
 ## ❓ FAQ
 
 **Q: How many subdomains does ucash.eth have?**
-<br>A: **309+ subdomains** currently in development (as of 2026-04-25)
+<br>A: **300+ subdomains** currently in development (as of 2026-04-25)
 
 **Q: What multi-chain names does UCASH have available?**
 <br>A: UCASH has **15+ blockchain names active** across:
-- ENS: `ucash.eth` (309+ subdomains)
+- ENS: `ucash.eth` (300+ subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
 - SpaceID: `ucash.arb`, `ucash.bnb`, `ucash.g`
@@ -1217,7 +1217,7 @@ await wallet.sendTransaction({
 <br>A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, XRP, Litecoin, Monero, Sui, Cardano, TON, Bittensor, and Bitcoin Cash
 
 **Q: Are all subdomains active?**
-<br>A: All 309+ subdomains are currently in development status
+<br>A: All 300+ subdomains are currently in development status
 
 **Q: What storage networks are integrated?**
 <br>A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
@@ -1288,6 +1288,6 @@ Official UCASH team will **NEVER**:
 ---
 
 *Last Updated: 2026-04-25*<br>
-*Total ENS Subnames: 309+*<br>
+*Total ENS Subnames: 300+*<br>
 *Multi-Chain Names: 15+*<br>
 *Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
