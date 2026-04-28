@@ -263,36 +263,122 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ### Naming Service Details
 
+#### Ethereum Name Service (ENS)
+- Native to Ethereum blockchain
+- Uses `.eth` TLD
+- Primary ENS with 300+ subnames
+- Supports subdomain infrastructure
+- **Registry**: [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth)
+
 #### Layer 2 ENS (L2 ENS)
 - **Base Names**: Native ENS on Base network
 - **Linea Names**: Native ENS on Linea network
 - Both support subdomain infrastructure similar to mainnet ENS
+- **Base Registry**: [base.org/name/ucash](https://www.base.org/name/ucash)
+- **Linea Registry**: [names.linea.build](https://names.linea.build/ucash.linea.eth)
+
+#### Aragon DAO
+- DAO management platform on Ethereum
+- Uses `.dao.eth` subdomain format
+- Supports decentralized organization governance
+- **Registry**: [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/ucash.dao.eth/dashboard)
 
 #### SpaceID
 - Multi-chain identity protocol
-- Supports Arbitrum, BNB Chain, and other networks
+- Supports Arbitrum, BNB Chain, and Gravity Alpha networks
 - No `.eth` suffix - uses `.arb`, `.bnb`, `.g` TLDs
+- **Registry**: [space.id](https://www.space.id)
 
-#### Solana Name Service
+#### Solana Name Service (SNS)
 - Native to Solana blockchain
 - Uses `.sol` TLD
 - Point to Solana addresses
+- **Registry**: [sns.id](https://www.sns.id/domain/ucash)
 
 #### Unstoppable Domains (UD)
 - `.polygon` - Polygon-specific domain
 - `.u` - **.U TLD** - Ucosystem TLD (Universal Web3 Names)
+- `.ltc`, `.xmr`, `.bch` - Blockchain-specific domains
+- `.brave`, `.onchain`, `.agi`, `.robot`, `.web3` - Special purpose domains
 - Purchased once, owned forever (no renewal fees)
+- **Registry**: [ud.me](https://ud.me)
 
-#### OP Domains
+#### Optimism Domains (OP Domains)
 - Native to Optimism network
 - Uses `.op` TLD
 - Layer 2 naming for Optimism
+- **Registry**: [optimistic.etherscan.io](https://optimistic.etherscan.io/nft/0xc16acadf99e4540e6f4e6da816fd6d2a2c6e1d4f/1342)
 
 #### Bitcoin Name Service (BNS)
 - Built on Rings Network
 - Uses `.btc` TLD
 - Decentralized peer-to-peer communication network
 - Represents identity of decentralized websites and applications in Rings Network
+- **Registry**: [app.bns.org](https://app.bns.org/name/ucash.btc)
+
+#### XRP Name Service (XRPNS)
+- Native to XRP Ledger
+- Uses `.xrp` TLD
+- XRP Ledger naming service
+- **Registry**: [xrpns.com](https://app.xrpns.com/ucash)
+- **Alternative**: [xrpdomains.xyz](https://xrpdomains.xyz)
+
+#### LTC Names
+- Litecoin naming via Unstoppable Domains
+- Uses `.ltc` TLD
+- **Registry**: [ud.me](https://ud.me/ucash.ltc)
+
+#### XMR Names
+- Monero naming via Unstoppable Domains
+- Uses `.xmr` TLD
+- **Registry**: [ud.me](https://ud.me/ucash.xmr)
+
+#### WeiNS (Wei Name Service)
+- Wei blockchain naming service
+- Uses `.wei` TLD
+- Supports ID names like `id.wei`
+- **Registry**: [wei.is](https://zfi.wei.is/domains/#ucash)
+
+#### TAO Name Service (Bittensor)
+- Bittensor AI network naming
+- Uses `.tao` TLD
+- **Registry**: [nametensor.io](https://nametensor.io/asset/ucash)
+
+#### XNS (X Name Service)
+- Ethereum-based naming service
+- Contract: 0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4
+- **Explorer**: [Etherscan](https://etherscan.io/address/0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4)
+
+#### TonNS (TON Name Service)
+- Native to TON blockchain
+- Uses `.ton` TLD
+- **Registry**: [dns.ton.org](https://dns.ton.org/#ucash)
+
+#### BCH Names
+- Bitcoin Cash naming via Unstoppable Domains
+- Uses `.bch` TLD
+- **Registry**: [ud.me](https://ud.me/ucash.bch)
+
+#### Ada Names (Cardano)
+- Cardano handle service
+- Uses handle format: `name@ucash`
+- **Registry**: [handle.me](https://handle.me/ucash)
+
+#### SuiNS (Sui Name Service)
+- Native to Sui blockchain
+- Uses handle format: `name@ucash`
+- **Registry**: [suivision.xyz](https://suivision.xyz)
+
+#### Lens Protocol
+- Social graph protocol
+- Uses handle format: `name@ucash`
+- **Registry**: [lens.xyz](https://lens.xyz)
+
+#### FIO Protocol
+- Cross-chain payment handling
+- Uses handle format: `name@ucash`
+- Supports multiple blockchains
+- **Registry**: [fio.net](https://fio.net)
 
 ---
 
