@@ -236,9 +236,9 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `ucash.robot` | Robot | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.robot) | Robot identity |
 | `ucash.web3` | Web3 | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.web3) | Web3 identity |
 | `u.dao.eth` | Ethereum | **Aragon DAO** | [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/u.dao.eth/dashboard) | DAO management |
-| `*@ucash` | Cardano | **Ada Names** | [handle.me](https://handle.me/ucash) | Cardano handle |
-| `*@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
-| `*@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
+| `ada@ucash` | Cardano | **Ada Names** | [handle.me](https://handle.me/ucash) | Cardano handle |
+| `sui@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
+| `lens@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
 
 ### 🌐 Public Registration TLDs
 
@@ -774,8 +774,8 @@ ucash.eth
 │   ├── Robot Names: ucash.robot
 │   ├── Web3 Name: ucash.web3
 │   ├── DAO.eth Name: ucash.dao.eth
-│   ├── ADA Handle: ucash.ada
-│   ├── SUI Name Service: ucash.sui
+│   ├── ADA Handle: ada@ucash
+│   ├── SUI Name Service: sui@ucash
 │   └── Lens Protocol: ucash.lens
 └── Address Records (1 configured)
     └── eth: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
@@ -840,8 +840,8 @@ ucash.eth
 | `Robot Names` | ucash.robot | Robot Name |
 | `Web3 Name` | ucash.web3 | Web3 Identity |
 | `DAO.eth Name` | ucash.dao.eth | DAO Name |
-| `ADA Handle` | ucash.ada | Cardano Handle |
-| `SUI Name Service` | ucash.sui | Sui Name |
+| `ADA Handle` | ada@ucash | Cardano Handle |
+| `SUI Name Service` | sui@ucash | Sui Name |
 | `Lens Protocol` | ucash.lens | Lens Handle |
 
 ### Address Records
@@ -915,8 +915,8 @@ Based on subdomains, UCASH supports:
 | **XRP Ledger** | xrp.ucash.eth | `ucash.xrp` | XRP Name Service | 🟡&nbsp;Dev |
 | **Litecoin** | ltc.ucash.eth | `ucash.ltc` | LTC Names | 🟡&nbsp;Dev |
 | **Monero** | xmr.ucash.eth | `ucash.xmr` | XMR Names | 🟡&nbsp;Dev |
-| **Sui** | sui.ucash.eth | `ucash.sui` | Sui Naming | 🟡&nbsp;Dev |
-| **Cardano** | ada.ucash.eth | `ucash.ada` | Cardano Naming | 🟡&nbsp;Dev |
+| **Sui** | sui.ucash.eth | `sui@ucash` | Sui Naming | 🟡&nbsp;Dev |
+| **Cardano** | ada.ucash.eth | `ada@ucash` | Cardano Naming | 🟡&nbsp;Dev |
 | **TON** | ton.ucash.eth | `ucash.ton` | TON DNS | 🟡&nbsp;Dev |
 | **Bittensor** | tao.ucash.eth | `ucash.tao` | Bittensor Naming | 🟡&nbsp;Dev |
 | **Bitcoin Cash** | bch.ucash.eth | `ucash.bch` | BCH Naming | 🟡&nbsp;Dev |
@@ -1230,8 +1230,8 @@ await wallet.sendTransaction({
 - XRPNS: `ucash.xrp`
 - LTC Names: `ucash.ltc`
 - XMR Names: `ucash.xmr`
-- Sui Naming: `ucash.sui`
-- Cardano Naming: `ucash.ada`
+- Sui Naming: `sui@ucash`
+- Cardano Naming: `ada@ucash`
 - TON DNS: `ucash.ton`
 - Bittensor Naming: `ucash.tao`
 - FIO Protocol: `ucash@u`
