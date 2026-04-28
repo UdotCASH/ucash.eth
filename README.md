@@ -153,6 +153,7 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 | 🚀 **Feb 2026** | **UN4** | UN4 platform launch |
 | 🔗 **Apr 2026** | **UCASH.ETH (ENS)** | Full ENS integration |
 | 🏷️ **Jun 2026** | **Web3 Handles (@u)** | Web3 handle system |
+| 🌐 **Aug 2026** | **ICANN TLDs** | Applications Close |
 | 🎬 **Sep 2026** | **U.PRODUCTIONS** | Productions arm launch |
 | 🔄 **Nov 2026** | **Full Ecosystem Relaunch** | Complete ecosystem upgrade |
 | 🎉 **Jan 2027** | **U Org** | U Org 10th Anniversary |
