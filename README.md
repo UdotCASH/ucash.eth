@@ -25,7 +25,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | Attribute | Value |
 |-------------|-------|
 | **Primary ENS** | `ucash.eth` |
-| **Total ENS Subnames** | **265+ Development** |
+| **Total ENS Subnames** | **309+ Development** |
 | **Multi-Chain Names** | **15+ Active** |
 | **Networks** | Ethereum, Base, Linea, Arbitrum, BNB, Solana, Polygon, Optimism, Bitcoin, Gravity, XRP, Litecoin, Monero, Sui, Cardano, TON, Bittensor, Bitcoin Cash, FIO |
 | **Status** | 🟡&nbsp;Development |
@@ -36,7 +36,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 `ucash.eth` is the **official ENS identity** for UCASH, providing:
 
 - ✅ **Human-Readable Identity** - Easy to remember name instead of 0x addresses
-- ✅ **Massive Subname Infrastructure** - 265+ active subdomains
+- ✅ **Massive Subname Infrastructure** - 309+ active subdomains
 - ✅ **Multi-Chain Presence** - Consistent naming across all networks
 - ✅ **Trust & Verification** - Cryptographically verifiable on-chain records
 - ✅ **Payment Simplification** - Send tokens to `ucash.eth` instead of addresses
@@ -276,7 +276,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 
 ## 🌳 Live Subnames - Complete Directory
 
-> **Total Active Subnames**: 265+<br>
+> **Total Active Subnames**: 309+<br>
 > **Last Updated**: 2026-04-25<br>
 > **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
@@ -347,6 +347,13 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | `extension.ucash.eth` | Extension | Browser extension | 🟡&nbsp;Dev |
 | `meta.ucash.eth` | Metaverse | Metaverse services | 🟡&nbsp;Dev |
 | `claw.ucash.eth` | CLAW | CLAW platform | 🟡&nbsp;Dev |
+| `tasks.ucash.eth` | Tasks | Task management | 🟡&nbsp;Dev |
+| `services.ucash.eth` | Services | Services directory | 🟡&nbsp;Dev |
+| `key.ucash.eth` | Key | Key management | 🟡&nbsp;Dev |
+| `manage.ucash.eth` | Manage | Management services | 🟡&nbsp;Dev |
+| `units.ucash.eth` | Units | UNITS token | 🟡&nbsp;Dev |
+| `index.ucash.eth` | Index | Index directory | 🟡&nbsp;Dev |
+| `🤖.ucash.eth` | 🤖 | AI Services (Emoji) | 🟡&nbsp;Dev |
 
 ### 🔧 Smart Contracts & Protocol
 
@@ -382,6 +389,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | `wallet.ucash.eth` | Wallet | Crypto wallet | 🟡&nbsp;Dev |
 | `markets.ucash.eth` | Markets | Market data | 🟡&nbsp;Dev |
 | `agents.ucash.eth` | AI Agents | AI agent services | 🟡&nbsp;Dev |
+| `premium.ucash.eth` | Premium | Premium services | 🟡&nbsp;Dev |
 
 ### 🌐 Network-Specific Subnames
 
@@ -637,6 +645,47 @@ Chain-specific token deployments:
 | `productions.ucash.eth` | Productions | 🟡&nbsp;Dev |
 | `exchange.ucash.eth` | Exchange | 🟡&nbsp;Dev |
 | `channel.ucash.eth` | Channel | 🟡&nbsp;Dev |
+
+### 🎨 Emoji & Icon Subnames
+
+| Subname | Purpose | Status          |
+|-------------|---------|-------------|
+| `🏰.ucash.eth` | Castle | 🟡&nbsp;Dev |
+| `🛕.ucash.eth` | Temple | 🟡&nbsp;Dev |
+| `🐘.ucash.eth` | Elephant | 🟡&nbsp;Dev |
+| `🗿.ucash.eth` | Moai | 🟡&nbsp;Dev |
+| `🐉.ucash.eth` | Dragon | 🟡&nbsp;Dev |
+| `📡.ucash.eth` | Satellite | 🟡&nbsp;Dev |
+| `🧊.ucash.eth` | Ice | 🟡&nbsp;Dev |
+| `🗽.ucash.eth` | Statue of Liberty | 🟡&nbsp;Dev |
+| `🍁.ucash.eth` | Maple Leaf | 🟡&nbsp;Dev |
+| `🏦.ucash.eth` | Bank | 🟡&nbsp;Dev |
+| `🏆.ucash.eth` | Trophy | 🟡&nbsp;Dev |
+| `🪄.ucash.eth` | Magic Wand | 🟡&nbsp;Dev |
+| `⚡.ucash.eth` | Lightning | 🟡&nbsp;Dev |
+| `🎯.ucash.eth` | Bullseye | 🟡&nbsp;Dev |
+| `👽.ucash.eth` | Alien | 🟡&nbsp;Dev |
+| `🤯.ucash.eth` | Exploding Head | 🟡&nbsp;Dev |
+| `🔧.ucash.eth` | Tool | 🟡&nbsp;Dev |
+| `💎.ucash.eth` | Gem | 🟡&nbsp;Dev |
+| `☁.ucash.eth` | Cloud | 🟡&nbsp;Dev |
+| `🌙.ucash.eth` | Moon | 🟡&nbsp;Dev |
+| `💱.ucash.eth` | Currency Exchange | 🟡&nbsp;Dev |
+| `👑.ucash.eth` | Crown | 🟡&nbsp;Dev |
+| `🪙.ucash.eth` | Coin | 🟡&nbsp;Dev |
+| `🛟.ucash.eth` | Wheelchair | 🟡&nbsp;Dev |
+| `📙.ucash.eth` | Orange Book | 🟡&nbsp;Dev |
+| `💵.ucash.eth` | Dollar Bill | 🟡&nbsp;Dev |
+| `❔.ucash.eth` | Question Mark | 🟡&nbsp;Dev |
+| `✅.ucash.eth` | Check Mark | 🟡&nbsp;Dev |
+| `🏢.ucash.eth` | Office Building | 🟡&nbsp;Dev |
+| `📺.ucash.eth` | Television | 🟡&nbsp;Dev |
+| `🔗.ucash.eth` | Link | 🟡&nbsp;Dev |
+| `🛒.ucash.eth` | Shopping Cart | 🟡&nbsp;Dev |
+| `🌐.ucash.eth` | Globe | 🟡&nbsp;Dev |
+| `🔑.ucash.eth` | Key | 🟡&nbsp;Dev |
+| `⛓.ucash.eth` | Chains | 🟡&nbsp;Dev |
+| `🤖.ucash.eth` | Robot | 🟡&nbsp;Dev |
 
 ---
 
@@ -1141,11 +1190,11 @@ await wallet.sendTransaction({
 ## ❓ FAQ
 
 **Q: How many subdomains does ucash.eth have?**
-<br>A: **265+ subdomains** currently in development (as of 2026-04-25)
+<br>A: **309+ subdomains** currently in development (as of 2026-04-25)
 
 **Q: What multi-chain names does UCASH have available?**
 <br>A: UCASH has **15+ blockchain names active** across:
-- ENS: `ucash.eth` (265+ subdomains)
+- ENS: `ucash.eth` (309+ subdomains)
 - Base Names: `ucash.base.eth`
 - Linea Names: `ucash.linea.eth`
 - SpaceID: `ucash.arb`, `ucash.bnb`, `ucash.g`
@@ -1168,7 +1217,7 @@ await wallet.sendTransaction({
 <br>A: Ethereum, Polygon, Base, Arbitrum, Optimism, Linea, Solana, BNB Chain, Bitcoin, Gravity, XRP, Litecoin, Monero, Sui, Cardano, TON, Bittensor, and Bitcoin Cash
 
 **Q: Are all subdomains active?**
-<br>A: All 265+ subdomains are currently in development status
+<br>A: All 309+ subdomains are currently in development status
 
 **Q: What storage networks are integrated?**
 <br>A: DNS, IPFS, Arweave, Swarm, Skynet, and Tor/I2P (onion)
@@ -1239,6 +1288,6 @@ Official UCASH team will **NEVER**:
 ---
 
 *Last Updated: 2026-04-25*<br>
-*Total ENS Subnames: 265+*<br>
+*Total ENS Subnames: 309+*<br>
 *Multi-Chain Names: 15+*<br>
 *Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
