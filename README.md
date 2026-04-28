@@ -202,22 +202,43 @@ UCASH is a **network loyalty, rewards, and utility asset** that has been buildin
 
 UCASH maintains consistent naming across multiple blockchain naming services beyond ENS:
 
-| Name | Network | Naming Service | Notes |
-|------|---------|----------------|------|
-| `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 300+ subnames |
-| `ucash.base.eth` | Base | **Base Names** | Layer 2 ENS on Base network |
-| `ucash.linea.eth` | Linea | **Linea Names** | Layer 2 ENS on Linea network |
-| `ucash.arb` | Arbitrum | **SpaceID** | Arbitrum naming service |
-| `ucash.bnb` | BNB Chain | **SpaceID** | BNB Chain naming service |
-| `ucash.g` | Gravity Alpha | **SpaceID** | Gravity Alpha naming |
-| `ucash.sol` | Solana | **Solana Name Service** | Solana native naming |
-| `ucash.polygon` | Polygon | **Unstoppable Domains** | Polygon naming |
-| `ucash.op` | Optimism | **Optimism Domains** | Optimism naming |
-| `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | BNS on Rings Network |
-| `ucash.xrp` | XRP | **XRP Name Service** | XRP Ledger naming |
-| `ucash.ltc` | Litecoin | **LTC Names** | Litecoin naming |
-| `ucash.xmr` | Monero | **XMR Names** | Monero naming |
-| `ucash.u` | Universal | **Ucosystem TLD** | Universal Web3 Names |
+| Name | Network | Naming Service | Link | Notes |
+|------|---------|----------------|------|------|
+| `ucash.eth` | Ethereum | **Ethereum Name Service** | [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth) | Primary ENS with 300+ subnames |
+| `ucash.base.eth` | Base | **Base Names** | [base.org/name/ucash](https://www.base.org/name/ucash) | Layer 2 ENS on Base network |
+| `ucash.linea.eth` | Linea | **Linea Names** | [names.linea.build](https://names.linea.build/ucash.linea.eth) | Layer 2 ENS on Linea network |
+| `ucash.dao.eth` | Ethereum | **Aragon DAO** | [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/ucash.dao.eth/dashboard) | DAO management |
+| `ucash.arb` | Arbitrum | **SpaceID** | [space.id](https://www.space.id/name/2/2293810926277630588142465672338072118637850604359061272978979383495056067200) | Arbitrum naming service |
+| `ucash.bnb` | BNB Chain | **SpaceID** | [space.id](https://www.space.id/name/1/2293810926277630588142465672338072118637850604359061272978979383495056067200) | BNB Chain naming service |
+| `ucash.g` | Gravity Alpha | **SpaceID** | [space.id](https://www.space.id/name/23/2293810926277630588142465672338072118637850604359061272978979383495056067200) | Gravity Alpha naming |
+| `ucash.sol` | Solana | **Solana Name Service** | [sns.id](https://www.sns.id/domain/ucash) | Solana native naming |
+| `ucash.polygon` | Polygon | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.polygon) | Polygon naming |
+| `ucash.op` | Optimism | **Optimism Domains** | [OP Domains](https://optimistic.etherscan.io/nft/0xc16acadf99e4540e6f4e6da816fd6d2a2c6e1d4f/1342) | Optimism naming |
+| `ucash.btc` | Bitcoin | **Bitcoin Name Service (BNS)** | [bns.org](https://app.bns.org/name/ucash.btc) | BNS on Rings Network |
+| `ucash.xrp` | XRP | **XRP Name Service** | [xrpns.com](https://app.xrpns.com/ucash) | XRP Ledger naming |
+| `ucash.ltc` | Litecoin | **LTC Names** | [ud.me](https://ud.me/ucash.ltc) | Litecoin naming |
+| `ucash.xmr` | Monero | **XMR Names** | [ud.me](https://ud.me/ucash.xmr) | Monero naming |
+| `ucash.u` | Universal | **Ucosystem TLD** | [ud.me](https://ud.me/ucash.u) | Universal Web3 Names |
+
+### Additional Name Services
+
+| Name | Network | Naming Service | Link | Notes |
+|------|---------|----------------|------|------|
+| `ucash.wei` | Wei | **WeiNS** | [wei.is](https://zfi.wei.is/domains/#ucash) | Wei naming |
+| `ucash.id.wei` | Wei | **WeiNS** | [wei.is](https://zfi.wei.is/domains/#ucash.id) | Wei ID naming |
+| `ucash.bch` | Bitcoin Cash | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.bch) | Bitcoin Cash naming |
+| `ucash.tao` | Bittensor | **TAO Name Service** | [nametensor.io](https://nametensor.io/asset/ucash) | Bittensor naming |
+| `ucash.xns` | XNS | **XNS** | [Etherscan](https://etherscan.io/address/0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4) | XNS naming |
+| `ucash.ton` | TON | **TonNS** | [dns.ton.org](https://dns.ton.org/#ucash) | TON naming |
+| `ucash.brave` | Brave | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.brave) | Brave integration |
+| `ucash.onchain` | Onchain | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.onchain) | Onchain identity |
+| `ucash.agi` | AGI | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.agi) | AGI identity |
+| `ucash.robot` | Robot | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.robot) | Robot identity |
+| `ucash.web3` | Web3 | **Unstoppable Domains** | [ud.me](https://ud.me/ucash.web3) | Web3 identity |
+| `u.dao.eth` | Ethereum | **Aragon DAO** | [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/u.dao.eth/dashboard) | DAO management |
+| `*@ucash` | Cardano | **Ada Names** | [handle.me](https://handle.me/ucash) | Cardano handle |
+| `*@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
+| `*@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
 
 ### 🌐 Public Registration TLDs
 
@@ -226,7 +247,7 @@ UCASH operates TLDs open for public registration, allowing anyone to claim their
 | TLD | Platform | Type | Registration | Stats |
 |-----|----------|------|-------------|-------|
 | **.U** | [Unstoppable Domains](https://unstoppabledomains.com) | Web3 Domain | [Register Now](https://get.unstoppabledomains.com/u/) | 🔐 22,000+ claimed |
-| **@U** | [FIO Protocol](https://fio.net) | Web3 Handle | Opening Soon | Public registration opening soon |
+| **@U** | [FIO Protocol](https://fio.net) | Web3 Handle | [Register](https://fio.net) | Public registration opening soon |
 
 **Why register a .U domain?**
 - 🔗 **Multi-chain address** — Replace long wallet addresses with `yourname.u`
@@ -1053,6 +1074,7 @@ BNS (Bitcoin Network System) is a decentralized network based on Rings Network, 
 **Apps & Managers:**
 - [XRPNS.com](https://www.xrpns.com/) - Official XRPNS manager
 - [XRP Name Service](https://xrpname.com/) - Name registration
+- [XRP Domains](https://xrpdomains.xyz) - XRP domain services
 
 **Explorers:**
 - [XRPL Services](https://xrpscan.com) - XRP ledger explorer
