@@ -898,7 +898,6 @@ Based on subdomains, UCASH supports:
 | **Cardano** | ada.ucash.eth | `ucash.ada` | Cardano Naming | 🟡&nbsp;Dev |
 | **TON** | ton.ucash.eth | `ucash.ton` | TON DNS | 🟡&nbsp;Dev |
 | **Bittensor** | tao.ucash.eth | `ucash.tao` | Bittensor Naming | 🟡&nbsp;Dev |
-| **FIO** | fio.ucash.eth | `ucash@u` | FIO Protocol | 🟡&nbsp;Dev |
 | **Bitcoin Cash** | bch.ucash.eth | `ucash.bch` | BCH Naming | 🟡&nbsp;Dev |
 
 ### 🔑 Supported Wallets, Apps & Explorers
