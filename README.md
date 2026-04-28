@@ -3,7 +3,7 @@
 <div align="center">
 
 [![ENS](https://img.shields.io/badge/ENS-ucash.eth-blue)](https://app.ens.domains/ucash.eth)
-[![Subnames](https://img.shields.io/badge/Subnames-265%2B%20In%20Dev-yellow)](https://app.ens.domains/ucash.eth?tab=subnames)
+[![Subnames](https://img.shields.io/badge/Subnames-300%2B%20In%20Dev-yellow)](https://app.ens.domains/ucash.eth?tab=subnames)
 [![MultiChain](https://img.shields.io/badge/MultiChain-15%2B%20Names-ff69b4)](https://github.com/UdotCASH/ucash.eth)
 [![Status](https://img.shields.io/badge/Status-In%20Dev-yellow)](https://etherscan.io)
 [![Network](https://img.shields.io/badge/Network-Multi%20Chain-purple)](https://etherscan.io)
@@ -92,7 +92,7 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 UCASH is a **network loyalty, rewards, and utility asset** that has been building innovative Web3 infrastructure since 2015. Our founders have been active in the Bitcoin industry since 2012. Our ecosystem encompasses:
 
 - ✨ **Multi-chain presence** across 10+ blockchain networks
-- 🏗️ **100+ subdomains** providing decentralized services
+- 🏗️ **300+ subdomains** providing decentralized services
 - 🌐 **1,200+ active sites** across various industries and niches
 - 🔧 **20+ apps, dApps and services** live and deployed globally
 - 🤖 **AI-powered tools** and automated services
@@ -204,7 +204,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 
 | Name | Network | Naming Service | Notes |
 |------|---------|----------------|------|
-| `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 100+ subnames |
+| `ucash.eth` | Ethereum | **Ethereum Name Service** | Primary ENS with 300+ subnames |
 | `ucash.base.eth` | Base | **Base Names** | Layer 2 ENS on Base network |
 | `ucash.linea.eth` | Linea | **Linea Names** | Layer 2 ENS on Linea network |
 | `ucash.arb` | Arbitrum | **SpaceID** | Arbitrum naming service |
@@ -697,7 +697,7 @@ Chain-specific token deployments:
 ucash.eth
 ├── Owner/Manager: [OWNER_ADDRESS]
 ├── Resolver: Public Resolver
-├── Total Subnames: 100+
+├── Total Subnames: 300+
 ├── Registration: [REGISTRATION_DATE]
 ├── Text Records (55 configured)
 │   ├── email: info@u.cash
@@ -837,11 +837,11 @@ ucash.eth
 
 ### By Purpose
 
-#### Core Services (70+ subdomains)
-- www, app, api, docs, info, readme, admin, dev, test, testnet, global, pay, tx, address, invoice, dex, box, subnames, ai, usdc, dai, usdt, git, history, actions, mail, payments, records, finance, store, action, ipns, explorer, about, eth, connect, sdk, pages, gateway, automation, mission, workers, worker, naming, auth, host, contact, learn, blog, faq, knowledgebase, android, ios, data, home, -, brave, web3, uni, page, extension, meta, claw
+#### Core Services (80+ subdomains)
+- www, app, api, docs, info, readme, admin, dev, test, testnet, global, pay, tx, address, invoice, dex, box, subnames, ai, usdc, dai, usdt, git, history, actions, mail, payments, records, finance, store, action, ipns, explorer, about, eth, connect, sdk, pages, gateway, automation, mission, workers, worker, naming, auth, host, contact, learn, blog, faq, knowledgebase, android, ios, data, home, -, brave, web3, uni, page, extension, meta, claw, tasks, services, key, manage, units, index
 
-#### DeFi/Financial (35 subdomains)
-- batch, contracts, contract, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity, validator, nft, wallet, markets, agents, usdc, dai, usdt
+#### DeFi/Financial (36 subdomains)
+- batch, contracts, contract, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity, validator, nft, wallet, markets, agents, usdc, dai, usdt, units
 
 #### Infrastructure (23 subdomains)
 - scan, verify, link, mgr, nic, support, bounties, news, network, validate, txt, xml, md, sitemap, whois, manager, dns, ens, domains, names, uns, linked
@@ -863,6 +863,9 @@ ucash.eth
 
 #### Brand (10 subdomains)
 - brand, cash, builders, technology, productions, exchange, channel, premium, meta, claw
+
+#### Emoji/Icon (37 subdomains - emoji-based names)
+- 🏰, 🛕, 🐘, 🗿, 🐉, 📡, 🧊, 🗽, 🍁, 🏦, 🏆, 🪄, ⚡, 🎯, 👽, 🤯, 🔧, 💎, ☁, 🌙, 💱, 👑, 🪙, 🛟, 📙, 💵, ❔, ✅, 🏢, 📺, 🔗, 🛒, 🌐, 🔑, ⛓, 🤖
 
 #### Sub-Subnames (45 subdomains - 3rd-level names)
 - base.bridge, polygon.bridge, arb.bridge, op.bridge, linea.bridge, bnb.bridge, sol.bridge, btc.bridge, g.bridge (9 bridges)
@@ -1098,7 +1101,7 @@ BNS (Bitcoin Network System) is a decentralized network based on Rings Network, 
 ### Critical Security Information
 
 ⚠️ **IMPORTANT**:
-- All 100+ subdomains are **Manager-controlled** (owned by ucash.eth owner)
+- All 300+ subdomains are **Manager-controlled** (owned by ucash.eth owner)
 - Only trust addresses from this repository
 - Never trust addresses from unofficial sources
 - Always verify subdomains on [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth)
