@@ -238,7 +238,7 @@ UCASH maintains consistent naming across multiple blockchain naming services bey
 | `u.dao.eth` | Ethereum | **Aragon DAO** | [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/u.dao.eth/dashboard) | DAO management |
 | `ada@ucash` | Cardano | **Ada Names** | [handle.me](https://handle.me/ucash) | Cardano handle |
 | `sui@ucash` | Sui | **SuiNS** | [suivision.xyz](https://suivision.xyz/object/0x08c6287f9367a8e32e4194deb234fc6e6aa755cf6cb54a2cc1f014da99a8ac8e) | Sui handle |
-| `ucash.lens` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
+| `lens@ucash` | Lens | **Lens Protocol** | [lens.xyz](https://lens.xyz) | Lens handle |
 
 ### 🌐 Public Registration TLDs
 
@@ -776,7 +776,7 @@ ucash.eth
 │   ├── DAO.eth Name: ucash.dao.eth
 │   ├── ADA Handle: ada@ucash
 │   ├── SUI Name Service: sui@ucash
-│   └── Lens Protocol: ucash.lens
+│   └── Lens Protocol: lens@ucash
 └── Address Records (1 configured)
     └── eth: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
 ```
@@ -842,7 +842,7 @@ ucash.eth
 | `DAO.eth Name` | ucash.dao.eth | DAO Name |
 | `ADA Handle` | ada@ucash | Cardano Handle |
 | `SUI Name Service` | sui@ucash | Sui Name |
-| `Lens Protocol` | ucash.lens | Lens Handle |
+| `Lens Protocol` | lens@ucash | Lens Handle |
 
 ### Address Records
 
