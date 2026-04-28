@@ -8,7 +8,7 @@
 
 This document lists all official subdomains under `ucash.eth` and their purposes.
 
-**Total Active Subdomains**: 265+
+**Total Active Subdomains**: 309+
 **Manager**: Controlled by ucash.eth owner
 
 All subdomains resolve to verified addresses or services.
@@ -73,6 +73,13 @@ All subdomains resolve to verified addresses or services.
 | `extension.ucash.eth` | Extension | 🟡 Dev | Browser extension |
 | `meta.ucash.eth` | Metaverse | 🟡 Dev | Metaverse services |
 | `claw.ucash.eth` | CLAW | 🟡 Dev | CLAW platform |
+| `tasks.ucash.eth` | Tasks | 🟡 Dev | Task management |
+| `services.ucash.eth` | Services | 🟡 Dev | Services directory |
+| `key.ucash.eth` | Key | 🟡 Dev | Key management |
+| `manage.ucash.eth` | Manage | 🟡 Dev | Management services |
+| `units.ucash.eth` | Units | 🟡 Dev | UNITS token |
+| `index.ucash.eth` | Index | 🟡 Dev | Index directory |
+| `🤖.ucash.eth` | 🤖 | 🟡 Dev | AI Services (Emoji) |
 | `info.ucash.eth` | Information | 🟡 Dev | General info |
 | `readme.ucash.eth` | README | 🟡 Dev | Project README |
 | `global.ucash.eth` | Global | 🟡 Dev | Global operations |
@@ -380,6 +387,48 @@ Chain-specific token deployments:
 | `premium.ucash.eth` | Premium | 🟡 Dev | Premium services |
 | `meta.ucash.eth` | Metaverse | 🟡 Dev | Metaverse services |
 | `claw.ucash.eth` | CLAW | 🟡 Dev | CLAW platform |
+
+---
+
+## 🎨 Emoji & Icon Subdomains
+
+| Subdomain | Purpose | Status |
+|-----------|---------|--------|
+| `🏰.ucash.eth` | Castle | 🟡 Dev |
+| `🛕.ucash.eth` | Temple | 🟡 Dev |
+| `🐘.ucash.eth` | Elephant | 🟡 Dev |
+| `🗿.ucash.eth` | Moai | 🟡 Dev |
+| `🐉.ucash.eth` | Dragon | 🟡 Dev |
+| `📡.ucash.eth` | Satellite | 🟡 Dev |
+| `🧊.ucash.eth` | Ice | 🟡 Dev |
+| `🗽.ucash.eth` | Statue of Liberty | 🟡 Dev |
+| `🍁.ucash.eth` | Maple Leaf | 🟡 Dev |
+| `🏦.ucash.eth` | Bank | 🟡 Dev |
+| `🏆.ucash.eth` | Trophy | 🟡 Dev |
+| `🪄.ucash.eth` | Magic Wand | 🟡 Dev |
+| `⚡.ucash.eth` | Lightning | 🟡 Dev |
+| `🎯.ucash.eth` | Bullseye | 🟡 Dev |
+| `👽.ucash.eth` | Alien | 🟡 Dev |
+| `🤯.ucash.eth` | Exploding Head | 🟡 Dev |
+| `🔧.ucash.eth` | Tool | 🟡 Dev |
+| `💎.ucash.eth` | Gem | 🟡 Dev |
+| `☁.ucash.eth` | Cloud | 🟡 Dev |
+| `🌙.ucash.eth` | Moon | 🟡 Dev |
+| `💱.ucash.eth` | Currency Exchange | 🟡 Dev |
+| `👑.ucash.eth` | Crown | 🟡 Dev |
+| `🪙.ucash.eth` | Coin | 🟡 Dev |
+| `🛟.ucash.eth` | Wheelchair | 🟡 Dev |
+| `📙.ucash.eth` | Orange Book | 🟡 Dev |
+| `💵.ucash.eth` | Dollar Bill | 🟡 Dev |
+| `❔.ucash.eth` | Question Mark | 🟡 Dev |
+| `✅.ucash.eth` | Check Mark | 🟡 Dev |
+| `🏢.ucash.eth` | Office Building | 🟡 Dev |
+| `📺.ucash.eth` | Television | 🟡 Dev |
+| `🔗.ucash.eth` | Link | 🟡 Dev |
+| `🛒.ucash.eth` | Shopping Cart | 🟡 Dev |
+| `🌐.ucash.eth` | Globe | 🟡 Dev |
+| `🔑.ucash.eth` | Key | 🟡 Dev |
+| `⛓.ucash.eth` | Chains | 🟡 Dev |
 
 ---
 
