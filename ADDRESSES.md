@@ -29,7 +29,7 @@ Owner: See ENS Manager (https://app.ens.domains/ucash.eth)
 
 ### Verification Methods
 
-1. **ENS Lookup**: https://app.ens.domains/name/ucash.eth
+1. **ENS Lookup**: https://app.ens.domains/ucash.eth
 2. **Etherscan**: Check ENS reverse records
 3. **This Repository**: Cross-reference with addresses below
 

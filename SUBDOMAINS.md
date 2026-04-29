@@ -480,7 +480,7 @@ const address = await provider.resolveName('app.ucash.eth');
 
 **Method 3: ENS Manager**
 ```
-Visit: https://app.ens.domains/name/app.ucash.eth
+Visit: https://app.ens.domains/app.ucash.eth
 ```
 
 ⚠️ **Warning**: Only subdomains listed in this repository are official UCASH subdomains.

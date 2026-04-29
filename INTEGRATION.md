@@ -378,7 +378,7 @@ sendETHToUCASH('1.5');
 function ENSLink({ ens, text }) {
     return (
         <a
-            href={`https://app.ens.domains/name/${ens}`}
+            href={`https://app.ens.domains/${ens}`}
             target="_blank"
             rel="noopener noreferrer"
         >
