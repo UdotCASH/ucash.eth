@@ -24,8 +24,7 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | **Primary ENS** | **ucash.eth** |
 |-----------------|---------------|
 | **Total Subnames** | **300+ (All 🟡 In Development)** |
-| **Multi-Chain Names** | **26+ Networks** [↓ View All](#-web3-names---multi-chain-identity) |
-| **Naming Services** | **18+ Services** |
+| **Multi-Chain Names** | **26+ Networks** |
 | **Token Holders** | **300,000+** |
 | **Users Onboarded** | **650,000+** |
 | **Active Sites** | **1,200+** |
@@ -34,107 +33,6 @@ Multi-chain blockchain infrastructure for batch token distribution and payment s
 | **ENS Manager** | [Manage](https://app.ens.domains/ucash.eth) |
 
 **Status**: 🟡 All subdomains currently in development
-
----
-
-## 🌐 Web3 Names - Multi-Chain Identity
-
-<div align="center">
-
-**UCASH maintains consistent identity across 26+ blockchain networks with unified web3 names**
-
-[![Naming](https://img.shields.io/badge/Naming%20Services-18%2B-brightgreen)]()
-[![Web3](https://img.shields.io/badge/Web3%20Names-26%2B-blue)]()
-[![MultiChain](https://img.shields.io/badge/Coverage-Multi%20Chain-purple)]()
-
-</div>
-
-### 🚀 Why Multi-Chain Names Matter
-
-Having **ucash** registered across 26+ different blockchain naming services demonstrates:
-- ✅ **True decentralization** - Not dependent on a single blockchain
-- ✅ **Brand consistency** - Same recognizable name everywhere
-- ✅ **User accessibility** - Users can find UCASH on any chain
-- ✅ **Future-proof** - Prepared for multi-chain Web3 ecosystem
-- ✅ **Cross-chain compatibility** - Seamless interoperability
-
----
-
-### 🏷️ Complete Web3 Name Registry
-
-#### **Ethereum Ecosystem (4 names)**
-```
-ucash.eth          → Ethereum Name Service
-ucash.base.eth      → Base Names (Layer 2)
-ucash.linea.eth     → Linea Names (Layer 2)
-ucash.dao.eth       → Aragon DAO (Governance)
-```
-
-#### **Multi-Chain Identity (3 names)**
-```
-ucash.arb           → Arbitrum (SpaceID)
-ucash.bnb           → BNB Chain (SpaceID)
-ucash.g              → Gravity Alpha (SpaceID)
-```
-
-#### **Major Blockchains (3 names)**
-```
-ucash.sol           → Solana (Solana Name Service)
-ucash.op            → Optimism (OP Domains)
-ucash.ton           → TON Blockchain (TonNS)
-```
-
-#### **Bitcoin Ecosystem (2 names)**
-```
-ucash.btc           → Bitcoin (Bitcoin Name Service)
-ucash.xrp           → XRP Ledger (XRP Name Service)
-```
-
-#### **Unstoppable Domains - 10 Domains**
-```
-ucash.polygon       → Polygon network identity
-ucash.u             → 🌟 Universal TLD (22,000+ claimed)
-ucash.ltc           → Litecoin identity
-ucash.xmr           → Monero identity
-ucash.bch           → Bitcoin Cash identity
-ucash.brave         → Brave browser integration
-ucash.onchain       → On-chain digital identity
-ucash.agi           → AI/AGI ecosystem identity
-ucash.robot          → Robot/automation identity
-ucash.web3           → Web3 ecosystem identity
-```
-
-#### **Emerging Services (4 names)**
-```
-ucash.wei           → WeiNS (Wei blockchain)
-ucash.id.wei        → WeiNS ID
-ucash.tao           → TAO Name Service (Bittensor AI)
-ucash.xns           → XNS (Ethereum: 0xbcC91...6f4)
-```
-
----
-
-### 📊 Naming Service Breakdown
-
-| Category | Services | Names | Status |
-|----------|----------|-------|--------|
-| **ENS & L2** | ENS, Base, Linea, Aragon | 4 | 🟡 Dev |
-| **SpaceID** | Arbitrum, BNB, Gravity | 3 | 🟡 Dev |
-| **Major L1s** | Solana, Optimism, TON | 3 | 🟡 Dev |
-| **Bitcoin/XRP** | BNS, XRPNS | 2 | 🟡 Dev |
-| **Unstoppable** | 10 different TLDs | 10 | 1 🟢 Active, 9 🟡 Dev |
-| **Emerging** | WeiNS, TAO, XNS | 4 | 🟡 Dev |
-
-**🎯 Total: 26 web3 names across 18+ naming services**
-
----
-
-### 🔗 Quick Links
-
-- **ENS Manager**: [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth)
-- **Space ID**: [space.id](https://www.space.id)
-- **Unstoppable**: [ud.me/ucash.u](https://ud.me/ucash.u)
-- **Full Details**: See [Multi-Chain Presence](#-multi-chain-presence) below for complete links
 
 ---
 
@@ -235,7 +133,32 @@ UCASH is a **network loyalty, rewards, and utility asset** building innovative W
 
 ## 🌐 Multi-Chain Presence
 
-UCASH maintains consistent naming across **26+ blockchain naming services**:
+UCASH maintains consistent naming across **26+ blockchain naming services** with unified web3 identity.
+
+### 🎯 Why Multi-Chain Identity Matters
+
+Having **ucash** registered across 26+ blockchain naming services demonstrates:
+
+- ✅ **True Decentralization** — Not dependent on a single blockchain or naming service
+- ✅ **Brand Consistency** — Same recognizable name across all ecosystems
+- ✅ **User Accessibility** — Users can find UCASH on any chain they use
+- ✅ **Future-Proof** — Prepared for multi-chain Web3 ecosystem
+- ✅ **Cross-Chain Compatibility** — Seamless interoperability across networks
+
+### 📊 At a Glance
+
+| Category | Networks | Names | Services |
+|----------|----------|-------|----------|
+| **ENS & L2** | Ethereum, Base, Linea, Aragon | 4 | ENS, Base Names, Linea Names, Aragon |
+| **SpaceID** | Arbitrum, BNB, Gravity | 3 | SpaceID (multi-chain) |
+| **Major L1s** | Solana, Optimism, TON | 3 | SNS, OP Domains, TonNS |
+| **Bitcoin/XRP** | Bitcoin, XRP | 2 | BNS, XRPNS |
+| **Unstoppable** | 10 TLDs | 10 | Polygon, U, LTC, XMR, BCH, Brave, OnChain, AGI, Robot, Web3 |
+| **Emerging** | Wei, Bittensor, XNS | 4 | WeiNS, TAO NS, XNS |
+
+**Total: 26+ web3 names across 18+ naming services**
+
+---
 
 ### Primary Names
 
@@ -319,6 +242,52 @@ UCASH maintains consistent naming across **26+ blockchain naming services**:
 | Network | ENS Name | Naming Service | Link | Status |
 |---------|----------|----------------|------|--------|
 | **TON** | `ucash.ton` | TonNS | [dns.ton.org](https://dns.ton.org/#ucash) | 🟡 Dev |
+
+---
+
+### 📋 Complete Web3 Names List
+
+Quick reference of all 26 UCASH web3 names:
+
+```
+Ethereum Ecosystem:
+  ucash.eth           → Ethereum Name Service (Primary)
+  ucash.base.eth       → Base Names (Layer 2)
+  ucash.linea.eth      → Linea Names (Layer 2)
+  ucash.dao.eth        → Aragon DAO (Governance)
+
+Multi-Chain Identity:
+  ucash.arb            → Arbitrum (SpaceID)
+  ucash.bnb            → BNB Chain (SpaceID)
+  ucash.g               → Gravity Alpha (SpaceID)
+
+Major Blockchains:
+  ucash.sol            → Solana (Solana Name Service)
+  ucash.op             → Optimism (OP Domains)
+  ucash.ton            → TON Blockchain (TonNS)
+
+Bitcoin Ecosystem:
+  ucash.btc            → Bitcoin (Bitcoin Name Service)
+  ucash.xrp            → XRP Ledger (XRP Name Service)
+
+Unstoppable Domains (10):
+  ucash.polygon        → Polygon
+  ucash.u              → Universal TLD 🌟 (22,000+ claimed)
+  ucash.ltc            → Litecoin
+  ucash.xmr            → Monero
+  ucash.bch            → Bitcoin Cash
+  ucash.brave          → Brave
+  ucash.onchain        → OnChain
+  ucash.agi            → AI/AGI
+  ucash.robot           → Robot
+  ucash.web3           → Web3
+
+Emerging Services:
+  ucash.wei            → WeiNS (Wei blockchain)
+  ucash.id.wei         → WeiNS ID
+  ucash.tao            → TAO Name Service (Bittensor AI)
+  ucash.xns            → XNS (Ethereum: 0xbcC91...6f4)
+```
 
 ### Public Registration TLDs
 
