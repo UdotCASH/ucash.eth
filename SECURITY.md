@@ -1,4 +1,4 @@
-# 🔒 Security Guide - ucash.eth
+# 🔒 Security Guide - ucash.eth {#security-top}
 
 **Last Updated**: 2026-04-28
 
@@ -353,6 +353,22 @@ UCASH is not responsible for:
 ---
 
 **🔒 Remember**: Security is everyone's responsibility. Stay vigilant, verify everything, and never trust blindly.
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Etherscan](https://etherscan.io) •
+[Report Security Issue](mailto:security@u.cash)
+
+[↑ Back to top](#security-top)
 
 ---
 

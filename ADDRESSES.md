@@ -1,4 +1,4 @@
-# 📋 Verified Addresses - ucash.eth
+# 📋 Verified Addresses - ucash.eth {#addresses-top}
 
 **Last Updated**: 2026-04-28
 **Repository**: https://github.com/UdotCASH/ucash.eth
@@ -136,6 +136,22 @@ When verifying UCASH contracts, check:
 ---
 
 **⚠️ FINAL REMINDER**: This is the ONLY official source for UCASH addresses. Always verify against this repository before sending funds, tokens, or interacting with any contracts.
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Etherscan](https://etherscan.io/address/0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F) •
+[Website](https://u.cash)
+
+[↑ Back to top](#addresses-top)
 
 ---
 

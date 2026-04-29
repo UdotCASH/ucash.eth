@@ -1,4 +1,4 @@
-# 🔗 Supported Wallets & Explorers - ucash.eth
+# 🔗 Supported Wallets & Explorers - ucash.eth {#wallets-top}
 
 **Last Updated**: 2026-04-28
 
@@ -1041,6 +1041,22 @@ Always verify transactions and addresses through:
 - [Subdomain Directory](SUBDOMAINS.md)
 - [Security Guide](SECURITY.md)
 - [Integration Guide](INTEGRATION.md)
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Etherscan](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37) •
+[Website](https://u.cash)
+
+[↑ Back to top](#wallets-top)
 
 ---
 

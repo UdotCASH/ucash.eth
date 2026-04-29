@@ -1,4 +1,4 @@
-# 🌐 ucash.eth - Official ENS Directory
+# 🌐 ucash.eth - Official ENS Directory {#readme-top}
 
 <div align="center">
 
@@ -125,7 +125,7 @@ UCASH is a **network loyalty, rewards, and utility asset** building innovative W
 
 **Legend**: ✅ Completed | 📍 Current | 🔄 Planned
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -163,7 +163,7 @@ UCASH operates TLDs open for public registration:
 
 **📘 For complete multi-chain details, see [NETWORKS.md](NETWORKS.md)**
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -206,7 +206,7 @@ UCASH operates TLDs open for public registration:
 
 **📘 For the complete subdomain directory, see [SUBDOMAINS.md](SUBDOMAINS.md)**
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -237,7 +237,7 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 - ✅ **Shareable Links** - Easy to share .onl URLs with non-crypto users
 - ✅ **CDN Integration** - Optimized content delivery
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -275,7 +275,7 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 **Sub-Subnames (45 subdomains - 3rd-level names)**
 - Bridge contracts (9), Smart contracts (6), AI agents (12), Bots (8), Token deployments (10)
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -309,7 +309,7 @@ ucash.eth
 
 **View all records on**: [app.ens.domains/ucash.eth](https://app.ens.domains/ucash.eth)
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -341,7 +341,7 @@ ucash.eth
 
 **📘 For comprehensive wallet and explorer compatibility, see [WALLETS.md](WALLETS.md)**
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -370,7 +370,7 @@ ucash.eth
 
 **📘 For complete security information, see [SECURITY.md](SECURITY.md)**
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -413,7 +413,7 @@ await wallet.sendTransaction({
 
 **📘 For complete integration examples, see [INTEGRATION.md](INTEGRATION.md)**
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -446,7 +446,7 @@ await wallet.sendTransaction({
 <a href="https://github.com/UdotCASH" style="text-decoration:none">GitHub</a> •
 <a href="https://t.me/ucash" style="text-decoration:none">Telegram</a>
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -461,7 +461,7 @@ await wallet.sendTransaction({
 - [INTEGRATION](INTEGRATION.md) - Developer integration guide
 - [FAQ](FAQ.md) - Frequently asked questions
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)
 
 ---
 
@@ -513,4 +513,4 @@ Official UCASH team will **NEVER**:
 [Etherscan](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37) •
 [Website](https://u.cash)
 
-[↑ Back to top](#-ucasheth---official-ens-directory)
+[↑ Back to top](#readme-top)

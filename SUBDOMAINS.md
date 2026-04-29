@@ -1,4 +1,4 @@
-# 🌳 Subdomain Directory - ucash.eth
+# 🌳 Subdomain Directory - ucash.eth {#subdomains-top}
 
 **Last Updated**: 2026-04-28
 
@@ -496,6 +496,22 @@ If you encounter issues with a subdomain:
 - **Configuration**: ops@u.cash
 - **Security**: security@u.cash
 - **General**: info@u.cash
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Subdomains](https://app.ens.domains/ucash.eth?tab=subnames) •
+[Website](https://u.cash)
+
+[↑ Back to top](#subdomains-top)
 
 ---
 

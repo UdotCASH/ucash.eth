@@ -1,4 +1,4 @@
-# 🔌 Integration Guide - ucash.eth
+# 🔌 Integration Guide - ucash.eth {#integration-top}
 
 **Last Updated**: 2026-04-28
 
@@ -634,6 +634,22 @@ testENSIntegration();
 ---
 
 **💡 Tip**: Always test your integration on testnet before using on mainnet!
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Etherscan](https://etherscan.io) •
+[Developer Support](mailto:dev@u.cash)
+
+[↑ Back to top](#integration-top)
 
 ---
 

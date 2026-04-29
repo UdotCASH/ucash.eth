@@ -1,4 +1,4 @@
-# ❓ Frequently Asked Questions - ucash.eth
+# ❓ Frequently Asked Questions - ucash.eth {#faq-top}
 
 **Last Updated**: 2026-04-28
 
@@ -695,6 +695,22 @@ console.log(batch);    // 0x...
 - Email abuse@u.cash
 - Include evidence (screenshots, transaction hashes)
 - Provide context and details
+
+---
+
+## 🎯 Quick Navigation
+
+**📘 Documentation:**
+- [README](README.md) • [NETWORKS](NETWORKS.md) • [WALLETS](WALLETS.md)
+- [ADDRESSES](ADDRESSES.md) • [SUBDOMAINS](SUBDOMAINS.md) • [SECURITY](SECURITY.md)
+- [INTEGRATION](INTEGRATION.md) • [FAQ](FAQ.md)
+
+**🔗 External Links:**
+- [ENS Manager](https://app.ens.domains/ucash.eth) •
+[Etherscan](https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37) •
+[Website](https://u.cash)
+
+[↑ Back to top](#faq-top)
 
 ---
 
