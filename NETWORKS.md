@@ -1,16 +1,16 @@
 # 🌐 Multi-Chain Networks - ucash.eth {#networks-top}
 
-**Last Updated**: 2026-04-28
+**Last Updated**: 2026-04-29
 
 ---
 
 ## Overview
 
-UCASH maintains a consistent multi-chain presence across 15+ blockchain naming services and networks. This document provides comprehensive information about all network registrations, naming services, and chain-specific deployments.
+UCASH maintains a consistent multi-chain presence across 26+ blockchain naming services and networks. This document provides comprehensive information about all network registrations, naming services, and chain-specific deployments.
 
 **Quick Stats:**
-- **Total Networks**: 15+
-- **Naming Services**: ENS, Base Names, Linea Names, SpaceID, SNS, Unstoppable Domains, OP Domains, BNS, XRPNS, LTC Names, XMR Names, WeiNS, TAO NS, XNS, TonNS, Ada Names, SuiNS, Lens, FIO
+- **Total Networks**: 26+
+- **Naming Services**: ENS, Base Names, Linea Names, Aragon DAO, SpaceID, SNS, Unstoppable Domains, OP Domains, BNS, XRPNS, LTC Names, XMR Names, BCH Names, WeiNS, TAO NS, XNS, TonNS, Ada Names, SuiNS, Lens, FIO
 - **Status**: All networks 🟡 In Development
 
 ---
@@ -35,7 +35,18 @@ UCASH maintains a consistent multi-chain presence across 15+ blockchain naming s
 | `ucash.xrp` | XRP | **XRP Name Service** | [xrpns.com](https://app.xrpns.com/ucash) | 🟡 Dev |
 | `ucash.ltc` | Litecoin | **LTC Names** | [ud.me](https://ud.me/ucash.ltc) | 🟡 Dev |
 | `ucash.xmr` | Monero | **XMR Names** | [ud.me](https://ud.me/ucash.xmr) | 🟡 Dev |
+| `ucash.bch` | Bitcoin Cash | **BCH Names** | [ud.me](https://ud.me/ucash.bch) | 🟡 Dev |
+| `ucash.brave` | Brave | **Brave Domain** | [ud.me](https://ud.me/ucash.brave) | 🟡 Dev |
+| `ucash.onchain` | OnChain | **OnChain Domain** | [ud.me](https://ud.me/ucash.onchain) | 🟡 Dev |
+| `ucash.agi` | AI | **AI Domain** | [ud.me](https://ud.me/ucash.agi) | 🟡 Dev |
+| `ucash.robot` | Robot | **Robot Domain** | [ud.me](https://ud.me/ucash.robot) | 🟡 Dev |
+| `ucash.web3` | Web3 | **Web3 Domain** | [ud.me](https://ud.me/ucash.web3) | 🟡 Dev |
 | `ucash.u` | Universal | **Ucosystem TLD** | [ud.me](https://ud.me/ucash.u) | 🟢 Active |
+| `ucash.wei` | Wei | **WeiNS** | [zfi.wei.is](https://zfi.wei.is/domains/#ucash) | 🟡 Dev |
+| `ucash.id.wei` | Wei ID | **WeiNS** | [zfi.wei.is](https://zfi.wei.is/domains/#ucash.id) | 🟡 Dev |
+| `ucash.tao` | Bittensor | **TAO Name Service** | [nametensor.io](https://nametensor.io/asset/ucash) | 🟡 Dev |
+| `ucash.xns` | Ethereum | **XNS** | [etherscan.io](https://etherscan.io/address/0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4) | 🟡 Dev |
+| `ucash.ton` | TON | **TonNS** | [dns.ton.org](https://dns.ton.org/#ucash) | 🟡 Dev |
 
 ---
 
@@ -247,6 +258,91 @@ UCASH maintains a consistent multi-chain presence across 15+ blockchain naming s
   - Exodus
   - Ledger
   - Trust Wallet
+
+---
+
+### BCH Names
+
+**Name**: `ucash.bch`
+
+- **Network**: Bitcoin Cash
+- **Registry**: [ud.me](https://ud.me/ucash.bch)
+- **Explorer**: [Blockstream BCH](https://blockstream.info/bch)
+- **Wallet Support**:
+  - Bitcoin Cash Core
+  - Exodus
+  - Ledger
+  - Trust Wallet
+
+---
+
+### Brave Domains
+
+**Name**: `ucash.brave`
+
+- **Network**: Brave/Unstoppable Domains
+- **Registry**: [ud.me](https://ud.me/ucash.brave)
+- **Purpose**: Brave browser integration domain
+- **Features**:
+  - Brave wallet integration
+  - Privacy-focused browsing
+  - Web3 identity
+
+---
+
+### OnChain Domains
+
+**Name**: `ucash.onchain`
+
+- **Network**: Unstoppable Domains
+- **Registry**: [ud.me](https://ud.me/ucash.onchain)
+- **Purpose**: On-chain identity domain
+- **Features**:
+  - On-chain verification
+  - Digital identity
+  - Blockchain presence
+
+---
+
+### AI Domains
+
+**Name**: `ucash.agi`
+
+- **Network**: Unstoppable Domains
+- **Registry**: [ud.me](https://ud.me/ucash.agi)
+- **Purpose**: AI/AGI identity domain
+- **Features**:
+  - AI service integration
+  - AGI protocol compatibility
+  - Future AI ecosystem
+
+---
+
+### Robot Domains
+
+**Name**: `ucash.robot`
+
+- **Network**: Unstoppable Domains
+- **Registry**: [ud.me](https://ud.me/ucash.robot)
+- **Purpose**: Robot/automation identity domain
+- **Features**:
+  - Bot identification
+  - Automation services
+  - Machine-readable identity
+
+---
+
+### Web3 Domains
+
+**Name**: `ucash.web3`
+
+- **Network**: Unstoppable Domains
+- **Registry**: [ud.me](https://ud.me/ucash.web3)
+- **Purpose**: Web3 identity domain
+- **Features**:
+  - Web3 ecosystem integration
+  - DApp compatibility
+  - Decentralized identity
 
 ---
 
@@ -595,9 +691,9 @@ async function resolveOnAllNetworks() {
 
 | Metric | Count |
 |--------|-------|
-| **Total Networks** | 15+ |
+| **Total Networks** | 26+ |
 | **ENS Subdomains** | 300+ |
-| **Naming Services** | 12+ |
+| **Naming Services** | 18+ |
 | **Public TLDs Operated** | 2 (.U, @U) |
 | **Cross-Chain Bridges** | 9+ |
 | **Token Deployments** | 10+ |
@@ -667,6 +763,6 @@ async function resolveOnAllNetworks() {
 
 ---
 
-*Last Updated: 2026-04-28*
-*Total Networks: 15+*
+*Last Updated: 2026-04-29*
+*Total Networks: 26+*
 *Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*

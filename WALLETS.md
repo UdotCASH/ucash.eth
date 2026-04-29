@@ -1,6 +1,6 @@
 # 🔗 Supported Wallets & Explorers - ucash.eth {#wallets-top}
 
-**Last Updated**: 2026-04-28
+**Last Updated**: 2026-04-29
 
 ---
 
@@ -9,9 +9,9 @@
 This document provides comprehensive information about wallet and explorer compatibility for all UCASH naming services across multiple blockchain networks.
 
 **Quick Reference:**
-- **Total Networks Supported**: 15+
-- **Wallet Compatibility**: 40+ wallets
-- **Explorer Support**: 30+ explorers
+- **Total Networks Supported**: 26+
+- **Wallet Compatibility**: 50+ wallets
+- **Explorer Support**: 35+ explorers
 - **Status**: All integrations 🟡 In Development
 
 ---
@@ -450,7 +450,28 @@ This document provides comprehensive information about wallet and explorer compa
 
 **Names**: `ucash.polygon`, `ucash.ltc`, `ucash.xmr`, `ucash.bch`, `ucash.u`, `ucash.brave`, `ucash.onchain`, `ucash.agi`, `ucash.robot`, `ucash.web3`
 
-### Wallets
+### About Unstoppable Domains
+
+Unstoppable Domains provides blockchain-based domain names that you purchase once and own forever. All UCASH UD domains are minted as NFTs and can be used for:
+- Receiving crypto payments (replace wallet addresses)
+- Building decentralized websites (hosted on IPFS/arweave)
+- Cross-platform login (Web3 authentication)
+- Digital identity verification
+
+### All UCASH Unstoppable Domains
+
+| Domain | Purpose | Status |
+|--------|---------|--------|
+| `ucash.polygon` | Polygon network identity | 🟡 Dev |
+| `ucash.u` | **Universal Web3 TLD** (22,000+ claimed) | 🟢 Active |
+| `ucash.xmr` | Monero identity | 🟡 Dev |
+| `ucash.ltc` | Litecoin identity | 🟡 Dev |
+| `ucash.bch` | Bitcoin Cash identity | 🟡 Dev |
+| `ucash.brave` | Brave browser integration | 🟡 Dev |
+| `ucash.onchain` | On-chain identity | 🟡 Dev |
+| `ucash.agi` | AI/AGI identity | 🟡 Dev |
+| `ucash.robot` | Robot/automation identity | 🟡 Dev |
+| `ucash.web3` | Web3 ecosystem identity | 🟡 Dev |
 
 #### MetaMask
 - **Support**: ✅ UD Partner
@@ -904,45 +925,168 @@ BNS (Bitcoin Network System) is a decentralized network based on Rings Network, 
 
 ## Additional Naming Services
 
-### Wei Names (`ucash.wei`)
-- **Registry**: [wei.is](https://zfi.wei.is/domains/#ucash)
-- **Wallet**: Wei-compatible wallets
-- **Explorer**: Wei blockchain explorer
+### WeiNS (Wei Name Service)
 
-### TAO Names (`ucash.tao`)
+**Names**: `ucash.wei`, `ucash.id.wei`
+
+#### About WeiNS
+WeiNS is a decentralized naming service built on the Wei blockchain, providing human-readable names for Wei addresses and identity management.
+
+#### Wallets
+- **Wei Wallet**: Official Wei blockchain wallet
+- **Wei-compatible wallets**: Third-party wallets with WeiNS support
+- **Multi-chain wallets**: Wallets that support Wei blockchain
+
+#### Apps & Managers
+- **Registry**: [zfi.wei.is](https://zfi.wei.is/domains/#ucash)
+- **WeiNS Manager**: [wei.is](https://wei.is)
+- **Purpose**: Register and manage .wei domains
+
+#### Explorers
+- **Wei Explorer**: [wei.is](https://wei.is)
+- **ZFi Explorer**: [zfi.wei.is](https://zfi.wei.is)
+
+---
+
+### TAO Name Service (Bittensor)
+
+**Name**: `ucash.tao`
+
+#### About TAO NS
+The TAO Name Service provides decentralized naming for the Bittensor network, a decentralized machine learning network.
+
+#### Wallets
+- **Bittensor Wallet**: Official Bittensor network wallet
+- **TAO-compatible wallets**: Wallets supporting Bittensor
+- **Cold wallets**: Hardware wallet support
+
+#### Apps & Managers
 - **Registry**: [nametensor.io](https://nametensor.io/asset/ucash)
-- **Wallet**: Bittensor-compatible wallets
-- **Explorer**: Bittensor explorer
+- **Bittensor Hub**: [bittensor.com](https://bittensor.com)
+- **Purpose**: Register and manage TAO names
 
-### XNS (`ucash.xns`)
+#### Explorers
+- **NameTensor**: [nametensor.io](https://nametensor.io)
+- **Bittensor Explorer**: [tao.subnet.monitor](https://tao.subnet.monitor)
+
+---
+
+### XNS (X Name Service)
+
+**Name**: `ucash.xns`
+
+#### About XNS
+XNS is an Ethereum-based naming service providing decentralized identity and naming capabilities.
+
+#### Contract Information
+- **Contract Address**: 0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4
+- **Network**: Ethereum Mainnet
+- **Explorer**: [Etherscan](https://etherscan.io/address/0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4)
+
+#### Wallets
+- **MetaMask**: Native XNS support
+- **Trust Wallet**: XNS-compatible
+- **Coinbase Wallet**: With XNS integration
+- **All Ethereum wallets**: Via web3 integration
+
+#### Apps & Managers
 - **Registry**: [Etherscan](https://etherscan.io/address/0xbcC91B9b358EAb174E2428AFdfE91380eD1B68f4)
-- **Wallet**: Ethereum wallets with XNS support
-- **Explorer**: Etherscan
+- **XNS Manager**: Contract-based management
+- **Purpose**: Register and manage XNS names
 
-### TonNS (`ucash.ton`)
+---
+
+### TonNS (TON Name Service)
+
+**Name**: `ucash.ton`
+
+#### About TonNS
+TON Name Service provides decentralized naming for The Open Network (TON) blockchain, originally developed by Telegram.
+
+#### Wallets
+- **Tonkeeper**: Popular TON wallet
+- **MyTonWallet**: Multi-platform TON wallet
+- **TON Wallet**: Official TON wallet
+- **Trust Wallet**: TON support included
+
+#### Apps & Managers
 - **Registry**: [dns.ton.org](https://dns.ton.org/#ucash)
-- **Wallet**: TON-compatible wallets
-- **Explorer**: TON explorer
+- **TON DNS Manager**: [dns.ton.org](https://dns.ton.org)
+- **Purpose**: Register and manage .ton domains
 
-### Ada Handles (`ada@ucash`)
+#### Explorers
+- **TON Explorer**: [tonscan.io](https://tonscan.io)
+- **TON DNS**: [dns.ton.org](https://dns.ton.org)
+
+---
+
+### Aragon DAO
+
+**Name**: `ucash.dao.eth`
+
+#### About Aragon DAO
+Aragon provides tools for creating and managing decentralized autonomous organizations (DAOs) on Ethereum.
+
+#### Wallets
+- **MetaMask**: Native Aragon support
+- **Coinbase Wallet**: DAO-compatible
+- **Gnosis Safe**: Multi-sig DAO treasury
+- **All Ethereum wallets**: Via web3
+
+#### Apps & Managers
+- **Aragon App**: [app.aragon.org](https://app.aragon.org/dao/ethereum-mainnet/ucash.dao.eth/dashboard)
+- **Aragon Client**: [aragon.org](https://aragon.org)
+- **Purpose**: Manage DAO governance and voting
+
+#### Explorers
+- **Aragon Explorer**: [explorer.aragon.org](https://explorer.aragon.org)
+- **Etherscan**: View DAO contracts
+
+---
+
+### Ada Handles (Cardano)
+
+**Handle**: `ada@ucash`
+
+#### Registry
 - **Registry**: [handle.me](https://handle.me/ucash)
-- **Wallet**: Cardano wallets
-- **Explorer**: Cardano explorer
+- **Wallet**: Cardano wallets (Daedalus, Yoroi, Lace)
+- **Explorer**: [cardanoscan.io](https://cardanoscan.io)
 
-### Sui Names (`sui@ucash`)
+---
+
+### Sui Names (Sui)
+
+**Handle**: `sui@ucash`
+
+#### Registry
 - **Registry**: [suivision.xyz](https://suivision.xyz)
-- **Wallet**: Sui-compatible wallets
-- **Explorer**: Sui explorer
+- **Wallet**: Sui Wallet, Suiet, Sui Compass
+- **Explorer**: [suiscan.xyz](https://suiscan.xyz)
 
-### Lens Handles (`lens@ucash`)
+---
+
+### Lens Handles (Lens Protocol)
+
+**Handle**: `lens@ucash`
+
+#### Registry
 - **Registry**: [lens.xyz](https://lens.xyz)
 - **Wallet**: Lens-compatible wallets
-- **Explorer**: Lens explorer
+- **Explorer**: [lenster.xyz](https://lenster.xyz)
 
-### FIO Handles (`fio@ucash`)
+---
+
+### FIO Handles (FIO Protocol)
+
+**Handle**: `fio@ucash`
+
+#### Registry
 - **Registry**: [fio.net](https://fio.net)
 - **Wallet**: FIO-compatible wallets
-- **Explorer**: FIO explorer
+- **Explorer**: [fio.net](https://fio.net)
+
+**Public TLD**: `@U` handles opening for public registration
 
 ---
 
@@ -1060,7 +1204,7 @@ Always verify transactions and addresses through:
 
 ---
 
-*Last Updated: 2026-04-28*
-*Total Wallets Supported: 40+*
-*Total Explorers Supported: 30+*
+*Last Updated: 2026-04-29*
+*Total Wallets Supported: 50+*
+*Total Explorers Supported: 35+*
 *Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
