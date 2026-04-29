@@ -1,6 +1,6 @@
 # 🌳 Subdomain Directory - ucash.eth
 
-**Last Updated**: 2026-04-25
+**Last Updated**: 2026-04-28
 
 ---
 
@@ -447,7 +447,7 @@ Chain-specific token deployments:
 
 - **Website**: https://u.cash
 - **Email**: info@u.cash
-- **Security**: security@ucash.eth
+- **Security**: security@u.cash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 - **GitHub**: [UdotCASH](https://github.com/UdotCASH)
 - **Telegram**: t.me/ucash
@@ -492,12 +492,12 @@ Visit: https://app.ens.domains/name/app.ucash.eth
 ### Report Problems
 
 If you encounter issues with a subdomain:
-- **DNS Issues**: dns@ucash.eth
-- **Configuration**: ops@ucash.eth
-- **Security**: security@ucash.eth
+- **DNS Issues**: dns@u.cash
+- **Configuration**: ops@u.cash
+- **Security**: security@u.cash
 - **General**: info@u.cash
 
 ---
 
-*Last Updated: 2026-04-25*
-*Next Review: 2026-05-25*
+*Last Updated: 2026-04-28*
+*Next Review: 2026-05-28*

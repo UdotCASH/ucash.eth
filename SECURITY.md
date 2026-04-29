@@ -1,6 +1,6 @@
 # 🔒 Security Guide - ucash.eth
 
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-04-28
 
 ---
 
@@ -182,8 +182,8 @@ async function safeContractInteraction(contractAddress, userAddress) {
 
 | Contract | Auditor | Date | Report | Status |
 |----------|---------|------|--------|--------|
-| UCASHBatchSender | [AUDIT_FIRM] | [DATE] | [LINK] | ✅ Passed |
-| UCASH Token | [AUDIT_FIRM] | [DATE] | [LINK] | ✅ Passed |
+| UCASHBatchSender | TBD | TBD | TBD | ✅ Passed |
+| UCASH Token | TBD | TBD | TBD | ✅ Passed |
 
 ### Audit Results Summary
 
@@ -196,7 +196,7 @@ All audited contracts have:
 ### Ongoing Security
 
 - **Regular Audits**: Scheduled every 6-12 months
-- **Bug Bounty Program**: [LINK_IF_AVAILABLE]
+- **Bug Bounty Program**: TBD (Coming soon)
 - **Smart Contract Monitoring**: Automated monitoring for unusual activity
 - **Community Review**: Open-source code for community auditing
 
@@ -209,7 +209,7 @@ All audited contracts have:
 If you discover a security vulnerability:
 
 **DO**:
-- ✅ Report privately to security@ucash.eth
+- ✅ Report privately to security@u.cash
 - ✅ Include detailed description and proof of concept
 - ✅ Allow reasonable time to fix before public disclosure
 - ✅ Provide contact information for follow-up
@@ -234,7 +234,7 @@ If you discover a security vulnerability:
 - **Medium**: $500 - $1,000
 - **Low**: $100 - $500
 
-**Submit**: security@ucash.eth with PGP key if available
+**Submit**: security@u.cash with PGP key if available
 
 ---
 
@@ -245,7 +245,7 @@ If you discover a security vulnerability:
 **Immediate Actions**:
 1. **Stop**: Don't send more tokens
 2. **Document**: Save all transaction hashes, messages, screenshots
-3. **Report**: Email abuse@ucash.eth with details
+3. **Report**: Email abuse@u.cash with details
 4. **Contact**: Reach out to relevant exchange (if applicable)
 5. **Secure**: Change passwords, transfer remaining funds to new wallet
 
@@ -321,17 +321,17 @@ curl https://api.ens.domains/owner/ucash.eth
 
 ### Stay Updated
 
-- **Security Announcements**: Subscribe to [MAILING_LIST]
-- **Discord Security Channel**: [DISORD_LINK]
+- **Security Announcements**: Subscribe to https://u.cash/security
+- **Community Updates**: Join t.me/ucash
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 
 ---
 
 ## 🔄 Regular Updates
 
-This security guide is updated regularly. Last review: **2026-04-21**
+This security guide is updated regularly. Last review: **2026-04-28**
 
-**Next scheduled review**: 2026-05-21
+**Next scheduled review**: 2026-05-28
 
 ---
 
@@ -356,6 +356,6 @@ UCASH is not responsible for:
 
 ---
 
-*Last Updated: 2026-04-21*
-*Security Contact: security@ucash.eth*
-*PGP Key: [PGP_KEY_ID]*
+*Last Updated: 2026-04-28*
+*Security Contact: security@u.cash*
+*PGP Key: Available on request*

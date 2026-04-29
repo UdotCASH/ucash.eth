@@ -1,6 +1,6 @@
 # 📋 Verified Addresses - ucash.eth
 
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-04-28
 **Repository**: https://github.com/UdotCASH/ucash.eth
 
 ---
@@ -24,7 +24,7 @@ Official UCASH team will **NEVER**:
 ENS: ucash.eth
 Status: ✅ Active
 Address: 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
-Owner: [OWNER_ADDRESS]
+Owner: See ENS Manager (https://app.ens.domains/ucash.eth)
 ```
 
 ### Verification Methods
@@ -110,8 +110,8 @@ This is the primary address for `ucash.eth` and all official UCASH operations.
 ## 📞 Contact
 
 ### Security Issues
-- **Email**: security@ucash.eth
-- **Abuse**: abuse@ucash.eth
+- **Email**: security@u.cash
+- **Abuse**: abuse@u.cash
 
 ### General Inquiries
 - **Email**: info@u.cash
@@ -139,5 +139,5 @@ When verifying UCASH contracts, check:
 
 ---
 
-*Last Updated: 2026-04-21*
-*Next Review: 2026-05-21*
+*Last Updated: 2026-04-28*
+*Next Review: 2026-05-28*

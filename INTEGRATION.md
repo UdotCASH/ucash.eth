@@ -1,6 +1,6 @@
 # 🔌 Integration Guide - ucash.eth
 
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-04-28
 
 ---
 
@@ -22,7 +22,7 @@ const provider = new ethers.JsonRpcProvider('https://eth.llamarpc.com');
 
 // Resolve ENS to address
 const address = await provider.resolveName('ucash.eth');
-console.log(address); // [RESOLVED_ADDRESS]
+console.log(address); // 0x1CE1E8d2dc83A3051adA2974D9A6c0AD1E5F4E0F
 ```
 
 ```javascript
@@ -614,10 +614,17 @@ testENSIntegration();
 - **Twitter**: [@UdotCASH](https://twitter.com/UdotCASH) | [@ucashx](https://twitter.com/ucashx) | [@UdotONL](https://twitter.com/UdotONL)
 - **Telegram**: t.me/ucash
 - **Email**: info@u.cash
+- **Security**: security@u.cash
+- **Wallet Compatibility**: See [WALLETS.md](WALLETS.md)
 
 ---
 
 ## 🔄 Changelog
+
+### 2026-04-28
+- Updated email addresses to @u.cash
+- Added link to WALLETS.md
+- Updated placeholder addresses
 
 ### 2026-04-21
 - Initial integration guide
@@ -630,5 +637,5 @@ testENSIntegration();
 
 ---
 
-*Last Updated: 2026-04-21*
-*Integration Support: dev@ucash.eth*
+*Last Updated: 2026-04-28*
+*Integration Support: dev@u.cash*
