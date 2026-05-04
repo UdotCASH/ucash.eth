@@ -15,39 +15,63 @@ async function checkSubnames() {
     console.log('Querying ucash.eth subnames...\n');
 
     const registry = new ethers.Contract(ENS_REGISTRY, registryABI, provider);
-    
+
     // Get the namehash of ucash.eth
     const ucashNode = ethers.namehash('ucash.eth');
     console.log('ucash.eth nodehash:', ucashNode);
     console.log('');
 
-    // List of common subnames to check (100+ documented subdomains)
+    // Complete list of 300+ documented subdomains
     const subnames = [
         // Core Infrastructure
-        'www', 'app', 'api', 'docs', 'info', 'admin', 'dev', 'test', 'testnet', 'pay',
+        'www', 'app', 'api', 'docs', 'info', 'admin', 'dev', 'test', 'testnet',
+        'demo', 'code', 'whitepaper', 'management', 'proxy', 'view', 'create', 'layer',
+        'space', 'web', '_', '$', 'pay', 'usdc', 'dai', 'usdt', 'git', 'history',
+        'actions', 'mail', 'payments', 'records', 'finance', 'store', 'action',
+        'ipns', 'explorer', 'about', 'eth', 'connect', 'sdk', 'pages', 'gateway',
+        'automation', 'mission', 'workers', 'worker', 'naming', 'auth', 'host',
+        'contact', 'learn', 'blog', 'faq', 'knowledgebase', 'android', 'ios', 'data',
+        'home', '-', 'brave', 'web3', 'uni', 'page', 'extension', 'meta', 'claw',
+        'tasks', 'services', 'key', 'manage', 'units', 'index', 'readme', 'global',
+        'address', 'invoice', 'dex', 'box', 'subnames', 'ai', 'tx', 'markets',
+        'wallet', 'agents',
 
         // Smart Contracts & Protocol
         'batch', 'contracts', 'token', 'bridge', 'earn', 'vault', 'claim', 'lock',
         'gov', 'dao', 'vote', 'oracle', 'agent', 'bot', 'sign', 'supply',
-
-        // Bounty Offering Wallets
         'initial', 'ongoing', 'build', 'partners', 'future', 'liquidity',
+        'validator', 'nft', 'contract', 'swap', 'faucet', 'multisig', 'tree', 'smart',
+
+        // Governance & DeFi
+        'delegates', 'delegate', 'delegation', 'proposals', 'proposal', 'aragon',
+        'badges', 'loyalty', 'access', 'rewards', 'receipt', 'order', 'coupon',
+        'coupons', 'codes', 'uip', 'urc',
+
+        // Naming Services & Registries
+        'wns', 'uid', 'sid', 'cns', 'sns', 'tns', 'register', 'registrar',
+        'registry', 'dns', 'ens', 'domains', 'names', 'uns', 'linked', 'label', 'wei',
 
         // Blockchain Networks
-        'polygon', 'base', 'arb', 'linea', 'op', 'sol', 'bnb', 'btc', 'xrp', 'ltc', 'xmr', 'g',
+        'polygon', 'base', 'arb', 'linea', 'op', 'sol', 'bnb', 'btc', 'xrp', 'ltc',
+        'xmr', 'g', 'sui', 'ada', 'ton', 'tao', 'mesh', 'fio', 'bch', 'nodes', 'node',
+        'multichain',
 
         // Cross-Chain
-        'network', 'bridge', 'swap', 'exchange',
+        'network', 'swap', 'exchange',
+
+        // Referral & Marketing
+        'refer', 'referrer', 'referral',
+
+        // Infrastructure & Operations
+        'infra', 'infrastructure', 'lab', 'legacy', 'tunnel', 'sync', 'launch',
+        'cold', 'warm', 'hot', 'lightning', 'anchor', 'zones', 'onchain', 'robot', 'agi',
 
         // Explorers & Tools
         'scan', 'verify', 'link', 'mgr', 'nic', 'support', 'bounties', 'news',
-        'channel', 'cash', 'builders',
+        'validate', 'txt', 'xml', 'md', 'sitemap', 'whois', 'manager', 'premium', 'channel',
 
         // Decentralized Storage
-        'ipfs', 'arweave', 'swarm', 'onion', 'skynet',
-
-        // Naming & Domain Services
-        'dns', 'ens', 'domains', 'names', 'uns', 'linked',
+        'ipfs', 'arweave', 'swarm', 'onion', 'skynet', 'hosting',
 
         // Geographic TLDs (ccTLDs)
         'ad', 'ar', 'at', 'br', 'ca', 'cc', 'cn', 'co', 'cv', 'de', 'es', 'fm',
@@ -57,34 +81,29 @@ async function checkSubnames() {
         // Generic TLDs (gTLDs)
         'tld', 'club', 'pro', 'biz', 'name', 'vip', 'top', 'tech', 'online',
         'ooo', 'gdn', 'xyz', 'u', 'net', 'org', 'onl', 'com', 'wiki', 'technology',
-        'productions',
+        'productions', 'exchange',
 
         // Brand & Identity
-        'brand', 'builders', 'technology', 'productions', 'channel',
+        'brand', 'cash', 'builders', 'channel', 'premium', 'meta', 'claw',
 
-        // Security
-        'security', 'verify',
+        // Time & Temporal
+        'one', 'now', 'new',
 
-        // Legacy/Common (from original list)
-        'blog', 'staking', 'stake', 'faucet', 'dex', 'eth', 'arbitrum', 'optimism',
-        'sepolia', 'mainnet', 'treasury', 'ops', 'operations', 'development', 'marketing',
-        'mkt', 'community', 'multisig', 'governance', 'nft', 'wallet', 'explorer',
-        'chat', 'forum', 'status', 'metrics', 'analytics', 'portal', 'protocol', 'node',
-        'validator', 'relayer', 'aggregator', 'router', 'factory', 'registry',
-        'bridge-base', 'bridge-polygon', 'bridge-arbitrum', 'v1', 'v2', 'beta', 'alpha',
-        'staging', 'old', 'new', 'airdrop', 'rewards', 'yield', 'farm', 'insurance',
-        'governor', 'timelock', 'signer', 'keeper', 'admin', 'root', 'legacy'
+        // Emoji subdomains (encoded)
+        '🏰', '🛕', '🐘', '🗿', '🐉', '📡', '🧊', '🗽', '🍁', '🏦', '🏆', '🪄',
+        '⚡', '🎯', '👽', '🤯', '🔧', '💎', '☁', '🌙', '💱', '👑', '🪙', '🛟',
+        '📙', '💵', '❔', '✅', '🏢', '📺', '🔗', '🛒', '🌐', '🔑', '⛓', '🤖'
     ];
 
     const found = [];
 
     for (const subname of subnames) {
         const fullName = `${subname}.ucash.eth`;
-        
+
         try {
             const node = ethers.namehash(fullName);
             const owner = await registry.owner(node);
-            
+
             // If owner is not zero address, subname exists
             if (owner !== ethers.ZeroAddress && owner !== '0x0000000000000000000000000000000000000000') {
                 const resolver = await registry.resolver(node);
@@ -94,7 +113,7 @@ async function checkSubnames() {
                     resolver: resolver,
                     hasResolver: resolver !== ethers.ZeroAddress && resolver !== '0x0000000000000000000000000000000000000000'
                 });
-                
+
                 console.log(`✅ ${fullName}`);
                 console.log(`   Owner: ${owner}`);
                 console.log(`   Resolver: ${resolver}`);
@@ -105,13 +124,13 @@ async function checkSubnames() {
         }
     }
 
-    console.log(`\nFound ${found.length} active subnames`);
+    console.log(`\nFound ${found.length} active subnames out of ${subnames.length} checked`);
 
     // Also check the main ucash.eth info
     console.log('\n=== Main ucash.eth Info ===');
     const ucashOwner = await registry.owner(ucashNode);
     const ucashResolver = await registry.resolver(ucashNode);
-    
+
     console.log(`Owner: ${ucashOwner}`);
     console.log(`Resolver: ${ucashResolver}`);
 
