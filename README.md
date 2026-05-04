@@ -307,7 +307,7 @@ UCASH operates TLDs open for public registration:
 ## 🌳 Live Subnames Overview
 
 > **Total Active Subnames**: 300+<br>
-> **Last Updated**: 2026-04-28<br>
+> **Last Updated**: 2026-05-03<br>
 > **Status**: All 🟡 In Development<br>
 > **Source**: [app.ens.domains/ucash.eth?tab=subnames](https://app.ens.domains/ucash.eth?tab=subnames)
 
@@ -383,13 +383,19 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 ### By Purpose
 
 **Core Services (80+ subdomains)**
-- www, app, api, docs, info, readme, admin, dev, test, testnet, global, pay, tx, address, invoice, dex, box, subnames, ai, usdc, dai, usdt, git, history, actions, mail, payments, records, finance, store, action, ipns, explorer, about, eth, connect, sdk, pages, gateway, automation, mission, workers, worker, naming, auth, host, contact, learn, blog, faq, knowledgebase, android, ios, data, home, -, brave, web3, uni, page, extension, meta, claw, tasks, services, key, manage, units, index
+- www, app, api, docs, info, readme, admin, dev, test, testnet, demo, code, whitepaper, management, proxy, view, create, layer, space, web, _, $, global, pay, tx, address, invoice, dex, box, subnames, ai, usdc, dai, usdt, git, history, actions, mail, payments, records, finance, store, action, ipns, explorer, about, eth, connect, sdk, pages, gateway, automation, mission, workers, worker, naming, auth, host, contact, learn, blog, faq, knowledgebase, android, ios, data, home, -, brave, web3, uni, page, extension, meta, claw, tasks, services, key, manage, units, index, markets, wallet, agents
 
-**DeFi/Financial (36 subdomains)**
-- batch, contracts, contract, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity, validator, nft, wallet, markets, agents, usdc, dai, usdt, units
+**DeFi/Financial (36+ subdomains)**
+- batch, contracts, contract, token, bridge, swap, earn, vault, claim, lock, faucet, gov, dao, vote, oracle, agent, bot, sign, supply, initial, ongoing, build, partners, future, liquidity, validator, nft, multisig, tree, smart, usdc, dai, usdt, units
 
-**Infrastructure (23 subdomains)**
-- scan, verify, link, mgr, nic, support, bounties, news, network, validate, txt, xml, md, sitemap, whois, manager, dns, ens, domains, names, uns, linked
+**Governance & DeFi (18+ subdomains)**
+- delegates, delegate, delegation, proposals, proposal, aragon, badges, loyalty, access, rewards, receipt, order, coupon, coupons, codes, uip, urc, gov, dao, vote
+
+**Naming Services & Registries (17+ subdomains)**
+- wns, uid, sid, cns, sns, tns, register, registrar, registry, dns, ens, domains, names, uns, linked, label, wei
+
+**Infrastructure & Operations (30+ subdomains)**
+- infra, infrastructure, lab, legacy, tunnel, sync, launch, cold, warm, hot, lightning, anchor, zones, onchain, robot, agi, scan, verify, link, mgr, nic, support, bounties, news, network, validate, txt, xml, md, sitemap, whois, manager, premium, channel
 
 **Storage/Web3 (6 subdomains)**
 - ipfs, arweave, swarm, onion, skynet, hosting
@@ -397,10 +403,13 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 **Blockchain Networks (24 subdomains)**
 - polygon, base, arb, linea, op, sol, bnb, btc, xrp, ltc, xmr, g, sui, ada, ton, tao, mesh, fio, bch, nodes, node, multichain
 
+**Referral & Marketing (3 subdomains)**
+- refer, referrer, referral
+
 **Geographic (35 subdomains - 2-character ccTLDs)**
 - ad, ar, at, br, ca, cc, cn, co, cv, de, es, fr, id, in, io, it, jp, kr, la, li, ly, me, mx, mw, my, ng, nl, ru, rw, to, uk, us, vn, ws, fm, tv
 
-**Generic TLDs (27 subdomains - 3+ character gTLDs)**
+**Generic TLDs (21 subdomains - 3+ character gTLDs)**
 - tld, club, pro, biz, name, vip, top, tech, online, ooo, gdn, xyz, u, net, org, onl, com, wiki, technology, productions, exchange
 
 **Brand (10 subdomains)**
@@ -408,6 +417,9 @@ When we deploy content to IPFS through a `ucash.eth` subname (e.g., `app.ucash.e
 
 **Emoji/Icon (37 subdomains - emoji-based names)**
 - 🏰, 🛕, 🐘, 🗿, 🐉, 📡, 🧊, 🗽, 🍁, 🏦, 🏆, 🪄, ⚡, 🎯, 👽, 🤯, 🔧, 💎, ☁, 🌙, 💱, 👑, 🪙, 🛟, 📙, 💵, ❔, ✅, 🏢, 📺, 🔗, 🛒, 🌐, 🔑, ⛓, 🤖
+
+**Time & Temporal (3 subdomains)**
+- one, now, new
 
 **Sub-Subnames (45 subdomains - 3rd-level names)**
 - Bridge contracts (9), Smart contracts (6), AI agents (12), Bots (8), Token deployments (10)
@@ -631,7 +643,7 @@ Official UCASH team will **NEVER**:
 
 ---
 
-*Last Updated: 2026-04-29*<br>
+*Last Updated: 2026-05-03*<br>
 *Total ENS Subnames: 300+*<br>
 *Multi-Chain Names: 26+*<br>
 *Repository: [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)*
